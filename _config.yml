@@ -140,3 +140,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://mestara-034cd.netlify.app'
