@@ -10,7 +10,6 @@ palette: green
 mode: light
 base_font: serif
 header:
-  title: DIY
   logo: images/classic/logo.svg
   logo_alt: DIY logo
   has_primary_nav: true
