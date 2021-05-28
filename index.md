@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Mestara
-    subtitle: Grid Section Example
+    subtitle: dsfdsfdsf
     align: center
     grid_items:
       - image: images/logo-1.svg
