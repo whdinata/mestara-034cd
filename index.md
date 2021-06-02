@@ -147,7 +147,7 @@ sections:
         actions: []
         media_position: left
         media_width: thirty-three
-        align: right
+        align: left
         type: feature
         image: images/hanson-deck.png
     feature_padding_vert: small
