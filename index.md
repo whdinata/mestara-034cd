@@ -31,9 +31,6 @@ sections:
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
-      - image: images/logo-6.svg
-        image_alt: Next.js logo
-        image_align: center
       - image: images/logo-7.svg
         image_alt: Gridsome logo
         image_align: center
