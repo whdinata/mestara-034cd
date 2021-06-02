@@ -110,6 +110,7 @@ sections:
         image: images/WhatsApp Image 2021-05-15 at 12.40.03.jpeg
         image_position: top
         subtitle: Senior Project Manager - TIER Mobility Berlin
+        image_has_padding: true
       - title: Dianne Ameter
         subtitle: Software Engineer
         title_align: center
