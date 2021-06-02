@@ -13,7 +13,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/WhatsApp Image 2021-06-01 at 23.09.22 (1).jpeg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
