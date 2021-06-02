@@ -169,7 +169,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Spread the Word
+      - label: Spread the word
         url: '#'
         style: secondary
         has_icon: false
