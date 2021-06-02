@@ -215,16 +215,6 @@ sections:
         image_position: left
         image_width: twenty-five
         title: Mestara Berdaya
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
-        image_alt: Gordon Norman
-        image_position: left
-        image_width: twenty-five
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
