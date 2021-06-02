@@ -202,7 +202,6 @@ sections:
 
           **Hanson Deck,** *App Developer, Studio*
         image: images/classic/icon-2.svg
-        image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
         title: Mentorship
