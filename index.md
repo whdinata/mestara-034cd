@@ -132,7 +132,7 @@ sections:
         media_width: thirty-three
         title: Galuh Ainur Rohmah
       - title: Steffi Melinda
-        subtitle: lorem-ipsum
+        subtitle: Lead Data Science & Analytics - Bonial Germany
         content: >-
           ## Lorem ipsum
 
