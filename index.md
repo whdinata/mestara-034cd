@@ -165,7 +165,7 @@ sections:
           - dolor sit amet
         actions: []
         media_position: right
-        media_width: fifty
+        media_width: fourty
         align: left
         type: feature
         subtitle: lorem-ipsum
