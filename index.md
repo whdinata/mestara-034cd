@@ -99,7 +99,6 @@ sections:
     title: Our programs
   - type: grid_section
     title: Our Team
-    subtitle: Grid Section Example
     actions:
       - label: Join the team
         url: /style-guide
