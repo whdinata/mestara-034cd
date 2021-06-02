@@ -222,10 +222,7 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: Our Next Agenda
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
+    actions: []
     blog_feed_cols: two
     enable_cards: false
     show_recent: true
