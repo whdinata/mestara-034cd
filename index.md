@@ -219,7 +219,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
-    background_color: secondary
+    background_color: primary
   - type: blog_feed_section
     title: Our Next Agenda
     actions: []
