@@ -169,7 +169,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: Spread the Word
         url: '#'
         style: link
         has_icon: false
