@@ -115,6 +115,7 @@ sections:
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
+        subtitle: Lead Data Science & Analytics
       - title: Hugh Saturation
         subtitle: Developer Advocate
         title_align: center
