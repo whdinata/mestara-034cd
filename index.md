@@ -119,7 +119,7 @@ sections:
       - title: Galuh Mauliditya
         subtitle: Developer Advocate
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: images/hilary-ouse.jpg
         image_position: top
     grid_cols: four
     align: center
