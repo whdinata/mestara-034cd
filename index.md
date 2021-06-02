@@ -112,7 +112,6 @@ sections:
         subtitle: Senior Project Manager - TIER Mobility Berlin
         image_has_padding: false
       - title: Steffi Melinda
-        subtitle: Software Engineer
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
