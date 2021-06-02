@@ -166,7 +166,7 @@ sections:
         actions: []
         media_position: right
         media_width: thirty-three
-        align: left
+        align: right
         type: feature
         subtitle: lorem-ipsum
         image: images/brandon-guidelines.png
