@@ -180,7 +180,7 @@ sections:
         type: action
       - label: Partner with us
         url: '#'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
