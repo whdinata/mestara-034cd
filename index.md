@@ -151,7 +151,7 @@ sections:
         align: left
         type: feature
         image: images/brandon-guidelines.png
-      - title: lorem-ipsum
+      - title: Galuh Mauliditya
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
