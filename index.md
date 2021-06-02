@@ -107,7 +107,7 @@ sections:
     grid_items:
       - title: Galuh Ainur Rohmah
         title_align: center
-        image: images/WhatsApp Image 2021-05-15 at 12.40.03.jpeg
+        image: images/Galuh-square.jpeg
         image_position: top
         subtitle: Senior Project Manager - TIER Mobility Berlin
         image_has_padding: false
