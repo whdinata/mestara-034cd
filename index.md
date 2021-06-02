@@ -151,8 +151,7 @@ sections:
       - label: Donate
         url: /pricing
         style: primary
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: primary
         has_icon: false
         icon: arrow-left
