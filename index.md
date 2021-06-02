@@ -173,6 +173,7 @@ sections:
         align: left
         type: feature
         subtitle: lorem-ipsum
+        image: images/brandon-guidelines.png
     feature_padding_vert: small
     background_color: primary
     title: Our Team
