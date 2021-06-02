@@ -130,6 +130,7 @@ sections:
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
+        title: Galuh Ainur Rohmah
     feature_padding_vert: small
     background_color: primary
     title: Our Team
