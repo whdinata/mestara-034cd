@@ -131,7 +131,7 @@ sections:
         media_position: right
         media_width: thirty-three
         title: Galuh Ainur Rohmah
-      - title: lorem-ipsum
+      - title: Steffi Melinda
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
