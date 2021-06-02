@@ -23,7 +23,6 @@ sections:
     background_color: primary
   - type: grid_section
     title: About Mestara
-    subtitle: dsfdsfdsf
     align: center
     grid_items:
       - image: images/logo-1.svg
