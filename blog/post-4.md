@@ -11,7 +11,7 @@ categories:
 tags:
   - _data/tags/jamstack.yaml
   - _data/tags/sourcebit.yaml
-excerpt: 'Date: dd.mm.yyyy'
+excerpt: 'Date: dd.mm.yyyy Location: Desa ... Program'
 thumb_image: images/classic/post-4.png
 thumb_image_alt: Post 4 placeholder image
 image: images/classic/post-4.png
