@@ -111,7 +111,7 @@ sections:
     background_color: primary
     title: Our Team
   - type: grid_section
-    title: Cards Grid Section
+    title: Join our movement
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
