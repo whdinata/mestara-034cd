@@ -159,6 +159,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+        label: Join as Mentor
     actions_position: bottom
     align: center
     padding_top: large
