@@ -172,6 +172,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        subtitle: lorem-ipsum
     feature_padding_vert: small
     background_color: primary
     title: Our Team
