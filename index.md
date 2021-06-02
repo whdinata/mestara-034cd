@@ -107,7 +107,7 @@ sections:
     grid_items:
       - title: Galuh Ainur Rohmah
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: images/WhatsApp Image 2021-05-15 at 12.40.03.jpeg
         image_position: top
         subtitle: Senior Project Manager - TIER Mobility Berlin
       - title: Dianne Ameter
