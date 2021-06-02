@@ -150,7 +150,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: images/hanson-deck.png
+        image: images/brandon-guidelines.png
     feature_padding_vert: small
     background_color: primary
     title: Our Team
