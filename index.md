@@ -131,6 +131,7 @@ sections:
         media_position: right
         media_width: thirty-three
         title: Galuh Ainur Rohmah
+        align: right
       - title: Steffi Melinda
         subtitle: Lead Data Science & Analytics - Bonial Germany
         content: >-
