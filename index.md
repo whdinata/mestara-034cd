@@ -153,6 +153,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/hanson-deck.png
     feature_padding_vert: small
     background_color: primary
     title: Our Team
