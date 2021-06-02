@@ -116,7 +116,7 @@ sections:
         image: images/DSCF6268.jpg
         image_position: top
         subtitle: Lead Data Science & Analytics - Bonial Germany
-      - title: Hugh Saturation
+      - title: 'Galuh '
         subtitle: Developer Advocate
         title_align: center
         image: images/hugh-saturation.jpg
