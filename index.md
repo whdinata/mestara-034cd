@@ -194,7 +194,6 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Our next agenda
-    subtitle: Grid Section Example
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
