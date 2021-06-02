@@ -125,7 +125,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+      - subtitle: 'Galuh Ainur Rohmah, Senior Project Manager - TIER Mobility Berlin'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
