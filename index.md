@@ -96,7 +96,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    title: How we do it
+    title: Our programs
   - type: features_section
     features:
       - title: >-
