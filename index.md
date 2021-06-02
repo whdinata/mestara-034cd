@@ -109,6 +109,7 @@ sections:
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
+        subtitle: Senior Project Manager - TIER MObility Berlin
       - title: Dianne Ameter
         subtitle: Software Engineer
         title_align: center
