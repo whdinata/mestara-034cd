@@ -113,7 +113,7 @@ sections:
         image_has_padding: false
       - title: Steffi Melinda
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: images/DSCF6268.jpg
         image_position: top
         subtitle: Lead Data Science & Analytics - Bonial Germany
       - title: Hugh Saturation
