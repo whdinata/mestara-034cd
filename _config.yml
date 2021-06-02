@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-layout_type: boxed
+layout_type: full-width
 style: classic
 palette: blue
 mode: light
