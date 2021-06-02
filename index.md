@@ -98,7 +98,7 @@ sections:
     background_color: secondary
     title: Our programs
   - type: grid_section
-    title: Team Section
+    title: Our Team
     subtitle: Grid Section Example
     actions:
       - label: Join the team
