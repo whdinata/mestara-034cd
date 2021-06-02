@@ -229,7 +229,7 @@ sections:
     blog_feed_cols: three
     enable_cards: false
     show_recent: true
-    recent_count: 3
+    recent_count: 2
     show_image: true
     show_date: false
     show_categories: false
