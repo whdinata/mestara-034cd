@@ -106,7 +106,6 @@ sections:
         style: primary
     grid_items:
       - title: Galuh Ainur Rohmah
-        subtitle: Co-Founder & CEO
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
