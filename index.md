@@ -160,7 +160,7 @@ sections:
         no_follow: false
         type: action
         label: Join as Mentor
-      - label: lorem-ipsum
+      - label: Join as Mentee
         url: '#'
         style: link
         has_icon: false
