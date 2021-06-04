@@ -13,9 +13,6 @@ sections:
       full potential, work their way out of poverty and able to empower other
       women in their community.
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
