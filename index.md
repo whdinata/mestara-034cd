@@ -43,7 +43,7 @@ sections:
   - type: features_section
     subtitle: How we do it
     features:
-      - title: The Big Title For the Feature
+      - title: Mestara Mentorship
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
