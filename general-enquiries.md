@@ -45,7 +45,7 @@ sections:
         default_value: Please select
         options:
           - Mentorship
-          - Sponsorship
+          - Mestara Berdaya
           - Other
           - lorem-ipsum
       - input_type: textarea
