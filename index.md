@@ -79,6 +79,10 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
+        subtitle: >-
+          Mestara provides 1 month practical skill training to poor and
+          marginalised women to create a better life for themselves and their
+          family by empowering & equipping them with relevant skills
     feature_padding_vert: large
     align: center
     background_color: secondary
