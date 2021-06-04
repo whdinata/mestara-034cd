@@ -110,7 +110,7 @@ sections:
       - title: Galuh Mauliditya
         subtitle: Developer Advocate
         title_align: center
-        image: images/hilary-ouse.jpg
+        image: images/Galuh_Photo 2021.JPG
         image_position: top
     grid_cols: three
     align: center
