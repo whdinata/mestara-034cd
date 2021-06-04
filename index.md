@@ -23,7 +23,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    title: Hey there! We are Mestara
+    title: We are Mestara
   - type: grid_section
     title: About Mestara
     align: center
