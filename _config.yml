@@ -26,7 +26,7 @@ header:
       style: link
     - label: Partner with us
       url: /pricing
-      style: primary
+      style: secondary
   has_anncmnt: true
   anncmnt_content: >-
     Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn
