@@ -86,7 +86,7 @@ footer:
       no_follow: false
       type: action
     - label: Email
-      url: '#'
+      url: 'email:info@mestara@gmail.com'
       style: link
       has_icon: false
       icon: arrow-left
