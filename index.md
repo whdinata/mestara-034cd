@@ -100,10 +100,7 @@ sections:
     title: Our programs
   - type: grid_section
     title: Our Team
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
+    actions: []
     grid_items:
       - title: Galuh Ainur Rohmah
         title_align: center
