@@ -76,7 +76,7 @@ footer:
       icon: linkedin
       icon_position: center
       new_window: true
-    - label: lorem-ipsum
+    - label: Instagram
       url: '#'
       style: link
       has_icon: false
