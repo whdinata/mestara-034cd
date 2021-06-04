@@ -47,7 +47,10 @@ sections:
     subtitle: How we do it
     features:
       - title: Mestara Mentorship
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          21 selected mentees from different cities, universities and
+          backgrounds will take part in 6 weeks of intensive personal
+          development program.
         content: "Our 6 weeks intensive program is for 21 selected new graduates, helping them to achieve their full potential.\_Every week mentees will attend a webinar about different topics to navigate life after college and successfully transition into their career with women who work in the field as speaker. \n\nEach mentee is paired with a mentor who will give honest, practical and real-life advice. Mentees will be divided to small groups where they will work together to solve a complex problem to hone their critical & entrepreneurial thinking.\n"
         actions:
           - label: Learn More
