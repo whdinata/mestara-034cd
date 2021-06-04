@@ -70,7 +70,7 @@ sections:
           and potentially teach other women.
 
 
-          **The goal of the program is to support women to become independents
+          **The goal of the program is to support women to become independent
           and to give them opportunity to support themselves or their family
           financially.**
         actions:
