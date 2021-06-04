@@ -21,6 +21,7 @@ sections:
     padding_bottom: large
     background_color: primary
     title: We are Mestara
+    background_image_size: contain
   - type: grid_section
     title: About Mestara
     align: center
