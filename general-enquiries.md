@@ -44,7 +44,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Mestara Berdaya
+          - Mentorship
           - Sponsorship
           - Other
           - lorem-ipsum
