@@ -44,7 +44,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Donation
+          - Mestara Berdaya
           - Sponsorship
           - Other
       - input_type: textarea
