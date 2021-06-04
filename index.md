@@ -246,23 +246,6 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: primary
-  - type: blog_feed_section
-    title: Our Next Agenda
-    actions: []
-    blog_feed_cols: two
-    enable_cards: false
-    show_recent: true
-    recent_count: 2
-    show_image: true
-    show_date: false
-    show_categories: false
-    show_author: false
-    show_excerpt: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
