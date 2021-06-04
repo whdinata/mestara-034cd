@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Optional hero section subtitle
+    subtitle: Hey there! We are Mestara
     content: >
       We envision a world in which all girls and young women, regardless
       socioeconomic backgrounds or geographical location, are empowered,
