@@ -36,7 +36,6 @@ header:
   anncmnt_has_close: true
   anncmnt_id: new-features
 footer:
-  logo: images/Logo Mestara.png
   has_primary_nav: false
   primary_nav_title: Company
   primary_nav_links:
