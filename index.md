@@ -121,56 +121,6 @@ sections:
     grid_cols: three
     align: center
     background_color: secondary
-  - type: features_section
-    features:
-      - subtitle: Senior Project Manager - TIER Mobility Berlin
-        image: images/brandon-guidelines.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-        title: Galuh Ainur Rohmah
-        align: right
-      - title: Steffi Melinda
-        subtitle: Lead Data Science & Analytics - Bonial Germany
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        media_position: left
-        media_width: thirty-three
-        align: left
-        type: feature
-        image: images/brandon-guidelines.png
-      - title: Galuh Mauliditya
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        media_position: right
-        media_width: thirty-three
-        align: right
-        type: feature
-        subtitle: lorem-ipsum
-        image: images/brandon-guidelines.png
-    feature_padding_vert: small
-    background_color: primary
-    title: Our Team
   - type: cta_section
     title: Join our movement
     actions:
