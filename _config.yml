@@ -25,7 +25,7 @@ header:
       url: /contact
       style: link
     - label: Partner with us
-      url: /pricing
+      url: /partner-with-us
       style: primary
   has_anncmnt: true
   anncmnt_content: >-
