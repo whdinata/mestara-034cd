@@ -3,9 +3,9 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      We envision a world in which all girls and young women, regardless
-      socioeconomic backgrounds or geographical location, are **empowered,
-      uplifted and able to control their lives and futures.**
+      We envision a world in which young women, regardless of socioeconomic
+      backgrounds or geographical location, are **empowered, uplifted and able
+      to control their lives and futures.**
 
 
       Our mission is to **empower women** from different backgrounds to reach
