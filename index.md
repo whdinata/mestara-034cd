@@ -11,10 +11,7 @@ sections:
       Our mission is to **empower women** from different backgrounds to reach
       their full **potential**, work their way **out of poverty** and able to
       **empower other women** in their community.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
+    actions: []
     image: images/WhatsApp Image 2021-06-01 at 23.09.22 (1).jpeg
     image_alt: Hero section placeholder image
     media_position: left
