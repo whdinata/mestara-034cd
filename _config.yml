@@ -79,7 +79,7 @@ footer:
     - label: Instagram
       url: 'https://www.instagram.com/mestaracom/'
       style: link
-      has_icon: false
+      has_icon: true
       icon: instagram
       icon_position: center
       new_window: true
