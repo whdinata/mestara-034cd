@@ -70,7 +70,7 @@ footer:
   has_social: true
   social_links:
     - label: LinkedIn
-      url: 'https://www.linkedin.com/'
+      url: 'https://www.linkedin.com/company/mestara/'
       style: link
       has_icon: true
       icon: linkedin
