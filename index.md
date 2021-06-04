@@ -49,7 +49,7 @@ sections:
         content: "Our intensive program is for selected new graduates, helping them to achieve their full potential.\_\n\nEvery week mentees will attend a webinar about different topics to navigate life after college and successfully transition into their career with women who work in the field as speaker.\n\nEach mentee is paired with a mentor who will give honest, practical and real-life advice. Mentees will be divided to small groups where they will work together to solve a complex problem to hone their critical & entrepreneurial thinking.\n"
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /mentorship
             style: primary
             has_icon: true
             icon: arrow-right
