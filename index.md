@@ -9,8 +9,8 @@ sections:
 
 
       Our mission is to **empower women** from different backgrounds to reach
-      their full potential, work their way out of poverty and able to empower
-      other women in their community.
+      their full **potential**, work their way **out of poverty** and able to
+      **empower other women** in their community.
     actions:
       - label: Learn More
         url: /features
