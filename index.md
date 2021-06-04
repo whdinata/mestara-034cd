@@ -48,10 +48,11 @@ sections:
     features:
       - title: Mestara Mentorship
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          1 selected mentees from different cities, universities and backgrounds
+          will take part in 6 weeks of intensive personal development program.
+          All proceeds of the program will be used to organize the empowerment
+          program
         actions:
           - label: Learn More
             url: /style-guide
