@@ -85,6 +85,15 @@ footer:
       new_window: true
       no_follow: false
       type: action
+    - label: lorem-ipsum
+      url: '#'
+      style: link
+      has_icon: false
+      icon: arrow-left
+      icon_position: right
+      new_window: false
+      no_follow: false
+      type: action
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
     href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
