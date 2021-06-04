@@ -46,7 +46,7 @@ sections:
         options:
           - Mentorship
           - Mestara Berdaya
-          - Sponsorhip
+          - Sponsorship
           - lorem-ipsum
       - input_type: textarea
         name: message
