@@ -13,7 +13,7 @@ header:
   logo: images/Logo Mestara.png
   has_primary_nav: true
   primary_nav_links:
-    - label: Features
+    - label: Program
       url: /features
       style: link
     - label: About
