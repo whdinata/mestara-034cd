@@ -33,8 +33,8 @@ sections:
           countries at a comparable stage of development.
 
 
-          Women Economic Participation in Indonesia, Monash University, June
-          2017
+          *Women Economic Participation in Indonesia, Monash University, June
+          2017*
         title_align: left
         content_align: center
       - image_alt: Netlify logo
