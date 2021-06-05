@@ -224,12 +224,24 @@ sections:
         image_position: left
         image_width: twenty-five
         title: Mentorship
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Nr. of participants: 5 girls
 
 
-          **Miles Tone,** *CEO, Studio*
+          Age of participants: 14+
+
+
+          Project time: September 2021
+
+
+          Project duration: 1 month
+
+
+          Program: haircut training, personal finance workshop
+
+
+          Location: Pondok Pesantren Alhamdulillah, Desa Geger Kec. Kedungadem,
+          Kabupaten Bojonegoro, Jawa Timur
         image: images/classic/icon-3.svg
         image_position: left
         image_width: twenty-five
