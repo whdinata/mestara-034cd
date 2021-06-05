@@ -117,7 +117,7 @@ sections:
     title: Join our movement
     actions:
       - label: Donate
-        url: /donation
+        url: /pricing
         style: primary
       - url: '#'
         style: secondary
