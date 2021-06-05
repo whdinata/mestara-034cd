@@ -106,7 +106,7 @@ sections:
         image_position: top
         subtitle: Lead Data Science & Analytics - Bonial Germany
       - title: Galuh Mauliditya
-        subtitle: Data Engineer -
+        subtitle: "Data Engineer -\_PT Pertamina Hulu Mahakam"
         title_align: center
         image: images/Galuh_Photo 2021.JPG
         image_position: top
