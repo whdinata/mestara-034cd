@@ -26,8 +26,7 @@ sections:
     title: About Mestara
     align: center
     grid_items:
-      - image_alt: Contentful logo
-        image_align: center
+      - image_align: center
         content: >
           > At 51 percent, Indonesia’s female labour force participation rate is
           well below that for males (around 80 percent) and low relative to
