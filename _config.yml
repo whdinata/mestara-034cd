@@ -28,9 +28,6 @@ header:
       url: /partner-with-us
       style: primary
   has_anncmnt: true
-  anncmnt_content: >-
-    Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn
-    More](/pricing/)**
   anncmnt_align: left
   anncmnt_is_home_only: false
   anncmnt_has_close: false
