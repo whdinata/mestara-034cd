@@ -112,7 +112,7 @@ sections:
         image_position: top
     grid_cols: three
     align: center
-    background_color: secondary
+    background_color: primary
   - type: cta_section
     title: Join our movement
     actions:
