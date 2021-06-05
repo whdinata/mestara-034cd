@@ -36,7 +36,7 @@ sections:
 
           Women Economic Participation in Indonesia, Monash University, June
           2017
-        title_align: center
+        title_align: left
         content_align: center
       - image_alt: Netlify logo
         image_align: center
