@@ -8,7 +8,7 @@ layout_type: full-width
 style: classic
 palette: green
 mode: light
-base_font: serif
+base_font: sans-serif
 header:
   logo: images/Logo Mestara.png
   has_primary_nav: true
