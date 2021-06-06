@@ -218,8 +218,8 @@ sections:
           *   Week 6: Project presentation
 
 
-          **Register **[**here**](https://forms.gle/AJ9MaLgFmfTV4RL89)** before
-          June 26th 2021**
+          Register [here](https://forms.gle/AJ9MaLgFmfTV4RL89) before **June
+          26th 2021**
         image: images/classic/icon-2.svg
         image_position: left
         image_width: twenty-five
