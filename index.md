@@ -134,7 +134,7 @@ sections:
     actions:
       - label: Donate
         url: /pricing
-        style: primary
+        style: secondary
       - url: '#'
         style: secondary
         has_icon: false
