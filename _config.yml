@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 layout_type: full-width
 style: classic
-palette: green
+palette: red
 mode: light
 base_font: sans-serif
 header:
