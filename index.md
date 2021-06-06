@@ -19,7 +19,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: none
     title: We are Mestara
     background_image_size: auto
   - type: grid_section
