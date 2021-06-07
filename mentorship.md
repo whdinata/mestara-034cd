@@ -63,7 +63,15 @@ sections:
           
           - Individual task
         content_align: left
-        
+      - title: Week 5
+        title_align: left
+        content: >-
+          - Ultimate personal finance guide
+          
+          - Group mentoring
+          
+          - Individual task
+        content_align: left
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
