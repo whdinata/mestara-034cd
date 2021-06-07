@@ -41,7 +41,7 @@ sections:
           - Mentorship
           - Mestara Berdaya
           - Sponsorship
-          - Others
+          - General inquiry
       - input_type: textarea
         name: message
         label: Message
