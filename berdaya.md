@@ -23,7 +23,6 @@ sections:
       
       Many girls in the area will usually get married right after finishing the school (aged 15-17), this makes them vulnerable to gender-based violence and prevent them to enter the paid labour force and gaining economic self-sufficiency.
 
-  
   - type: cta_section
     title: Want to participate?
     content: We ask for 450.000 IDR as commitment fee for each mentee. All proceeds of this program will go to [Mestara Berdaya](/mestara-berdaya) program.
