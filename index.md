@@ -28,7 +28,7 @@ sections:
     grid_items:
       - image_align: center
         content: >
-          #### *51% *
+          ##### 51%
 
 
           *Indonesia’s female labour force participation rate is well below that
