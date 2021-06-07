@@ -215,7 +215,6 @@ sections:
           - All events are held **online**, but we promise to make it interactive
           & personal
 
-
           *Topics:*
 
 
