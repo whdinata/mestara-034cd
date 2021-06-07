@@ -151,7 +151,7 @@ sections:
       We ask for 450.000 IDR as commitment fee for each mentee. 
     
     
-      All proceeds of this program will go to [Mestara Berdaya](/mestara-berdaya) program.
+      All proceeds of this program will go to [Mestara Berdaya](#/berdaya) program.
     actions:
       - label: Join as Mentee
         url: https://forms.gle/bi5YhTcHWZpoPdoS9
