@@ -5,6 +5,7 @@ sections:
     content: >
       We envision a world in which young women, 
       
+      
       regardless of socioeconomic backgrounds, are **empowered, uplifted & able to control their lives.**
 
 
