@@ -90,8 +90,7 @@ sections:
       - title: Mestara Berdaya
         content: >
           We provide free training for women who live in poor rural households,
-          to help them discover income-generating opportunities and enhance
-          their living standards.
+          to help them discover income-generating opportunities and enhance their living standards.
 
 
           In addition, we will also teach them entrepreneur skill and donate the
