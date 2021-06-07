@@ -28,9 +28,12 @@ sections:
     grid_items:
       - image_align: center
         content: >
-          ### *51% Indonesia’s female labour force participation rate is well
-          below that for males (around 80%) and low relative to countries at a
-          comparable stage of development.*
+          #### *51% *
+
+
+          *Indonesia’s female labour force participation rate is well below that
+          for males (around 80%) and low relative to countries at a comparable
+          stage of development.*
 
 
           Women Economic Participation in Indonesia, Monash University, June
