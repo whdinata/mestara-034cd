@@ -8,7 +8,7 @@ sections:
   - type: features_section
     features:
       - title: Women empower women
-        subtitle: 'The goal of the program is to support women to become independent so they have the opportunity to support themselves or their family financially.'
+        subtitle: 'The goal of the program is to support women to become independent so that they have the opportunity to support themselves or their family financially.'
         content: >-
           We provide free training for women who live in poor rural households, to help them discover income-generating opportunities and enhance their living standards. 
           
