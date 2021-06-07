@@ -62,7 +62,8 @@ sections:
 
 
           Source: The Graduate Employment Gap, CIPD, 2017
-        
+        title_align: left
+        content_align: left
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
