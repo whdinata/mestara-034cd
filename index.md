@@ -268,7 +268,7 @@ seo:
       value: Women empowerment program and mentorship program
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: images/Logo Mestara.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
