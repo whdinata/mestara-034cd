@@ -3,11 +3,11 @@ title: Mestara Berdaya
 sections:
   - type: hero_section
     title: Mestara Berdaya
-    subtitle: Women empower women
+    subtitle: Empowerment program
     background_color: primary
   - type: features_section
     features:
-      - title: 
+      - title: Women empower women
         subtitle: 'Each mentee is paired with a mentor who will give honest, practical and real-life advice.'
         content: >-
           We provide 1 month practical skill training to poor and marginalised women to create a better life for themselves and their family by empowering & equipping them with relevant skills.
