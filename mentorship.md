@@ -7,7 +7,7 @@ sections:
   - type: features_section
     features:
       - title: Individual coaching
-        subtitle: 'Each mentee is paired with a mentor who will give honest, practical and real-life advice '
+        subtitle: 'Each mentee is paired with a mentor who will give honest, practical and real-life advice.'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
