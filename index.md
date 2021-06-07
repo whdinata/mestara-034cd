@@ -219,24 +219,19 @@ sections:
           **Topics:**
 
 
-          *   Week 1: Discover yourself & develop a structured plan of action
+          - Week 1: Discover yourself & develop a structured plan of action
 
-
-          *   Week 2: Strategies for successful job searches, applications &
+          - Week 2: Strategies for successful job searches, applications &
           interviews
 
+          - Week 3: Design thinking & entrepreneurial problem solving
 
-          *   Week 3: Design thinking & entrepreneurial problem solving
-
-
-          *   Week 4: Ultimate personal finance guide, navigating life
+          - Week 4: Ultimate personal finance guide, navigating life
           post-graduation
 
+          - Week 5: Personal branding + Fireside chat with the alpha women
 
-          *   Week 5: Personal branding + Fireside chat with the alpha women
-
-
-          *   Week 6: Project presentation
+          - Week 6: Project presentation
 
 
           Register [here](https://forms.gle/AJ9MaLgFmfTV4RL89) before **June
