@@ -96,6 +96,10 @@ sections:
         media_width: fifty
       - title: Mestara Berdaya
         content: >-
+          We provide 1-month practical skill training to poor & marginalized
+          women to create a better life for themselves and their family by
+          empowering & equipping them with relevant skills.
+          
           We provide free training for women who live in poor rural households,
           to help them discover income-generating opportunities and enhance
           their living standards.
