@@ -250,6 +250,7 @@ sections:
         title: Mentorship
       - content: >
           - Nr. of participants: 5 girls
+          
           - Age of participants: 14+
           - Project time: September 2021
           - Project duration: 1 month
