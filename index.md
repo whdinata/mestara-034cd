@@ -204,7 +204,7 @@ sections:
     title: Our next agenda
     grid_items:
       - content: >
-          - Combination of weekly webinar and 1:1 coaching sessions.
+          Combination of weekly webinar and 1:1 coaching sessions.
           
           - Weekly webinar: **June 3rd 2021 - August 7th 2021, every Saturday, 1
           PM - 4 PM WIB**.
