@@ -125,7 +125,7 @@ sections:
     background_color: secondary
     title: Our programs
   - type: grid_section
-    title: Our Team
+    title: Our team
     actions: []
     grid_items:
       - title: Galuh Ainur Rohmah
