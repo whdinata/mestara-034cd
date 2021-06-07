@@ -33,6 +33,9 @@ sections:
       - label: Donate
         url: /#
         style: primary
+      - label: Donate
+        url: /#
+        style: primary
     actions_position: right
     align: left
     padding_top: medium
