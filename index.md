@@ -207,8 +207,7 @@ sections:
           - Combination of weekly webinar and 1:1 coaching sessions.
           
           - Weekly webinar: **June 3rd 2021 - August 7th 2021, every Saturday, 1
-          PM - 4 PM WIB***
-
+          PM - 4 PM WIB**
 
           ***1:1 coaching session** schedule would be determined with your
           mentor*
