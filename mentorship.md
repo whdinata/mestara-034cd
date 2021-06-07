@@ -79,7 +79,7 @@ sections:
 
           - Feedback & closing
         content_align: left
-    grid_cols: two
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: true
