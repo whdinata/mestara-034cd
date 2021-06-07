@@ -89,8 +89,7 @@ sections:
     title: Benefits for Mentee
     grid_items:
       - content: >-
-          **Real-life & applicable advice**: Guidance and support from more experienced professional 
-
+          **Real-life & applicable advice**: Guidance and support from more experienced professional
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
