@@ -17,7 +17,7 @@ sections:
     align: right
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
     title: We are Mestara
     background_image_size: cover
     background_image: images/2 Landing Page.png
