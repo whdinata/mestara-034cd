@@ -213,7 +213,7 @@ sections:
           mentor.
           
           - All events are held **online**, but we promise to make it interactive
-          and personal
+          & personal
 
 
           *Topics:*
