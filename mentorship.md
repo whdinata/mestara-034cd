@@ -10,7 +10,7 @@ sections:
       - title: Individual Coaching
         subtitle: 'Each mentee is paired with a mentor who will give honest, practical and real-life advice.'
         content: >-
-          Mentees will be divided to small groups where they will work together to solve a complex problem to hone their critical & entrepreneurial thinking.
+          Mentees will be divided to small groups where they will work together to solve a complex problem to sharpen their critical & entrepreneurial thinking.
         image: images/about-3.jpg
         media_position: right
         media_width: fifty
