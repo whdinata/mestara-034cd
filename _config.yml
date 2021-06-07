@@ -25,7 +25,7 @@ header:
       url: /contact
       style: link
     - label: Partner with us
-      url: /partner-with-us
+      url: '/#'
       style: secondary
   has_anncmnt: false
   anncmnt_align: left
