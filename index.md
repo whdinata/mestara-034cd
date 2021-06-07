@@ -23,7 +23,7 @@ sections:
     background_image: images/2 Landing Page copy.png
     has_border: false
     background_image_position: center bottom
-    background_image_repeat: repeat
+    background_image_repeat: no-repeat
   - type: grid_section
     title: Our Why
     align: center
