@@ -32,11 +32,11 @@ sections:
       - title: Week 1
         title_align: left
         content: >-
-          - Kick off &  Introduction
+          * Kick off &  Introduction
           
-          - Discover yourself & develop a structured plan of action
+          * Discover yourself & develop a structured plan of action
           
-          - 1:1 Career coach
+          * 1:1 Career coach
         content_align: left
       - title: Week 2
         title_align: left
