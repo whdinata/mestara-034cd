@@ -1,11 +1,6 @@
 ---
 title: General enquiries
 sections:
-  - type: hero_section
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
   - type: form_section
     content: >
       ### Get in touch
