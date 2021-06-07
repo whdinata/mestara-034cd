@@ -3,7 +3,7 @@ title: Mestara Berdaya
 sections:
   - type: hero_section
     title: Mestara Berdaya
-    subtitle: Empowerment program
+    subtitle: Women empowerment program
     background_color: primary
   - type: features_section
     features:
