@@ -154,7 +154,7 @@ sections:
     title: Join our movement
     actions:
       - label: Donate
-        url: /donate
+        url: /donation
         style: secondary
         has_icon: false
         icon: arrow-left
