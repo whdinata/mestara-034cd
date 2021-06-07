@@ -21,9 +21,7 @@ sections:
         image: images/about-2.jpg
         media_position: left
         media_width: fifty
-      - title:
-        subtitle: 'Every week mentees will attend webinar by women who work in the field as speaker.'
-        content: >-
+      - content: >-
            The webinars cover different topics to navigate life after university and successfully transition into their career.
         media_position: center
         media_width: fifty
