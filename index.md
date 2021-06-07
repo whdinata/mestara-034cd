@@ -12,7 +12,6 @@ sections:
       their full **potential**, work their way **out of poverty** and able to
       **empower other women** in their community.
     actions: []
-    image: images/about-1.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
