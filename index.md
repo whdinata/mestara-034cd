@@ -254,8 +254,6 @@ sections:
           Project time: September 2021
           Project duration: 1 month
           Program: haircut training, personal finance workshop
-
-
           Location: Pondok Pesantren Alhamdulillah, Desa Geger Kec. Kedungadem,
           Kabupaten Bojonegoro, Jawa Timur
         image: images/6 Mestara berdaya.png
