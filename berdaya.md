@@ -36,7 +36,7 @@ sections:
           the school (aged 15-17), this makes them vulnerable to gender-based
           violence and prevent them to enter the paid labour force and gaining
           economic self-sufficiency.
-        image: images/about-3.jpg
+        image: images/106128052_1143155292716160_3945212674592544825_n.jpg
         media_position: right
         media_width: fifty
   - type: cta_section
