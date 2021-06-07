@@ -24,6 +24,9 @@ header:
     - label: Contact us
       style: secondary
       url: /general-enquiries
+    - label: Donate
+      style: secondary
+      url: /
   has_anncmnt: false
   anncmnt_align: left
   anncmnt_is_home_only: false
