@@ -90,7 +90,8 @@ sections:
     grid_items:
       - content: >-
           **For Mentee**
-          **Real-life & applicable advice**
+          
+          - **Real-life & applicable advice**
           
           
           Guidance and support from more experienced professional
