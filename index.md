@@ -266,7 +266,7 @@ sections:
 
           Location: Pondok Pesantren Alhamdulillah, Desa Geger Kec. Kedungadem,
           Kabupaten Bojonegoro, Jawa Timur
-        image: images/classic/icon-3.svg
+        image: images/6 Mestara berdaya.png
         image_position: left
         image_width: twenty-five
         title: Mestara Berdaya
