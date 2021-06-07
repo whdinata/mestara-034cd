@@ -96,7 +96,7 @@ sections:
         media_width: fifty
       - title: Mestara Berdaya
         subtitle: >-
-          Our collective efforts investing on women are used to empower other women in need.
+          Our collective efforts investing on women with better education are used to empower other women in need.
         content: >-
           We provide 1-month practical skill training to poor & marginalized
           women to create a better life for themselves and their family by
