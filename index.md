@@ -215,7 +215,8 @@ sections:
           - All events are held **online**, but we promise to make it interactive
           & personal
 
-          *Topics:*
+
+          **Topics:**
 
 
           *   Week 1: Discover yourself & develop a structured plan of action
