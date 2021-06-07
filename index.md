@@ -265,7 +265,7 @@ seo:
       value: Mestara
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Women empower women
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
