@@ -92,10 +92,9 @@ sections:
           **For Mentee**
           
           - **Real-life & applicable advice:** Guidance and support from more experienced professional
-          **Accountability**
           
 
-          Meet new friends who are ready to help you adhere to goals & commitment
+          - **Accountability:** Meet new friends who are ready to help you adhere to goals & commitment
       - content: >-
           **A larger network** 
           
