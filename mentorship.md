@@ -34,7 +34,7 @@ sections:
           
           - 1:1 Career coach
         content_align: left
-      - title: Section Item 2
+      - title: Week 2
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
