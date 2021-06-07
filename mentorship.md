@@ -129,7 +129,7 @@ sections:
     background_color: primary
 seo:
   title: Mestara Mentorship
-  description: This is the features page
+  description: Our 6-week intensive program helps selected fresh graduates to achieve their full potential
   extra:
     - name: 'og:type'
       value: website
