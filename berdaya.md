@@ -14,13 +14,6 @@ sections:
         image: images/about-3.jpg
         media_position: right
         media_width: fifty
-      - title: Webinar
-        subtitle: 'Every week mentees will attend webinar by women who work in the field as speaker.'
-        content: >-
-           The webinars cover different topics to navigate life after university and successfully transition into their career.
-        image: images/about-2.jpg
-        media_position: left
-        media_width: fifty
   - type: grid_section
     title: Agenda
     subtitle: 'Next period: July 3th - August 7th 2021'
