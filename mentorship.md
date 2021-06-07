@@ -6,7 +6,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Individual coaching
+      - title: Individual & Interactive
         subtitle: 'Each mentee is paired with a mentor who will give honest, practical and real-life advice.'
         content: >-
           Mentees will be divided to small groups where they will work together to solve a complex problem to hone their critical & entrepreneurial thinking.
