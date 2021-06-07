@@ -22,7 +22,7 @@ sections:
         media_position: left
         media_width: fifty
       - content: >-
-           We will select 21 mentees from ifferent cities, universities and backgrounds. 
+           We will select 21 mentees from different cities, universities and backgrounds. This way, we can make sure that everyone gets an individual
         media_position: center
         media_width: fifty
   - type: grid_section
