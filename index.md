@@ -218,7 +218,7 @@ sections:
           interactive
 
 
-          **Register **[**here**](https://forms.gle/AJ9MaLgFmfTV4RL89)** before
+          **Register before
           June 26th 2021**
         image: images/5 Mentorship.png
         image_position: left
