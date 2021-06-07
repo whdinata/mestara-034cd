@@ -138,7 +138,7 @@ seo:
       value: Features
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: Our 6-week intensive program helps selected fresh graduates to achieve their full potential
       keyName: property
     - name: 'og:image'
       value: images/about-3.jpg
