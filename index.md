@@ -79,7 +79,7 @@ sections:
         subtitle: >-
           Selected mentees will take part in 6-week intensive personal development
           program.
-        content: "Our intensive program is for selected new graduates, helping them to achieve their full potential."
+        content: "Our intensive program will be for selected new graduates, helping them to achieve their full potential."
         actions:
           - label: Learn More
             url: '/#'
