@@ -101,8 +101,14 @@ sections:
       - content: >-
           **A larger network** 
           
-          
-          A community of fabulous, supportive and inspiring women 
+
+          A community of fabulous, supportive and inspiring women
+      - content: >-
+          **New development opportunities**
+      
+      
+          Learn and improve various skills each week
+
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
