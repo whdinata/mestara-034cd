@@ -8,7 +8,7 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      ### Questions
+      ### Get in touch
 
 
       Have a question? Send us a note using the form and we will be in touch
