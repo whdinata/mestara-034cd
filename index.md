@@ -113,7 +113,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-2.png
+        image: images/4a Mestara berdaya.png
         media_position: left
         media_width: fifty
         subtitle: >-
