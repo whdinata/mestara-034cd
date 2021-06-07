@@ -13,7 +13,7 @@ sections:
       **empower other women** in their community.
     actions: []
     media_position: left
-    media_width: fifty
+    media_width: fourty
     align: right
     padding_top: large
     padding_bottom: large
