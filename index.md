@@ -255,8 +255,8 @@ sections:
     align: center
     background_color: primary
 seo:
-  title: Stackbit DIY Theme
-  description: The preview of the DIY theme
+  title: Mestara
+  description: Women empower women
   extra:
     - name: 'og:type'
       value: website
