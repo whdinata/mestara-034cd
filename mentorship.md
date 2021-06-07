@@ -109,7 +109,7 @@ sections:
           - **Critical thinking:** You will work on solving a complex problem during the program
 
 
-          **Giving back**
+          - **Giving back**
           
           
           Payments for the mentorship program will be used for empowering girls in rural area
