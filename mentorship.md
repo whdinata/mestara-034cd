@@ -116,7 +116,8 @@ sections:
       - content: >-
           **_As a Mentor_**
 
-          
+          - Personal Growth and A Sense of Fulfillment: You’re able to have a remarkable impact on a person’s future.
+
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
