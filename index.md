@@ -12,7 +12,7 @@ sections:
       their full **potential**, work their way **out of poverty** and able to
       **empower other women** in their community.
     actions: []
-    media_position: left
+    media_position: right
     media_width: fourty
     align: right
     padding_top: large
