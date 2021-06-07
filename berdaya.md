@@ -28,7 +28,7 @@ sections:
         media_width: fifty
   - type: cta_section
     title: Want to participate?
-    content: We are happy to receive donations, ideas for our next empowerment program, and 
+    content: We are happy to receive donations, ideas for our next empowerment program, and  
     actions:
       - label: Register now
         url: /https://forms.gle/bi5YhTcHWZpoPdoS9
