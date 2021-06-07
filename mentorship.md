@@ -23,7 +23,7 @@ sections:
         media_width: fifty
   - type: grid_section
     title: Agenda
-    subtitle: 'Next period: '
+    subtitle: 'Next period: July 3th - August 7th 2021'
     grid_items:
       - title: Section Item 1
         title_align: left
