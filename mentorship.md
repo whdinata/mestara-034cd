@@ -34,11 +34,6 @@ sections:
           
           - 1:1 Career coach
         content_align: left
-        image: images/classic/icon-1.svg
-        image_alt: Item 1 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
       - title: Section Item 2
         title_align: left
         content: >-
