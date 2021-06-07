@@ -115,7 +115,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: Register
+    title: 
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
