@@ -4,13 +4,7 @@ sections:
   - type: hero_section
     title: Thank You!
     subtitle: >-
-      Thank you for expressing your intention to support our cause. 
-      
-      
-      We are still working on a better way to receive your support. 
-      
-      
-      Please check out our page again in few more weeks. Have a great day!
+      Thank you for expressing your intention to support our cause. We are still working on a better way to receive your support. Please check out our page again in few more weeks. Have a great day!
     actions:
       - label: Back to homepage
         url: /
