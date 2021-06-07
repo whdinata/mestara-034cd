@@ -119,7 +119,11 @@ sections:
           
           You will work on solving a complex problem during the program
       - content: >-
+          **Giving back**
           
+          
+          Payments for the mentorship program will be used for empowering girls in rural area
+
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
