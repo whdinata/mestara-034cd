@@ -17,7 +17,7 @@ sections:
       - title: Webinar
         subtitle: 'Every week mentees will attend webinar by women who work in the field as speaker.'
         content: >-
-           The webinars cover different topics to navigate life after university and successfully transition into their career .
+           The webinars cover different topics to navigate life after university and successfully transition into their career.
         media_position: left
         media_width: fifty
       - title: Section Title Three
