@@ -51,7 +51,6 @@ sections:
           - Design thinking & entrepreneurial problem solving
           - Group task
           - 1:1 Career coach
-
         content_align: left
         actions:
           - label: Learn More
