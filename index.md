@@ -48,8 +48,7 @@ sections:
         title_align: left
         content_align: left
       - image_align: center
-        content: > 
-            > * **Indonesian women earn 23% less than men.** Although more women workers have a college or university degree compared to male workers, higher education can’t narrow\_ the gender pay gap.*
+        content: > > *Indonesian women earn 23% less than men. Although more women workers have a college or university degree compared to male workers, higher education can’t narrow\_ the gender pay gap.*
         
 
             Source: Labour Force Survey, BPS, February 2020
