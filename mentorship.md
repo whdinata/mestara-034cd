@@ -116,7 +116,7 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Want to participate?
-    content: We ask for 450.000 IDR as commitment fee for each mentee. All proceeds of this program will go to [Mestara Berdaya](/mestara) program.
+    content: We ask for 450.000 IDR as commitment fee for each mentee. All proceeds of this program will go to [Mestara Berdaya](/mestara-berdaya) program.
     actions:
       - label: Register now
         url: /https://forms.gle/bi5YhTcHWZpoPdoS9
