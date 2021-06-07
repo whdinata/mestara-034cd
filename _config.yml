@@ -32,6 +32,7 @@ header:
   anncmnt_is_home_only: false
   anncmnt_has_close: false
   anncmnt_id: new-features
+  logo_alt: Mestara
 footer:
   has_primary_nav: false
   primary_nav_title: Company
