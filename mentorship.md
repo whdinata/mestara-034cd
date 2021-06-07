@@ -13,7 +13,7 @@ sections:
         image: images/about-3.jpg
         media_position: right
         media_width: fifty
-      - title: Section Title Two
+      - title: Interactive
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
