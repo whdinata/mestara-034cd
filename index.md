@@ -25,7 +25,7 @@ sections:
     background_image_repeat: no-repeat
     image: images/unnamed.png
   - type: grid_section
-    title: Our Why
+    title: Our why
     align: center
     grid_items:
       - image_align: center
