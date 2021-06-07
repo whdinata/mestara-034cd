@@ -14,7 +14,7 @@ header:
   has_primary_nav: true
   primary_nav_links:
     - label: Program
-      url: '/#our-programs'
+      url: '/#'
       style: link
     - label: About
       url: '/#'
