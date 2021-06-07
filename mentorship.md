@@ -97,6 +97,8 @@ sections:
           **Accountability**
           
           Meet new friends who are ready to help you adhere to goals & commitment
+      - content: >-
+      
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
