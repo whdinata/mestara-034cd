@@ -91,11 +91,7 @@ sections:
       - content: >-
           **For Mentee**
           
-          - **Real-life & applicable advice**
-          
-          
-          Guidance and support from more experienced professional
-      - content: >-
+          - **Real-life & applicable advice:** Guidance and support from more experienced professional
           **Accountability**
           
 
