@@ -77,7 +77,7 @@ sections:
         content: >-
         - Project presentation
 
-        - Feedback \& closing
+        - Feedback & closing
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
