@@ -122,7 +122,7 @@ sections:
           empowering & equipping them with relevant skills.
     feature_padding_vert: large
     align: center
-    background_color: primary
+    background_color: none
     title: Our programs
   - type: grid_section
     title: Our Team
