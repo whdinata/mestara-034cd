@@ -11,8 +11,8 @@ sections:
       ### Questions
 
 
-      We would like try our best to answer your questions. Please contact us
-      through the contact form.
+      Have a question? Send us a note using the form and we will be in touch
+      soon.
     content_align: left
     form_position: right
     form_width: fifty
