@@ -53,6 +53,8 @@ sections:
         
 
         Source: Labour Force Survey, BPS, February 2020
+        title_align: left
+        content_align: left
       - image_align: center
         content: >
           > *Only **52%** of graduates land themselves a graduate-level job the
