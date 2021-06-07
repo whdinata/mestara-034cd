@@ -46,6 +46,8 @@ sections:
 
 
           Source: Indonesia Child Marriage Report, UNICEF, 2020
+        title_align: left
+        content_align: left
       - image_alt: Gridsome logo
         image_align: center
         content: >
