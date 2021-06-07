@@ -22,11 +22,11 @@ header:
   has_secondary_nav: true
   secondary_nav_links:
     - label: Contact us
-      style: secondary
+      style: link
       url: /general-enquiries
     - label: Donate
       style: secondary
-      url: /
+      url: /#
   has_anncmnt: false
   anncmnt_align: left
   anncmnt_is_home_only: false
