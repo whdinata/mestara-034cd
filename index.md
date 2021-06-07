@@ -95,9 +95,7 @@ sections:
           In addition, we will also teach them entrepreneur skill and donate the equipments so they can apply their new skill to generate more income and potentially teach other women.
 
 
-          **The goal of the program is to support women to become independent
-          and to give them opportunity to support themselves or their family
-          financially.**
+          **The goal of the program is to support women to become independent and to give them opportunity to support themselves or their family financially.**
         actions:
           - label: Learn More
             url: /berdaya
