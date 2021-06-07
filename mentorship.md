@@ -86,7 +86,7 @@ sections:
     align: center
     background_color: primary
   - type: grid_section
-    title: Benefits for Mentee
+    title: Benefits
     grid_items:
       - content: >-
           **Real-life & applicable advice**
