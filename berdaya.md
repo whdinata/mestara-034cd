@@ -50,13 +50,13 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Mestara Mentorship
+      value: Mestara Berdaya
       keyName: property
     - name: 'og:description'
       value: Women empowerment program
       keyName: property
     - name: 'twitter:title'
-      value: Mestara Mentorship
+      value: Mestara Berdaya
     - name: 'twitter:description'
       value: Our 6-week intensive program helps selected fresh graduates to achieve their full potential
 layout: advanced
