@@ -28,7 +28,7 @@ sections:
     grid_items:
       - image_align: center
         content: >
-          > At **51%** , 
+          > At **51%**, 
 
           >
 
