@@ -23,7 +23,7 @@ sections:
     title: We are Mestara
     background_image_size: auto
   - type: grid_section
-    title: About Mestara
+    title: Our why
     align: center
     grid_items:
       - image_align: center
