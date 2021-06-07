@@ -140,10 +140,6 @@ seo:
     - name: 'og:description'
       value: Our 6-week intensive program helps selected fresh graduates to achieve their full potential
       keyName: property
-    - name: 'og:image'
-      value: images/about-3.jpg
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:title'
       value: Mestara Mentorship
     - name: 'twitter:description'
