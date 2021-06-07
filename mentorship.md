@@ -105,11 +105,10 @@ sections:
           
           - **Empowerment:** You will feel like you have the control over your career and destiny
           
-          - **Critical thinking**
           
-          
-          You will work on solving a complex problem during the program
-      - content: >-
+          - **Critical thinking:** You will work on solving a complex problem during the program
+
+
           **Giving back**
           
           
