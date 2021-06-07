@@ -95,6 +95,8 @@ sections:
         media_position: right
         media_width: fifty
       - title: Mestara Berdaya
+        subtitle: >-
+          Our collective efforts investing on women are used to empower other women in need.
         content: >-
           We provide 1-month practical skill training to poor & marginalized
           women to create a better life for themselves and their family by
@@ -109,8 +111,6 @@ sections:
         image: images/4a Mestara berdaya.png
         media_position: left
         media_width: fifty
-        subtitle: >-
-          Our collective efforts investing on women are used to empower other women in need.
     feature_padding_vert: large
     align: center
     background_color: secondary
