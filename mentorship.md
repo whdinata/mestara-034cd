@@ -115,7 +115,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: 
+    title: Want to participate?
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
