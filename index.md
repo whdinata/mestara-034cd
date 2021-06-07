@@ -278,7 +278,7 @@ seo:
     - name: 'twitter:description'
       value: Women empowerment program and mentorship program
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: images/Logo Mestara.png
       relativeUrl: true
 layout: advanced
 ---
