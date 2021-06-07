@@ -218,8 +218,7 @@ sections:
           interactive
 
 
-          **Last registration date:
-          June 26th 2021**
+          **Last registration date: June 26th 2021**
         image: images/5 Mentorship.png
         image_position: left
         image_width: twenty-five
