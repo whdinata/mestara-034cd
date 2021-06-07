@@ -109,15 +109,9 @@ sections:
           - **Critical thinking:** You will work on solving a complex problem during the program
 
 
-          - **Giving back**
-          
-          
-          Payments for the mentorship program will be used for empowering girls in rural area
-      - content: >-
-          **Certificate of participation**
-          
-          
-          Because you deserve it
+          - **Giving back:** Payments for the mentorship program will be used for empowering girls in rural area
+
+          - **Certificate of participation:** Because you deserve it
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
