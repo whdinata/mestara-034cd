@@ -122,6 +122,9 @@ Recognition: Sharing your knowledge with others will give your talents more expo
 
  A larger network: A community of fabulous, supportive and inspiring women 
 
+Generating new ideas: Feedback, discussion and questions can spark new ideas
+
+
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
