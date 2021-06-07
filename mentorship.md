@@ -127,15 +127,14 @@ sections:
 
           - **Generating new ideas:** Feedback, discussion and questions can spark new ideas
 
-          
 
-Creates demand for your expertise: It can increases opportunities for your sales or revenue
-
-Giving back: Payments for the mentorship program will be used for empowering girls in rural area
-
-Develop leadership and management qualities: You will solve problems, communicate many topics with your mentee and use your emotional skills to encourage or influence your mentee
+          - **Creates demand for your expertise:** It can increases opportunities for your sales or revenue
 
 
+          - **Giving back:** Payments for the mentorship program will be used for empowering girls in rural area
+
+
+          - **Develop leadership and management qualities:** You will solve problems, communicate many topics with your mentee and use your emotional skills to encourage or influence your mentee
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
