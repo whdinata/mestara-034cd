@@ -116,7 +116,7 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Want to participate?
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: Register 
     actions:
       - label: Compare Plans
         url: /pricing
