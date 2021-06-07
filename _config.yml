@@ -17,7 +17,7 @@ header:
       url: '/#our-programs'
       style: link
     - label: About
-      url: /about
+      url: '/#'
       style: link
   has_secondary_nav: true
   secondary_nav_links:
