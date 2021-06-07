@@ -60,9 +60,7 @@ sections:
           remaining 48% work in roles that do not require a degree.*
 
 
-
-
-          The Graduate Employment Gap, CIPD, 2017
+          Source: The Graduate Employment Gap, CIPD, 2017
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
