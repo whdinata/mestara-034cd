@@ -23,7 +23,7 @@ header:
   secondary_nav_links:
     - label: Contact us
       style: secondary
-      url: /contact
+      url: /general-enquiries
   has_anncmnt: false
   anncmnt_align: left
   anncmnt_is_home_only: false
