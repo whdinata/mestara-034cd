@@ -128,7 +128,7 @@ sections:
           
           
           Because you deserve it
-    grid_cols: three
+    grid_cols: five
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
