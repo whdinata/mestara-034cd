@@ -120,7 +120,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: >-
-          Our collective efforts are used to empower
+          Our collective efforts investing on women are used to empower
     feature_padding_vert: large
     align: center
     background_color: secondary
