@@ -49,7 +49,7 @@ sections:
         url: '/#'
         style: primary
       - label: Become a sponsor
-        url: '/#'
+        url: /general-enquiries
         style: primary
     actions_position: right
     align: left
