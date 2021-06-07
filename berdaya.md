@@ -33,7 +33,7 @@ sections:
       - label: Donate
         url: /#
         style: primary
-      - label: Donate
+      - label: Sponsor
         url: /#
         style: primary
     actions_position: right
