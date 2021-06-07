@@ -77,8 +77,7 @@ sections:
     features:
       - title: Mestara Mentorship
         subtitle: >-
-          Selected mentees from different cities, universities and
-          backgrounds will take part in 6-week intensive personal development
+          Selected mentees will take part in 6-week intensive personal development
           program.
         content: "Our intensive program is for selected new graduates, helping them to achieve their full potential."
         actions:
