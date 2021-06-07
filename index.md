@@ -65,8 +65,8 @@ sections:
         title_align: left
         content_align: left
     grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
+    grid_gap_horiz: small
+    grid_gap_vert: small
     subtitle: About Mestara
   - type: features_section
     subtitle: How we do it
