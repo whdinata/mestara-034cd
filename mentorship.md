@@ -48,9 +48,10 @@ sections:
       - title: Week 3
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          - Design thinking & entrepreneurial problem solving
+          - Group task
+          - 1:1 Career coach
+
         content_align: left
         actions:
           - label: Learn More
