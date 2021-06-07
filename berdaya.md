@@ -46,7 +46,7 @@ sections:
       for our next empowerment program.
     actions:
       - label: Donate
-        url: '/#'
+        url: /donation
         style: primary
       - label: Become a sponsor
         url: /general-enquiries
