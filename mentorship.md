@@ -108,7 +108,8 @@ sections:
       
       
           Learn and improve various skills each week
-
+      - content: >-
+      
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
