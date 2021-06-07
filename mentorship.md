@@ -124,6 +124,8 @@ Recognition: Sharing your knowledge with others will give your talents more expo
 
 Generating new ideas: Feedback, discussion and questions can spark new ideas
 
+Creates demand for your expertise: It can increases opportunities for your sales or revenue
+
 
     grid_cols: two
     grid_gap_horiz: medium
