@@ -113,6 +113,7 @@ sections:
 
 
           - **Certificate of participation:** Because you deserve it
+      - content
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
