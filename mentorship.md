@@ -150,8 +150,5 @@ seo:
       value: Features
     - name: 'twitter:description'
       value: Our 6-week intensive program helps selected fresh graduates to achieve their full potential
-    - name: 'twitter:image'
-      value: images/about-3.jpg
-      relativeUrl: true
 layout: advanced
 ---
