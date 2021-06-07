@@ -3,7 +3,7 @@ title: Mestara Mentorship
 sections:
   - type: hero_section
     title: Mestara Mentorship
-    subtitle: Our 6-week intensive program for selected new graduates, helping them to achieve their full potential. 
+    subtitle: Our 6-week intensive program helps selected fresh graduates to achieve their full potential. 
     background_color: primary
   - type: features_section
     features:
