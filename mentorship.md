@@ -95,7 +95,6 @@ sections:
           
 
           - **Accountability:** Meet new friends who are ready to help you adhere to goals & commitment
-      - content: >-
           **A larger network** 
           
 
