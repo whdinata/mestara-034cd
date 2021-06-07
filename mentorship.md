@@ -111,8 +111,9 @@ sections:
 
           - **Giving back:** Payments for the mentorship program will be used for empowering girls in rural area
 
+
           - **Certificate of participation:** Because you deserve it
-    grid_cols: four
+    grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
     align: center
