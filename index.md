@@ -206,36 +206,20 @@ sections:
       - content: >
           Combination of weekly webinar and 1:1 coaching sessions.
 
-          - Weekly webinar: **June 3rd 2021 - August 7th 2021, every Saturday, 1
-          PM - 4 PM WIB**.
 
-          - **1:1 coaching session** schedule would be determined with your
+          *   **June 3rd 2021 - August 7th 2021**
+
+          *   **Every Saturday 1 PM - 4 PM WIB**.
+
+          *   **1:1 coaching session** schedule will be discussed with your
           mentor.
 
-          - All events are held **online**, but we promise to make it
-          interactive & personal
+          *   All events are held **online**, but we promise to make it
+          interactive
 
 
-          **Topics:**
-
-
-          - Week 1: Discover yourself & develop a structured plan of action
-
-          - Week 2: Strategies for successful job searches, applications &
-          interviews
-
-          - Week 3: Design thinking & entrepreneurial problem solving
-
-          - Week 4: Ultimate personal finance guide, navigating life
-          post-graduation
-
-          - Week 5: Personal branding + Fireside chat with the alpha women
-
-          - Week 6: Project presentation
-
-
-          **Register [here](https://forms.gle/AJ9MaLgFmfTV4RL89) before June
-          26th 2021**
+          **Register **[**here**](https://forms.gle/AJ9MaLgFmfTV4RL89)** before
+          June 26th 2021**
         image: images/5 Mentorship.png
         image_position: left
         image_width: twenty-five
