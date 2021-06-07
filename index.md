@@ -132,6 +132,12 @@ sections:
       - label: Donate
         url: /donate
         style: secondary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: true
+        no_follow: false
+        type: action
       - label: Join as Mentor
         url: '/mentorship'
         style: secondary
