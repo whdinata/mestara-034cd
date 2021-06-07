@@ -10,7 +10,7 @@ sections:
       - title: Individual Coaching
         subtitle: 'Each mentee is paired with a mentor who will give honest, practical and real-life advice.'
         content: >-
-          Mentees will be divided to small groups where they will work together to solve a complex problem to hone their critical & entrepreneurial thinking.
+          We provide 1 month practical skill training to poor and marginalised women to create a better life for themselves and their family by empowering & equipping them with relevant skills
         image: images/about-3.jpg
         media_position: right
         media_width: fifty
