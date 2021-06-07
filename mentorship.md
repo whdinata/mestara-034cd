@@ -37,9 +37,13 @@ sections:
       - title: Week 2
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          - Strategies for successful job search
+          
+          - Communication skill
+          
+          - Group mentoring
+          
+          - Individual task
         content_align: left
         actions:
           - label: Learn More
