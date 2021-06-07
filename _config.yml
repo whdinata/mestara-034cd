@@ -16,6 +16,9 @@ header:
     - label: Mentorship
       url: '/mentorship'
       style: link
+    - label: Mentorship
+      url: '/mentorship'
+      style: link
   has_secondary_nav: true
   secondary_nav_links:
     - label: Contact us
