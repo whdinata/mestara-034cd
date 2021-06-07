@@ -118,6 +118,7 @@ sections:
     grid_gap_vert: medium
     align: center
     background_color: secondary
+    enable_cards: true
   - type: cta_section
     title: Want to participate?
     content: We ask for 450.000 IDR as commitment fee for each mentee. All proceeds of this program will go to [Mestara Berdaya](/mestara-berdaya) program.
