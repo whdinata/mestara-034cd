@@ -36,7 +36,6 @@ sections:
       - label: Become a sponsor
         url: /#
         style: primary
-        
     actions_position: right
     align: left
     padding_top: medium
