@@ -141,7 +141,7 @@ sections:
         url: https://forms.gle/bi5YhTcHWZpoPdoS9
         style: primary
       - label: Join as Mentor
-        url: 
+        url: https://forms.gle/GoWra9BcYhMv2S2T6
         style: primary
     actions_position: right
     align: left
