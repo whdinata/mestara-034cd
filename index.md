@@ -32,7 +32,6 @@ sections:
           below that for males (around 80%) and low relative to countries at a
           comparable stage of development.*
 
-
           Source: Women Economic Participation in Indonesia, Monash University,
           June 2017
         title_align: left
