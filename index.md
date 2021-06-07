@@ -117,9 +117,9 @@ sections:
         title_align: center
         image: images/DSCF6268.jpg
         image_position: top
-        subtitle: "Lead Data Science & Analytics - Bonial International\_\n\nTest"
+        subtitle: Lead Data Science & Analytics - Bonial International
       - title: Galuh Mauliditya
-        subtitle: "Data Engineer - PT Pertamina Hulu Mahakam"
+        subtitle: Data Engineer - PT Pertamina Hulu Mahakam
         title_align: center
         image: images/Galuh_Photo 2021.JPG
         image_position: top
