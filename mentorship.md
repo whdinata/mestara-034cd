@@ -116,13 +116,13 @@ sections:
       - content: >-
           **_As a Mentor_**
 
-          - Personal Growth and A Sense of Fulfillment: You’re able to have a remarkable impact on a person’s future.
+          - **Personal Growth and a Sense of Fulfillment: You’re able to have a remarkable impact on a person’s future.
 
-Recognition: Sharing your knowledge with others will give your talents more exposure
+          - Recognition: Sharing your knowledge with others will give your talents more exposure
 
- A larger network: A community of fabulous, supportive and inspiring women 
+          - A larger network: A community of fabulous, supportive and inspiring women 
 
-Generating new ideas: Feedback, discussion and questions can spark new ideas
+          - Generating new ideas: Feedback, discussion and questions can spark new ideas
 
 Creates demand for your expertise: It can increases opportunities for your sales or revenue
 
