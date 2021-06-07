@@ -98,9 +98,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: >-
-          We provide 1-month practical skill training to poor & marginalized
-          women to create a better life for themselves and their family by
-          empowering & equipping them with relevant skills.
+          We provide 1-month practical skill training to poor & marginalized women to create a better life for themselves and their family by empowering & equipping them with relevant skills.
     feature_padding_vert: large
     align: center
     background_color: secondary
