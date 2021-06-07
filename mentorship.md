@@ -25,7 +25,7 @@ sections:
     title: Agenda
     subtitle: 'Next period: July 3th - August 7th 2021'
     grid_items:
-      - title: Section Item 1
+      - title: Week 1
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
