@@ -241,6 +241,7 @@ sections:
       - content: >
           Nr. of participants: 5 girls
 
+
           Age of participants: 14+
 
 
