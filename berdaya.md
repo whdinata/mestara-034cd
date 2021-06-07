@@ -21,14 +21,14 @@ sections:
         content: >-
           Our first empowerment program will be done in an Islamic boarding school, located in a small village in Bojonegoro, East Java. There are 20 girls (age 8-15) from low income families, live and study in this Islamic boarding school.
       
-      
+
           Many girls in the area will usually get married right after finishing the school (aged 15-17), this makes them vulnerable to gender-based violence and prevent them to enter the paid labour force and gaining economic self-sufficiency.
         image: images/about-3.jpg
         media_position: right
         media_width: fifty
   - type: cta_section
     title: Want to participate?
-    content: We ask for 450.000 IDR as commitment fee for each mentee. All proceeds of this program will go to [Mestara Berdaya](/mestara-berdaya) program.
+    content: We are happy to receive donations, proposals for our next empowerment program, and 
     actions:
       - label: Register now
         url: /https://forms.gle/bi5YhTcHWZpoPdoS9
