@@ -145,7 +145,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:title'
-      value: Features
+      value: Mestara Mentorship
     - name: 'twitter:description'
       value: Our 6-week intensive program helps selected fresh graduates to achieve their full potential
 layout: advanced
