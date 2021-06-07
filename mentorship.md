@@ -128,6 +128,8 @@ Creates demand for your expertise: It can increases opportunities for your sales
 
 Giving back: Payments for the mentorship program will be used for empowering girls in rural area
 
+Develop leadership and management qualities: You will solve problems, communicate many topics with your mentee and use your emotional skills to encourage or influence your mentee
+
 
     grid_cols: two
     grid_gap_horiz: medium
