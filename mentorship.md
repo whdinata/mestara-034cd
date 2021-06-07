@@ -1,5 +1,5 @@
 ---
-title: Mentorship
+title: Mestara Mentorship
 sections:
   - type: hero_section
     title: Explore Features
