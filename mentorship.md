@@ -89,7 +89,7 @@ sections:
     title: Benefits
     grid_items:
       - content: >-
-          For Mentee
+          **For Mentee**
           **Real-life & applicable advice**
           
           
