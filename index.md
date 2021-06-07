@@ -256,7 +256,7 @@ sections:
     background_color: primary
 seo:
   title: Mestara
-  description: Women empower women
+  description: Women empowerment program and mentorship program
   extra:
     - name: 'og:type'
       value: website
