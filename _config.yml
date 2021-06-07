@@ -14,10 +14,10 @@ header:
   has_primary_nav: true
   primary_nav_links:
     - label: Mentorship
-      url: '/mentorship'
+      url: /mentorship
       style: link
     - label: Berdaya
-      url: '/berdaya'
+      url: /berdaya
       style: link
   has_secondary_nav: true
   secondary_nav_links:
@@ -26,7 +26,7 @@ header:
       url: /general-enquiries
     - label: Contribute
       style: secondary
-      url: /#
+      url: /donation
   has_anncmnt: false
   anncmnt_align: left
   anncmnt_is_home_only: false
