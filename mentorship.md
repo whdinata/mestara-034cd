@@ -94,11 +94,8 @@ sections:
           
           Guidance and support from more experienced professional
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          > Accountability: Meet new friends who are ready to help you adhere to goals & commitment
 
-
-          **Gordon Norman,** *Web Designer, Studio*
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
