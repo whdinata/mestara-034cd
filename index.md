@@ -40,8 +40,8 @@ sections:
       - image_alt: Netlify logo
         image_align: center
         content: >
-          > *In 2018, **1 of 9 girls** aged 20-24 in Indonesia was married before
-          reaching age 18 which potentially make them to be more vulnerable to
+          > *In 2018, **1 of 9 girls** aged 20-24 in Indonesia was **married before
+          reaching age 18** which potentially make them to be more vulnerable to
           violence and poverty*
 
 
