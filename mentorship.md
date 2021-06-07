@@ -109,7 +109,8 @@ sections:
       
           Learn and improve various skills each week
       - content: >-
-      
+      Empowerment: You will feel like you have the control over your career and destiny
+
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
