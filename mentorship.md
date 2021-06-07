@@ -66,11 +66,11 @@ sections:
       - title: Week 5
         title_align: left
         content: >-
-          - Ultimate personal finance guide
+          - Personal branding 
           
-          - Group mentoring
+          - Fireside chat with the alpha women
           
-          - Individual task
+          - 1:1 Career coach
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
