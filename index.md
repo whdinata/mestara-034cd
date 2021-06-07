@@ -82,7 +82,7 @@ sections:
         content: "Our intensive program will help fresh graduates to achieve their full potential. Our mentorship program consists of individual coaching, group work and webinar series, that covers different topics to equip mentees with orientation towards career success."
         actions:
           - label: Learn More
-            url: '/#'
+            url: '/mentorship'
             style: secondary
             has_icon: true
             icon: arrow-right
