@@ -3,10 +3,13 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      We envision a world in which young women, regardless of socioeconomic backgrounds, are **empowered, uplifted & able to control their lives.**
+      We envision a world in which young women, regardless of socioeconomic
+      backgrounds, are **empowered, uplifted & able to control their lives.**
 
 
-      Our mission is to **empower women** from different backgrounds to reach their full **potential**, work their way **out of poverty** and able to **empower other women** in their community.
+      Our mission is to **empower women** from different backgrounds to reach
+      their full **potential**, work their way **out of poverty** and able to
+      **empower other women** in their community.
     actions: []
     media_position: left
     media_width: fifty
@@ -85,7 +88,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-1.png
+        image: images/3.png
         media_position: right
         media_width: fifty
       - title: Mestara Berdaya
