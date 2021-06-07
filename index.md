@@ -55,14 +55,15 @@ sections:
           Source: Labour Force Survey, BPS, February 2020
         title_align: left
         content_align: left
-      - image_alt: Git logo
-        image_align: center
+      - image_align: center
         content: >
           > *Only **52%** of graduates land themselves **a graduate-level job** the
           remaining 48% work in roles that do not require a degree.*
 
 
           Source: The Graduate Employment Gap, CIPD, 2017
+        title_align: left
+        content_align: left
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
