@@ -80,7 +80,7 @@ sections:
           21 selected mentees from different cities, universities and
           backgrounds will take part in 6-week intensive personal development
           program.
-        content: "Our intensive program is for selected new graduates, helping them to achieve their full potential.\_\n\n \n\nAll proceeds of the mentorship program will be used for Mestara Berdaya program.\n"
+        content: "Our intensive program is for selected new graduates, helping them to achieve their full potential.\_\n\n"
         actions:
           - label: Learn More
             url: '/#'
