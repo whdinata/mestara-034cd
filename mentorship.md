@@ -22,7 +22,7 @@ sections:
         media_position: left
         media_width: fifty
   - type: grid_section
-    title: Cards Section
+    title: Agenda
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
