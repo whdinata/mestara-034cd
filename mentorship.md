@@ -14,7 +14,7 @@ sections:
         image: images/about-3.jpg
         media_position: right
         media_width: fifty
-      - title: Group work
+      - title: Group Work
         subtitle: 'Every week mentees will attend webinar by women who work in the field as speaker.'
         content: >-
            The webinars cover different topics to navigate life after university and successfully transition into their career.
