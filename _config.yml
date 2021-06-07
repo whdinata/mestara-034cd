@@ -22,7 +22,7 @@ header:
   has_secondary_nav: true
   secondary_nav_links:
     - label: Contact
-      url: /contact
+      url: '#'
       style: link
     - label: Partner with us
       url: '/#'
