@@ -16,9 +16,6 @@ header:
     - label: Program
       url: '/#'
       style: link
-    - label: About
-      url: '/#'
-      style: link
   has_secondary_nav: true
   secondary_nav_links:
     - label: Contact us
