@@ -89,11 +89,8 @@ sections:
     title: Benefits for Mentee
     grid_items:
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          **Real-life & applicable advice: Guidance and support from more experienced professional 
 
-
-          **Eleanor Carr,** *CTO, Studio*
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
