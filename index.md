@@ -20,7 +20,7 @@ sections:
     background_color: secondary
     title: We are Mestara
     background_image_size: cover
-    background_image: images/2 Landing Page copy.png
+    background_image: images/2 Landing Page.png
     has_border: false
     background_image_position: center bottom
     background_image_repeat: no-repeat
