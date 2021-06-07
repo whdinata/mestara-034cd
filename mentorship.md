@@ -3,7 +3,6 @@ title: Mestara Mentorship
 sections:
   - type: hero_section
     title: Mestara Mentorship
-    subtitle: Features Page Demo
     background_color: primary
   - type: features_section
     features:
