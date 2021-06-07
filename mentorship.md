@@ -116,7 +116,7 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Want to participate?
-    content: Each selected mentee 
+    content: We ask for 450.000 IDR as commitment fee for each mentee. All proceeds of this program will go to 
     actions:
       - label: Compare Plans
         url: /pricing
