@@ -72,6 +72,13 @@ sections:
           
           - 1:1 Career coach
         content_align: left
+      - title: Week 6
+        title_align: left
+        content: >-
+        - Project presentation
+
+        - Feedback & closing
+        
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
