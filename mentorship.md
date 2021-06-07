@@ -33,7 +33,6 @@ sections:
           - Discover yourself & develop a structured plan of action
           
           - 1:1 Career coach
-
         content_align: left
         actions:
           - label: Learn More
