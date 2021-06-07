@@ -6,7 +6,7 @@ sections:
       We envision a world in which young women, regardless of socioeconomic backgrounds, are **empowered, uplifted & able to control their lives.**
 
 
-      Our mission is to **empower women** from different backgrounds to reach their full **potential, work their way **out of poverty** and able to **empower other women** in their community.
+      Our mission is to **empower women** from different backgrounds to reach their full **potential**, work their way **out of poverty** and able to **empower other women** in their community.
     actions: []
     media_position: left
     media_width: fifty
