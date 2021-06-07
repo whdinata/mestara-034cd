@@ -26,7 +26,7 @@ sections:
         content: >-
            The webinars cover different topics to navigate life after university and successfully transition into their career.
         image: images/about-2.jpg
-        media_position: left
+        media_position: right
         media_width: fifty
   - type: grid_section
     title: Agenda
