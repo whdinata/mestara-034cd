@@ -21,7 +21,7 @@ header:
       style: link
   has_secondary_nav: true
   secondary_nav_links:
-    - label: Partner with us
+    - label: Contact us
       url: '/#'
       style: secondary
   has_anncmnt: false
