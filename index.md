@@ -83,7 +83,7 @@ sections:
         content: "Our intensive program is for selected new graduates, helping them to achieve their full potential.\_\n\nEvery week mentees will attend a webinar about different topics to navigate life after college and successfully transition into their career with women who work in the field as speaker. Each mentee is paired with a mentor who will give honest, practical and real-life advice. Mentees will be divided to small groups where they will work together to solve a complex problem to hone their critical & entrepreneurial thinking.\n\nAll proceeds of the mentorship program will be used for Mestara Berdaya program.\n"
         actions:
           - label: Learn More
-            url: /mentorship
+            url: '/#'
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -205,15 +205,15 @@ sections:
     grid_items:
       - content: >
           Combination of weekly webinar and 1:1 coaching sessions.
-          
+
           - Weekly webinar: **June 3rd 2021 - August 7th 2021, every Saturday, 1
           PM - 4 PM WIB**.
 
           - **1:1 coaching session** schedule would be determined with your
           mentor.
-          
-          - All events are held **online**, but we promise to make it interactive
-          & personal
+
+          - All events are held **online**, but we promise to make it
+          interactive & personal
 
 
           **Topics:**
@@ -242,16 +242,17 @@ sections:
         title: Mentorship
       - content: >
           - Nr. of participants: 5 girls
-          
+
           - Age of participants: 14+
-          
+
           - Project time: September 2021
-          
+
           - Project duration: 1 month
-          
+
           - Program: haircut training, personal finance workshop
-          
-          - Location: Pondok Pesantren Alhamdulillah, Desa Geger Kec. Kedungadem, Kabupaten Bojonegoro, Jawa Timur
+
+          - Location: Pondok Pesantren Alhamdulillah, Desa Geger Kec.
+          Kedungadem, Kabupaten Bojonegoro, Jawa Timur
         image: images/6 Mestara berdaya.png
         image_position: left
         image_width: twenty-five
