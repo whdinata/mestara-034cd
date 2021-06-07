@@ -36,8 +36,8 @@ sections:
           stage of development.*
 
 
-          Women Economic Participation in Indonesia, Monash University, June
-          2017
+          Source: Women Economic Participation in Indonesia, Monash University,
+          June 2017
         title_align: left
         content_align: left
       - image_alt: Netlify logo
