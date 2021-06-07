@@ -135,7 +135,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Features
+      value: Mestara Mentorship
       keyName: property
     - name: 'og:description'
       value: Our 6-week intensive program helps selected fresh graduates to achieve their full potential
