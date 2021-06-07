@@ -116,7 +116,7 @@ sections:
       - content: >-
           **_As a Mentor_**
 
-          - **Personal Growth and a Sense of Fulfillment:** You’re able to have a remarkable impact on a person’s future.
+          - **Personal growth and a Sense of Fulfillment:** You’re able to have a remarkable impact on a person’s future.
 
 
           - **Recognition:** Sharing your knowledge with others will give your talents more exposure
