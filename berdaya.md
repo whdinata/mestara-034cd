@@ -7,10 +7,10 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Individual Coaching
+      - title: 
         subtitle: 'Each mentee is paired with a mentor who will give honest, practical and real-life advice.'
         content: >-
-          We provide 1 month practical skill training to poor and marginalised women to create a better life for themselves and their family by empowering & equipping them with relevant skills
+          We provide 1 month practical skill training to poor and marginalised women to create a better life for themselves and their family by empowering & equipping them with relevant skills.
         image: images/about-3.jpg
         media_position: right
         media_width: fifty
