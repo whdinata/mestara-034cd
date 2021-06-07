@@ -16,7 +16,7 @@ sections:
     media_width: fifty
     align: right
     padding_top: small
-    padding_bottom: medium
+    padding_bottom: large
     background_color: secondary
     title: We are Mestara
     background_image_size: cover
