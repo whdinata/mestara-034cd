@@ -14,8 +14,7 @@ sections:
         image: images/about-3.jpg
         media_position: right
         media_width: fifty
-    - title: Berdaya
-    
+    - title: 
   - type: grid_section
     title: Agenda
     subtitle: 'Next period: July 3th - August 7th 2021'
