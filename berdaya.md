@@ -30,8 +30,8 @@ sections:
     title: Want to participate?
     content: We are happy to receive donations, media partners or sponsors, and ideas for our next empowerment program.
     actions:
-      - label: Register now
-        url: /https://forms.gle/bi5YhTcHWZpoPdoS9
+      - label: Donate
+        url: /#
         style: primary
     actions_position: right
     align: left
