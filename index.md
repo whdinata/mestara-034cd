@@ -130,7 +130,7 @@ sections:
     title: Join our movement
     actions:
       - label: Donate
-        url: /pricing
+        url: /donate
         style: secondary
       - url: '#'
         style: secondary
