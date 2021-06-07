@@ -15,7 +15,7 @@ sections:
           
           In addition, we will also teach them entrepreneur skill and donate the equipments so they can apply their new skill to generate more income and potentially teach other women.
         image: images/about-3.jpg
-        media_position: right
+        media_position: left
         media_width: fifty
       - title: First empowerment program
         content: >-
