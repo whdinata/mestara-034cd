@@ -86,7 +86,7 @@ sections:
     align: center
     background_color: primary
   - type: grid_section
-    title: Reviews Section
+    title: Benefits for Mentee
     subtitle: Grid Section Example
     grid_items:
       - content: >-
