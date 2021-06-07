@@ -111,7 +111,7 @@ sections:
           financially.**
         actions:
           - label: Learn More
-            url: '/#'
+            url: /berdaya
             style: secondary
             has_icon: true
             icon: arrow-right
