@@ -276,7 +276,7 @@ seo:
     - name: 'twitter:title'
       value: Mestara
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Women empowerment program and mentorship program
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
