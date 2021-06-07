@@ -53,7 +53,7 @@ seo:
       value: Mestara Mentorship
       keyName: property
     - name: 'og:description'
-      value: Our 6-week intensive program helps selected fresh graduates to achieve their full potential
+      value: Women empowerment program
       keyName: property
     - name: 'twitter:title'
       value: Mestara Mentorship
