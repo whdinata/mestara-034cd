@@ -211,11 +211,9 @@ sections:
 
           *   **Every Saturday 1 PM - 4 PM WIB**.
 
-          *   **1:1 coaching session** schedule will be discussed with your
-          mentor.
+          *   1:1 coaching session schedule will be discussed with your mentor.
 
-          *   All events are held **online**, but we promise to make it
-          interactive
+          *   All events are held **online**, but we promise to make it interactive
 
 
           **Last registration date: June 26th 2021**
