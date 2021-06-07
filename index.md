@@ -218,7 +218,7 @@ sections:
           interactive
 
 
-          **Register before
+          **Please register before
           June 26th 2021**
         image: images/5 Mentorship.png
         image_position: left
