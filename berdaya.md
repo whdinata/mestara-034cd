@@ -1,8 +1,8 @@
 ---
-title: Mestara Mentorship
+title: Mestara Berdaya
 sections:
   - type: hero_section
-    title: Mestara Mentorship
+    title: Mestara Berdaya
     subtitle: Our 6-week intensive program helps selected fresh graduates to achieve their full potential. 
     background_color: primary
   - type: features_section
