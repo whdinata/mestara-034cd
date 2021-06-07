@@ -126,6 +126,8 @@ Generating new ideas: Feedback, discussion and questions can spark new ideas
 
 Creates demand for your expertise: It can increases opportunities for your sales or revenue
 
+Giving back: Payments for the mentorship program will be used for empowering girls in rural area
+
 
     grid_cols: two
     grid_gap_horiz: medium
