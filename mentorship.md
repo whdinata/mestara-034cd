@@ -22,7 +22,7 @@ sections:
         media_position: left
         media_width: fifty
       - content: >-
-           The webinars cover different topics to navigate life after university and successfully transition into their career.
+           We will select 21 mentees
         media_position: center
         media_width: fifty
   - type: grid_section
