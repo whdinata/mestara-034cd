@@ -147,7 +147,7 @@ sections:
     enable_cards: true
   - type: cta_section
     title: Want to participate?
-    content: 'We ask for 450.000 IDR as commitment fee for each mentee. \n\nAll proceeds of this program will go to [Mestara Berdaya](/mestara-berdaya) program.
+    content: 'We ask for 450.000 IDR as commitment fee for each mentee. \n\nAll proceeds of this program will go to [Mestara Berdaya](/mestara-berdaya) program.'
     actions:
       - label: Join as Mentee
         url: https://forms.gle/bi5YhTcHWZpoPdoS9
