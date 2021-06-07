@@ -14,7 +14,7 @@ sections:
     actions: []
     media_position: left
     media_width: fifty
-    align: left
+    align: right
     padding_top: large
     padding_bottom: large
     background_color: primary
