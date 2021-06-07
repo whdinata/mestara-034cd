@@ -43,8 +43,8 @@ sections:
     has_border: false
     background_color: primary
 seo:
-  title: Mestara Mentorship
-  description: Our 6-week intensive program helps selected fresh graduates to achieve their full potential
+  title: Mestara Berdaya
+  description: Women empowerment program
   extra:
     - name: 'og:type'
       value: website
