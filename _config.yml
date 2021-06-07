@@ -22,7 +22,6 @@ header:
   has_secondary_nav: true
   secondary_nav_links:
     - label: Contact us
-      url: '/#'
       style: secondary
   has_anncmnt: false
   anncmnt_align: left
