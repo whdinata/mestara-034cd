@@ -112,5 +112,5 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
-domain: 'https://mestara.com'
+domain: 'http://mestara.com'
 favicon: images/magenta-aluminum.png
