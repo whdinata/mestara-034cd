@@ -24,7 +24,7 @@ header:
     - label: Contact us
       style: link
       url: /general-enquiries
-    - label: Donate
+    - label: Support
       style: secondary
       url: /#
   has_anncmnt: false
