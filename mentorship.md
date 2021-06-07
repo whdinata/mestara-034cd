@@ -114,8 +114,12 @@ sections:
           
           You will feel like you have the control over your career and destiny
       - content: >-
-          **Critical thinking: You will work on solving a complex problem during the program
-
+          **Critical thinking**
+          
+          
+          You will work on solving a complex problem during the program
+      - content: >-
+          
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
