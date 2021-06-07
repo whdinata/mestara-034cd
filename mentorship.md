@@ -118,7 +118,7 @@ sections:
     title: Want to participate?
     content: We ask for 450.000 IDR as commitment fee for each mentee. All proceeds of this program will go to Mestara Berdaya program.
     actions:
-      - label: Compare Plans
+      - label: Register now
         url: /pricing
         style: primary
     actions_position: right
