@@ -45,20 +45,7 @@ sections:
           
           - Individual task
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-2.svg
-        image_alt: Item 2 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: Section Item 3
+      - title: Week 3
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
