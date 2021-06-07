@@ -23,7 +23,7 @@ sections:
         media_width: fifty
   - type: grid_section
     title: Agenda
-    subtitle: Grid Section Example
+    subtitle: 
     grid_items:
       - title: Section Item 1
         title_align: left
