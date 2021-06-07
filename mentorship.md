@@ -15,7 +15,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Webinar
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: 'Ea '
         content: >-
           Every week mentees will attend a webinar about different topics to navigate life after college and successfully transition into their career with women who work in the field as speaker.
         media_position: left
