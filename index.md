@@ -77,12 +77,16 @@ sections:
     features:
       - title: Mestara Mentorship
         subtitle: >-
-          Selected mentees will take part in 6-week intensive personal development
-          program.
-        content: "Our intensive program will help fresh graduates to achieve their full potential. Our mentorship program consists of individual coaching, group work and webinar series, that covers different topics to equip mentees with orientation towards career success."
+          Selected mentees will take part in 6-week intensive personal
+          development program.
+        content: >-
+          Our intensive program will help fresh graduates to achieve their full
+          potential. Our mentorship program consists of individual coaching,
+          group work and webinar series, that covers different topics to equip
+          mentees with orientation towards career success.
         actions:
           - label: Learn More
-            url: '/mentorship'
+            url: /mentorship
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -186,7 +190,7 @@ sections:
         no_follow: false
         type: action
       - label: Partner with us
-        url: '/#'
+        url: 'mailto:'
         style: secondary
         has_icon: false
         icon: arrow-left
@@ -212,7 +216,8 @@ sections:
 
           *   1:1 coaching session schedule will be discussed with your mentor.
 
-          *   All events are held **online**, but we promise to make it interactive
+          *   All events are held **online**, but we promise to make it
+          interactive
 
 
           **Last registration date: June 26th 2021**
