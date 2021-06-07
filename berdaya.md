@@ -10,7 +10,7 @@ sections:
       - title: Women empower women
         subtitle: 'The goal of the program is to support women to become independents and to give them opportunity to support themselves or their family financially.'
         content: >-
-          We provide 1 month practical skill training to poor and marginalised women to create a better life for themselves and their family by empowering & equipping them with relevant skills.
+          WWe provide free training for women who live in poor rural households, to help them discover income-generating opportunities and enhance their living standards.
         image: images/about-3.jpg
         media_position: right
         media_width: fifty
