@@ -95,21 +95,15 @@ sections:
           
 
           - **Accountability:** Meet new friends who are ready to help you adhere to goals & commitment
-          **A larger network** 
           
-
-          A community of fabulous, supportive and inspiring women
-      - content: >-
-          **New development opportunities**
-      
-      
-          Learn and improve various skills each week
-      - content: >-
-          **Empowerment**
-        
           
-          You will feel like you have the control over your career and destiny
-      - content: >-
+          - **A larger network:** A community of fabulous, supportive and inspiring women
+          
+          
+          - **New development opportunities:** Learn and improve various skills each week
+          
+          
+          - **Empowerment:** You will feel like you have the control over your career and destiny
           **Critical thinking**
           
           
