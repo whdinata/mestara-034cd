@@ -79,7 +79,7 @@ sections:
         subtitle: >-
           Selected mentees will take part in 6-week intensive personal development
           program.
-        content: "Our intensive program will help fresh graduates to achieve their full potential. Our mentorship program consists of individual coaching, group work and webinar series, that covers different topics to offer "
+        content: "Our intensive program will help fresh graduates to achieve their full potential. Our mentorship program consists of individual coaching, group work and webinar series, that covers different topics to offer navigation"
         actions:
           - label: Learn More
             url: '/#'
