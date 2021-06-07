@@ -234,7 +234,7 @@ sections:
           - Week 6: Project presentation
 
 
-          Register [here](https://forms.gle/AJ9MaLgFmfTV4RL89) before **June
+          **Register [here](https://forms.gle/AJ9MaLgFmfTV4RL89) before June
           26th 2021**
         image: images/5 Mentorship.png
         image_position: left
