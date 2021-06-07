@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     background_color: primary
     title: We are Mestara
-    background_image_size: auto
+    background_image_size: contain
     background_image: images/2 Landing Page.png
   - type: grid_section
     title: Our Why
