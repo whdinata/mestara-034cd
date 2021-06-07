@@ -57,9 +57,11 @@ sections:
       - title: Week 4
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          - Ultimate personal finance guide
+          
+          - Group mentoring
+          
+          - Individual task
         content_align: left
         actions:
           - label: Learn More
