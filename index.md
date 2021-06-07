@@ -22,15 +22,16 @@ sections:
     background_color: primary
     title: We are Mestara
     background_image_size: auto
+    background_image: images/2 Landing Page.png
   - type: grid_section
     title: Our Why
     align: center
     grid_items:
       - image_align: center
         content: >
-          > *At **51%**, Indonesia’s female labour force **participation rate** is well
-          below that for males (around 80%) and low relative to countries at a
-          comparable stage of development.*
+          > *At **51%**, Indonesia’s female labour force **participation rate**
+          is well below that for males (around 80%) and low relative to
+          countries at a comparable stage of development.*
 
 
           Source: Women Economic Participation in Indonesia, Monash University,
@@ -39,9 +40,9 @@ sections:
         content_align: left
       - image_align: center
         content: >
-          > *In 2018, **1 of 9 girls** aged 20-24 in Indonesia was **married before
-          reaching age 18** which potentially make them to be more vulnerable to
-          violence and poverty*
+          > *In 2018, **1 of 9 girls** aged 20-24 in Indonesia was **married
+          before reaching age 18** which potentially make them to be more
+          vulnerable to violence and poverty*
 
 
           Source: Indonesia Child Marriage Report, UNICEF, 2020
@@ -49,16 +50,18 @@ sections:
         content_align: left
       - image_align: center
         content: >
-          > *Indonesian **women earn 23% less** than men. Although more women workers have a college or university degree compared to male workers, higher education can’t narrow the gender pay gap.*
-        
+          > *Indonesian **women earn 23% less** than men. Although more women
+          workers have a college or university degree compared to male workers,
+          higher education can’t narrow the gender pay gap.*
+
 
           Source: Labour Force Survey, BPS, February 2020
         title_align: left
         content_align: left
       - image_align: center
         content: >
-          > *Only **52%** of graduates land themselves **a graduate-level job** the
-          remaining 48% work in roles that do not require a degree.*
+          > *Only **52%** of graduates land themselves **a graduate-level job**
+          the remaining 48% work in roles that do not require a degree.*
 
 
           Source: The Graduate Employment Gap, CIPD, 2017
@@ -73,7 +76,9 @@ sections:
     features:
       - title: Mestara Mentorship
         subtitle: >-
-          21 selected mentees from different cities, universities and backgrounds will take part in 6-week intensive personal development program.
+          21 selected mentees from different cities, universities and
+          backgrounds will take part in 6-week intensive personal development
+          program.
         content: "Our intensive program is for selected new graduates, helping them to achieve their full potential.\_\n\nEvery week mentees will attend a webinar about different topics to navigate life after college and successfully transition into their career with women who work in the field as speaker. Each mentee is paired with a mentor who will give honest, practical and real-life advice. Mentees will be divided to small groups where they will work together to solve a complex problem to hone their critical & entrepreneurial thinking.\n\nAll proceeds of the mentorship program will be used for Mestara Berdaya program.\n"
         actions:
           - label: Learn More
@@ -86,7 +91,20 @@ sections:
         media_position: right
         media_width: fifty
       - title: Mestara Berdaya
-        content: "We provide free training for women who live in poor rural households, to help them discover income-generating opportunities and enhance their living standards.\n\nIn addition, we will also teach them entrepreneur skill and donate the equipments so they can apply their new skill to generate more income and potentially teach other women.\n\n**The goal of the program is to support women to become independent and to give them opportunity to support themselves or their family financially.**"
+        content: >-
+          We provide free training for women who live in poor rural households,
+          to help them discover income-generating opportunities and enhance
+          their living standards.
+
+
+          In addition, we will also teach them entrepreneur skill and donate the
+          equipments so they can apply their new skill to generate more income
+          and potentially teach other women.
+
+
+          **The goal of the program is to support women to become independent
+          and to give them opportunity to support themselves or their family
+          financially.**
         actions:
           - label: Learn More
             url: /berdaya
@@ -98,7 +116,9 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: >-
-          We provide 1-month practical skill training to poor & marginalized women to create a better life for themselves and their family by empowering & equipping them with relevant skills.
+          We provide 1-month practical skill training to poor & marginalized
+          women to create a better life for themselves and their family by
+          empowering & equipping them with relevant skills.
     feature_padding_vert: large
     align: center
     background_color: secondary
@@ -139,7 +159,7 @@ sections:
         no_follow: false
         type: action
       - label: Join as Mentor
-        url: '/mentorship'
+        url: /mentorship
         style: secondary
         has_icon: false
         icon: arrow-left
@@ -148,7 +168,7 @@ sections:
         no_follow: false
         type: action
       - label: Join as Mentee
-        url: '/mentorship'
+        url: /mentorship
         style: secondary
         has_icon: false
         icon: arrow-left
