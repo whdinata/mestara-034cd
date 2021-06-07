@@ -252,11 +252,7 @@ sections:
           Nr. of participants: 5 girls
           Age of participants: 14+
           Project time: September 2021
-
-
           Project duration: 1 month
-
-
           Program: haircut training, personal finance workshop
 
 
