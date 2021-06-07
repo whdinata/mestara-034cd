@@ -265,7 +265,7 @@ seo:
       value: Mestara
       keyName: property
     - name: 'og:description'
-      value: Women empower women
+      value: Women empowerment program and mentorship program
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
