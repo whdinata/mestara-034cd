@@ -225,17 +225,17 @@ sections:
         image_width: twenty-five
         title: Mentorship
       - content: >
-          - Nr. of participants: 5 girls
+          *   Nr. of participants: 5 girls
 
-          - Age of participants: 14+
+          *   Age of participants: 14+
 
-          - Project time: September 2021
+          *   Project time: **September 2021**
 
-          - Project duration: 1 month
+          *   Project duration: 1 month
 
-          - Program: haircut training, personal finance workshop
+          *   Program: haircut training, personal finance workshop
 
-          - Location: Pondok Pesantren Alhamdulillah, Desa Geger Kec.
+          *   Location: Pondok Pesantren Alhamdulillah, Desa Geger Kec.
           Kedungadem, Kabupaten Bojonegoro, Jawa Timur
         image: images/6 Mestara berdaya.png
         image_position: left
