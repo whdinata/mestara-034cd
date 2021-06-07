@@ -11,7 +11,6 @@ sections:
         content: >-
           Mentees will be divided to small groups where they will work together to solve a complex problem to hone their critical & entrepreneurial thinking.
         image: images/about-3.jpg
-        image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
       - title: Section Title Two
