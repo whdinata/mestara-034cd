@@ -75,9 +75,9 @@ sections:
       - title: Week 6
         title_align: left
         content: >-
-        - Project presentation
+          - Project presentation
 
-        - Feedback & closing
+          - Feedback & closing
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
