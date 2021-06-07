@@ -21,6 +21,7 @@ sections:
     title: We are Mestara
     background_image_size: cover
     background_image: images/2 Landing Page.png
+    has_border: true
   - type: grid_section
     title: Our Why
     align: center
