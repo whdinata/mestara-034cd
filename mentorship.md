@@ -96,9 +96,11 @@ sections:
       - content: >-
           **Accountability**
           
+
           Meet new friends who are ready to help you adhere to goals & commitment
       - content: >-
           **A larger network** 
+          
           
           A community of fabulous, supportive and inspiring women 
     grid_cols: two
