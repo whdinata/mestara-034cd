@@ -37,8 +37,7 @@ sections:
           June 2017
         title_align: left
         content_align: left
-      - image_alt: Netlify logo
-        image_align: center
+      - image_align: center
         content: >
           > *In 2018, **1 of 9 girls** aged 20-24 in Indonesia was **married before
           reaching age 18** which potentially make them to be more vulnerable to
@@ -51,7 +50,7 @@ sections:
         content: > 
         > * **Indonesian women earn 23% less than men.** Although more women workers have a college or university degree compared to male workers, higher education can’t narrow\_ the gender pay gap.*
         
-        
+
         Source: Labour Force Survey, BPS, February 2020
       - image_alt: Git logo
         image_align: center
