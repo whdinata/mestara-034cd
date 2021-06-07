@@ -98,7 +98,8 @@ sections:
           
           Meet new friends who are ready to help you adhere to goals & commitment
       - content: >-
-          **A larger network** A community of fabulous, supportive and inspiring women 
+          **A larger network** 
+          A community of fabulous, supportive and inspiring women 
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
