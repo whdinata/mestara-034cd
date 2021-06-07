@@ -130,7 +130,7 @@ sections:
           Because you deserve it
     grid_cols: four
     grid_gap_horiz: medium
-    grid_gap_vert: large
+    grid_gap_vert: medium
     align: center
     background_color: secondary
   - type: cta_section
