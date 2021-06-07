@@ -118,6 +118,8 @@ sections:
 
           - Personal Growth and A Sense of Fulfillment: You’re able to have a remarkable impact on a person’s future.
 
+Recognition: Sharing your knowledge with others will give your talents more exposure
+
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
