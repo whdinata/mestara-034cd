@@ -25,8 +25,7 @@ sections:
         actions_width: full-width
       - title: GoPay
         title_align: left
-        content: |
-          Please use GoPay app to scan the QR code below.
+        content: Please use GoPay app to scan the QR code below.
         content_align: left
         actions:
           - label: Start with Premium
