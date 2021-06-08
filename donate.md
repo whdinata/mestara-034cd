@@ -15,7 +15,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Paypal
-        subtitle: Optional subtitle
+        subtitle: 
         title_align: left
         content: |-
           ---
