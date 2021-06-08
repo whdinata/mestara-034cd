@@ -12,7 +12,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Paypal
+      - title: PayPal
         subtitle: null
         title_align: center
         content: You can install PayPal app to scan the QR code below.
