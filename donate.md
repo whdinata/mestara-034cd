@@ -23,7 +23,7 @@ sections:
         image_align: center
         image_has_padding: true
       - title: GoPay
-        title_align: left
+        title_align: center
         content: |
           You can use GoPay app to scan the QR code below.
         content_align: left
