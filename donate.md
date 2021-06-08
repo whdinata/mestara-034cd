@@ -27,10 +27,11 @@ sections:
         title_align: left
         content: Please use GoPay app to scan the QR code below.
         content_align: left
+                actions: []
         actions_align: left
         actions_width: full-width
-      - title: Business
-        subtitle: Optional subtitle
+      - title: OVO
+        subtitle: 
         title_align: left
         content: |-
           ---
