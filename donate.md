@@ -57,7 +57,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Pricing
+      value: Donate Mestara
       keyName: property
     - name: 'og:description'
       value: This is donation page for women empowerment and mentorship program
