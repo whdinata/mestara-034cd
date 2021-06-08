@@ -20,7 +20,6 @@ sections:
         title_align: left
         content: You can install PayPal app to scan the QR code below.
         content_align: left
-        image: 
       - title: GoPay
         title_align: left
         content: Please use GoPay app to scan the QR code below.
