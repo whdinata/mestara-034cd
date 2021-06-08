@@ -20,9 +20,7 @@ sections:
         content: |-
           ---
 
-          You can scan the QR code below
-
-          per month, billed yearly
+          You can scan the QR code below.
 
           * Et semper leo mattis orci conubia congue
           * Quisque eleifend imperdiet tortor
