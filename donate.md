@@ -16,7 +16,7 @@ sections:
         subtitle: null
         title_align: center
         content: |
-          You can install PayPal app to scan the QR code below.
+          You can use PayPal app to scan the QR code below.
         content_align: left
         image: images/QR_PayPal.jpg
         image_position: bottom
