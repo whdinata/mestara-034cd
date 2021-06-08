@@ -21,10 +21,7 @@ sections:
         content: |
           You can install PayPal app and scan the QR code below.
         content_align: left
-        actions:
-          - label: Start with Personal
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
       - title: Premium
