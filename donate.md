@@ -24,16 +24,10 @@ sections:
         title_align: left
         content: Please use GoPay app to scan the QR code below.
         content_align: left
-                actions: []
-        actions_align: left
-        actions_width: full-width
       - title: OVO
         title_align: left
         content: Please use OVO app to scan the QR code below.
         content_align: left
-        actions: []
-        actions_align: left
-        actions_width: full-width
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
