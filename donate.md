@@ -28,7 +28,8 @@ sections:
         content_align: left
       - title: OVO
         title_align: left
-        content: Please use OVO app to scan the QR code below.
+        content: |
+          You can use OVO app to scan the QR code below.
         content_align: left
     grid_cols: three
     grid_gap_horiz: small
