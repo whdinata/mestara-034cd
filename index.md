@@ -18,7 +18,7 @@ sections:
     padding_bottom: large
     background_color: primary
     title: We are Mestara
-    background_image_size: cover
+    background_image_size: auto
     has_border: false
     background_image_position: center bottom
     background_image_repeat: no-repeat
