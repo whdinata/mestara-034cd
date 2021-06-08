@@ -21,7 +21,7 @@ sections:
         image_position: bottom
         image_width: fourty
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
       - title: GoPay
         title_align: center
         content: |
