@@ -20,7 +20,7 @@ sections:
         content: |-
           ---
 
-          ### $9
+          You can scan the QR code below
 
           per month, billed yearly
 
