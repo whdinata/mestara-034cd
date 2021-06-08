@@ -16,7 +16,7 @@ header:
     - label: Mentorship
       url: /mentorship
       style: link
-    - label: Berdaya
+    - label: Empowerment
       url: /berdaya
       style: link
   has_secondary_nav: true
