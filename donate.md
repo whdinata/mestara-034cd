@@ -32,18 +32,7 @@ sections:
         actions_width: full-width
       - title: OVO
         title_align: left
-        content: |-
-          ---
-
-          ### $39
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+        content: Please use OVO app to scan the QR code below.
         content_align: left
         actions:
           - label: Start with Business
