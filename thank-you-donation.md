@@ -1,5 +1,5 @@
 ---
-title: D
+title: Thank you for your donation!
 sections:
   - type: hero_section
     title: Thank You!
