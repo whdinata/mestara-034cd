@@ -5,7 +5,7 @@ sections:
     title: Thank you for your donation!
     subtitle: We are glad that you would like to support our cause too.
     content: >- 
-        We receive the payment methods below. There is no minimum and maximum amount for the donation. All donations are one-time
+        We receive the payment methods below. There is no minimum and maximum amount for the donation.
         
         
         In case you could not find what you prefer, please contact us with the [contact form](\general-enquiries).
