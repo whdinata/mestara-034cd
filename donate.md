@@ -26,18 +26,8 @@ sections:
         actions_width: full-width
       - title: GoPay
         title_align: left
-        content: |-
-          ---
-
-          ### $19
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+        content: |
+          Please use GoPay app to scan the QR code below.
         content_align: left
         actions:
           - label: Start with Premium
