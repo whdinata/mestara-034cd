@@ -45,9 +45,7 @@ sections:
         content_align: left
       - image_align: center
         content: >
-          > *Indonesian **women earn 23% less** than men. Although more women
-          workers have a college or university degree compared to male workers,
-          higher education can’t narrow the gender pay gap.*
+          > *Indonesian **women earn 23% less** than men. Although more women workers have a college or university degree compared to male workers, higher education can’t narrow the gender pay gap.*
 
 
           Source: Labour Force Survey, BPS, February 2020
@@ -55,8 +53,7 @@ sections:
         content_align: left
       - image_align: center
         content: >
-          > *Only **52%** of graduates land themselves **a graduate-level job**
-          the remaining 48% work in roles that do not require a degree.*
+          > *Only **52%** of graduates land themselves **a graduate-level job** the remaining 48% work in roles that do not require a degree.*
 
 
           Source: The Graduate Employment Gap, CIPD, 2017
