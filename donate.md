@@ -30,7 +30,7 @@ sections:
         image_has_padding: true
         image_align: center
         image_position: bottom
-        image_width: fourty
+        image_width: thirty-three
       - title: OVO
         title_align: center
         content: |
@@ -39,8 +39,8 @@ sections:
         image_position: bottom
         image_align: center
         image_has_padding: true
-        image_width: fourty
-    grid_cols: two
+        image_width: thirty-three
+    grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: true
