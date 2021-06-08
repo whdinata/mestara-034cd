@@ -71,7 +71,7 @@ seo:
     - name: 'twitter:title'
       value: Pricing
     - name: 'twitter:description'
-      value: This is the pricing page
+      value: This is donation page for women empowerment and mentorship program
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
