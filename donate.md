@@ -39,6 +39,7 @@ sections:
         image_position: bottom
         image_align: center
         image_has_padding: true
+        image_width: fourty
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
