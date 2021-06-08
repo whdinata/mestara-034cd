@@ -17,7 +17,7 @@ header:
       url: /mentorship
       style: link
     - label: Empowerment
-      url: /mestara-berdaya
+      url: /berdaya
       style: link
   has_secondary_nav: true
   secondary_nav_links:
