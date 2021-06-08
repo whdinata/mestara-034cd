@@ -36,6 +36,7 @@ sections:
         content: |
           You can use OVO app to scan the QR code below.
         content_align: left
+        image_position: bottom
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
