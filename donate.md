@@ -6,7 +6,7 @@ sections:
     subtitle: We're glad that you support our cause too.
     content: >
       We receive the payment methods below. In case you could not find what you
-      prefer, please contact us with the [contact form](\general-enquiries).
+      prefer, please contact us via [contact form](\general-enquiries).
     align: center
     padding_top: large
     padding_bottom: small
