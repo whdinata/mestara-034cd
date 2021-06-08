@@ -31,7 +31,6 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: OVO
-        subtitle: 
         title_align: left
         content: |-
           ---
