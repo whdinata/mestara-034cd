@@ -23,7 +23,7 @@ sections:
     has_border: false
     background_image_position: center bottom
     background_image_repeat: no-repeat
-    image: images/unnamed.png
+    image: images/7 Square.png
   - type: grid_section
     title: Our why
     align: center
@@ -96,7 +96,8 @@ sections:
         media_width: fifty
       - title: Mestara Berdaya
         subtitle: >-
-          Our collective efforts investing on women with better education are used to empower other women in need.
+          Our collective efforts investing on women with better education are
+          used to empower other women in need.
         content: >-
           We provide 1-month practical skill training to poor & marginalized
           women to create a better life for themselves and their family by
