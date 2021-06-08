@@ -32,7 +32,7 @@ sections:
         image_position: bottom
         image_width: thirty-three
       - title: OVO
-        title_align: left
+        title_align: center
         content: |
           You can use OVO app to scan the QR code below.
         content_align: left
