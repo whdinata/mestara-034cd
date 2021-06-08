@@ -3,19 +3,21 @@ title: Donate
 sections:
   - type: hero_section
     title: Thank you for your donation!
-    subtitle: We are glad that you would like to support our cause too.
-    content: >- 
-        We receive the payment methods below. There is no minimum and maximum amount for the donation.
-        
-        
-        In case you could not find what you prefer, please contact us with the [contact form](\general-enquiries).
+    subtitle: We are glad that you support our cause too.
+    content: >-
+      We receive the payment methods below. There is no minimum and maximum
+      amount for the donation.
+
+
+      In case you could not find what you prefer, please contact us with the
+      [contact form](\general-enquiries).
     align: center
     padding_top: large
     padding_bottom: small
   - type: grid_section
     grid_items:
       - title: Paypal
-        subtitle: 
+        subtitle: null
         title_align: left
         content: |-
           ---
