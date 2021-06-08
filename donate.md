@@ -18,15 +18,11 @@ sections:
       - title: Paypal
         subtitle: null
         title_align: left
-        content: |-
-          ---
+        content: |+
+          ***
 
-          You can scan the QR code below.
+          You can install PayPal app and scan the QR code below.
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
         content_align: left
         actions:
           - label: Start with Personal
