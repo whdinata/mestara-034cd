@@ -69,7 +69,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Pricing
+      value: Donate Mestara
     - name: 'twitter:description'
       value: This is donation page for women empowerment and mentorship program
     - name: 'twitter:image'
