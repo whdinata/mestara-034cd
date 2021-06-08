@@ -14,7 +14,7 @@ sections:
     grid_items:
       - title: Paypal
         subtitle: null
-        title_align: left
+        title_align: center
         content: You can install PayPal app to scan the QR code below.
         content_align: left
         image: images/QR_PayPal.jpg
