@@ -24,7 +24,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: full-width
-      - title: Premium
+      - title: GoPay
         subtitle: Optional subtitle
         title_align: left
         content: |-
