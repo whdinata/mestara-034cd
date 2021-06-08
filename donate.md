@@ -5,9 +5,6 @@ sections:
     title: Thank you for your donation!
     subtitle: We're glad that you support our cause too.
     content: >
-      There is no minimum and maximum amount for the donation.
-
-
       We receive the payment methods below. In case you could not find what you
       prefer, please contact us with the [contact form](\general-enquiries).
     align: center
