@@ -60,7 +60,7 @@ seo:
       value: Pricing
       keyName: property
     - name: 'og:description'
-      value: This is the pricing page
+      value: This is donation page for women empowerment and mentorship program
       keyName: property
     - name: 'og:image'
       value: images/about-3.jpg
