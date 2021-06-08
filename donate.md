@@ -3,7 +3,7 @@ title: Donate
 sections:
   - type: hero_section
     title: Thank you for your donation!
-    subtitle: We're glad that you support our cause too.
+    subtitle: We're really glad that you support our cause too.
     content: >
       We receive the payment methods below. In case you could not find what you
       prefer, please contact us via [contact form](\general-enquiries).
