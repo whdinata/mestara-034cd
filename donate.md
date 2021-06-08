@@ -3,7 +3,7 @@ title: Donate
 sections:
   - type: hero_section
     title: Thank you for your donation!
-    subtitle: We receive the payment method.
+    subtitle: We receive the payment methods below.
     content: >- 
         In case you could not find what you prefer, please contact us with the [contact form](\general-enquiries).
     align: center
