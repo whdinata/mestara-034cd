@@ -19,7 +19,7 @@ sections:
         content_align: left
         image: images/QR_PayPal.jpg
         image_position: bottom
-        image_width: thirty-three
+        image_width: thirty
         image_align: center
         image_has_padding: true
       - title: GoPay
@@ -30,7 +30,7 @@ sections:
         image_has_padding: true
         image_align: center
         image_position: bottom
-        image_width: thirty-three
+        image_width: thirty
       - title: OVO
         title_align: center
         content: |
@@ -39,7 +39,7 @@ sections:
         image_position: bottom
         image_align: center
         image_has_padding: true
-        image_width: thirty-three
+        image_width: thirty
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
