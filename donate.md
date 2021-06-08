@@ -51,7 +51,7 @@ sections:
     background_color: none
 seo:
   title: Donate Mestara
-  description: This is the pricing page
+  description: This is donation page for women empowerment and mentorship program
   extra:
     - name: 'og:type'
       value: website
