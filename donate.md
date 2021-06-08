@@ -18,11 +18,8 @@ sections:
       - title: Paypal
         subtitle: null
         title_align: left
-        content: |+
-          ***
-
+        content: |
           You can install PayPal app and scan the QR code below.
-
         content_align: left
         actions:
           - label: Start with Personal
