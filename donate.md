@@ -18,8 +18,7 @@ sections:
       - title: Paypal
         subtitle: null
         title_align: left
-        content: |
-          You can install PayPal app and scan the QR code below.
+        content: You can install PayPal app and scan the QR code below.
         content_align: left
         actions: []
         actions_align: left
