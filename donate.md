@@ -27,6 +27,7 @@ sections:
         content: |
           You can use GoPay app to scan the QR code below.
         content_align: left
+        image_has_padding: true
       - title: OVO
         title_align: left
         content: |
