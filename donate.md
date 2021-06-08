@@ -50,7 +50,7 @@ sections:
     has_border: false
     background_color: none
 seo:
-  title: Pricing
+  title: Donate Mestara
   description: This is the pricing page
   extra:
     - name: 'og:type'
