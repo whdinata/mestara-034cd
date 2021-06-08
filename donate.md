@@ -19,6 +19,7 @@ sections:
         content_align: left
         image: images/QR_PayPal.jpg
         image_position: bottom
+        image_width: fourty
       - title: GoPay
         title_align: left
         content: Please use GoPay app to scan the QR code below.
