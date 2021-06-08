@@ -3,8 +3,11 @@ title: Donate
 sections:
   - type: hero_section
     title: Thank you for your donation!
-    subtitle: We are glad that you would like to support our cause. There is no minimum and maximum amount for the donation. We receive the payment methods below.
+    subtitle: We are glad that you would like to support our cause. There is no minimum and maximum amount for the donation.
     content: >- 
+        We receive the payment methods below. 
+        
+        
         In case you could not find what you prefer, please contact us with the [contact form](\general-enquiries).
     align: center
     padding_top: large
