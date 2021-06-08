@@ -29,6 +29,7 @@ sections:
         content_align: left
         image_has_padding: true
         image_align: center
+        image_position: bottom
       - title: OVO
         title_align: left
         content: |
