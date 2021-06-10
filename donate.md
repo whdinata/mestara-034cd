@@ -33,7 +33,7 @@ sections:
         image_align: center
         image_position: bottom
         image_width: thirty
-    grid_cols: three
+    grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: true
