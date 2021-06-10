@@ -23,7 +23,7 @@ sections:
         image_width: thirty
         image_align: center
         image_has_padding: true
-      - title: GoPay
+      - title: QRIS
         title_align: center
         content: |
           You can use GoPay app to scan the QR code below.
