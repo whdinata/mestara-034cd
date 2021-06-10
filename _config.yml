@@ -26,7 +26,7 @@ header:
       url: /general-enquiries
     - label: Donate
       style: secondary
-      url: /donation
+      url: /donate
   has_anncmnt: false
   anncmnt_align: left
   anncmnt_is_home_only: false
