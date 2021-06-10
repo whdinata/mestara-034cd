@@ -5,7 +5,7 @@ sections:
     title: Thank you for your donation!
     subtitle: We're really glad that you support our cause too.
     content: >
-      We receive the payment methods below. In case you could not find what you
+      We receive below payment methods. In case you could not find what you
       prefer, please contact us via [contact form](\general-enquiries).
     align: center
     padding_top: large
