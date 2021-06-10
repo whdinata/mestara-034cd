@@ -32,7 +32,7 @@ sections:
         image_has_padding: true
         image_align: center
         image_position: bottom
-        image_width: thirty
+        image_width: fourty
     grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
