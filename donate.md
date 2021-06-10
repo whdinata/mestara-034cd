@@ -20,7 +20,7 @@ sections:
         content_align: left
         image: images/QR_PayPal.jpg
         image_position: bottom
-        image_width: thirty-three
+        image_width: fourty
         image_align: center
         image_has_padding: true
       - title: QRIS
