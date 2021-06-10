@@ -25,8 +25,9 @@ sections:
         image_has_padding: true
       - title: QRIS
         title_align: center
-        content: |
-          You can use GoPay app to scan the QR code below.
+        content: >
+          You can use any apps with QRIS logo (e.g. GoPay, OVO, etc.) to scan
+          the QR code below.
         content_align: left
         image_has_padding: true
         image_align: center
