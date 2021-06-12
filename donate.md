@@ -33,7 +33,7 @@ sections:
         image_align: center
         image_position: bottom
         image_width: fourty
-        image: images/QR Code QRIS.jpeg
+        image: images/QR Code QRIS_2.jpeg
     grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
