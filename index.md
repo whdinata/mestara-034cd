@@ -29,15 +29,20 @@ sections:
     grid_items:
       - image_align: center
         content: >
-          > *At **51%**, Indonesia’s female labour force **participation rate** is well below that for males (around 80%) and low relative to countries at a comparable stage of development.*
+          > *At **51%**, Indonesia’s female labour force **participation rate**
+          is well below that for males (around 80%) and low relative to
+          countries at a comparable stage of development.*
 
 
-          <sub>Source: Women Economic Participation in Indonesia, Monash University, June 2017</sub>
+          <sub>Source: Women Economic Participation in Indonesia, Monash
+          University, June 2017</sub>
         title_align: left
         content_align: left
       - image_align: center
         content: >
-          > *In 2018, **1 of 9 girls** aged 20-24 in Indonesia was **married before reaching age 18** which potentially make them to be more vulnerable to violence and poverty*
+          > *In 2018, **1 of 9 girls** aged 20-24 in Indonesia was **married
+          before reaching age 18** which potentially make them to be more
+          vulnerable to violence and poverty*
 
 
           <sub>Source: Indonesia Child Marriage Report, UNICEF, 2020</sub>
@@ -45,7 +50,9 @@ sections:
         content_align: left
       - image_align: center
         content: >
-          > *Indonesian **women earn 23% less** than men. Although more women workers have a college or university degree compared to male workers, higher education can’t narrow the gender pay gap.*
+          > *Indonesian **women earn 23% less** than men. Although more women
+          workers have a college or university degree compared to male workers,
+          higher education can’t narrow the gender pay gap.*
 
 
           <sub>Source: Labour Force Survey, BPS, February 2020</sub>
@@ -53,7 +60,8 @@ sections:
         content_align: left
       - image_align: center
         content: >
-          > *Only **52%** of graduates land themselves **a graduate-level job** the remaining 48% work in roles that do not require a degree.*
+          > *Only **52%** of graduates land themselves **a graduate-level job**
+          the remaining 48% work in roles that do not require a degree.*
 
 
           <sub>Source: The Graduate Employment Gap, CIPD, 2017</sub>
@@ -190,7 +198,7 @@ sections:
           Combination of weekly webinar and 1:1 coaching sessions.
 
 
-          *   **June 3rd 2021 - August 7th 2021**
+          *   **July 10th 2021 - August 7th 2021**
 
           *   **Every Saturday 1 PM - 4 PM WIB**.
 
@@ -200,7 +208,7 @@ sections:
           interactive
 
 
-          **Last registration date: June 26th 2021**
+          **Last registration date: June 30th 2021**
         image: images/5 Mentorship.png
         image_position: left
         image_width: twenty-five
