@@ -200,7 +200,7 @@ sections:
 
           *   **July 10th 2021 - August 7th 2021**
 
-          *   **Every Saturday 1 PM - 4 PM WIB**.
+          *   Every Saturday 1 PM - 4 PM WIB, except July 11th for 2nd webinar
 
           *   1:1 coaching session schedule will be discussed with your mentor.
 
