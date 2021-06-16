@@ -82,15 +82,6 @@ footer:
       new_window: true
       no_follow: false
       type: action
-    - label: Email
-      url: 'mailto:info.mestara@gmail.com'
-      style: link
-      has_icon: true
-      icon: arrow-left
-      icon_position: center
-      new_window: true
-      no_follow: false
-      type: action
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
     href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
