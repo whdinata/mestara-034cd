@@ -6,7 +6,26 @@ sections:
     subtitle: >-
       Our 6-week intensive program helps fresh graduates to achieve their full
       potential.
-    background_color: primary
+    background_color: secondary
+    actions:
+      - label: Join as Mentee
+        url: '#'
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+      - label: Join as Mentor
+        url: '#'
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+    image: images/5 Mentorship.png
+    media_position: left
   - type: features_section
     features:
       - title: Individual Coaching
@@ -20,6 +39,15 @@ sections:
         image: images/about-3.jpg
         media_position: right
         media_width: fifty
+        actions:
+          - label: Meet our Mentor
+            url: '#'
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
       - title: Webinar
         subtitle: >-
           Every week mentees will attend a webinar with women who work in the
@@ -30,12 +58,75 @@ sections:
         image: images/about-2.jpg
         media_position: left
         media_width: fifty
+        actions:
+          - label: Meet Our Speakers
+            url: '#'
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
       - content: >-
           With limited number of mentors so far, we will select 21 mentees from
           different cities, universities and backgrounds. This way, we can make
           sure that everyone gets equal attention and good quality of coaching.
         media_position: center
         media_width: fifty
+    title: Programme Structure
+  - title: Mentees Testimonials
+    actions: []
+    grid_items:
+      - title_align: left
+        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus.\n\n**Hanson Deck,**\_*App Developer, Studio*\n"
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: left
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: images/brandon-guidelines.png
+      - title_align: left
+        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus.\n\n**Hanson Deck,**\_*App Developer, Studio*\n"
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: left
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: images/brandon-guidelines.png
+      - title_align: left
+        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus.\n\n**Hanson Deck,**\_*App Developer, Studio*\n"
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: left
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: images/brandon-guidelines.png
+    grid_cols: three
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - type: grid_section
     title: Agenda
     subtitle: 'Next period: July 10th - August 7th 2021'
