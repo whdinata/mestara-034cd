@@ -230,7 +230,7 @@ sections:
         content: |
           ## 250
 
-          ##### girls have joined Mestara mentorship
+          girls have joined Mestara mentorship
         content_align: center
         actions: []
         actions_align: left
