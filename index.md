@@ -50,7 +50,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/Mestara 101 Paid.png
+        image: images/Mestara Mentorship.png
       - title: Mestara Convo Club
         title_align: left
         content: >
