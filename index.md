@@ -242,9 +242,9 @@ sections:
         image_has_padding: false
       - title_align: left
         content: |
-          ## XX
+          ## 1,050 hours
 
-          bla bla
+          Mestara events since Jun 2021
         content_align: center
         actions: []
         actions_align: left
