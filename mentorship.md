@@ -90,7 +90,7 @@ sections:
         image_has_padding: false
         image: images/brandon-guidelines.png
       - title_align: left
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus.\n\n**Hanson Deck,**\_*App Developer, Studio*\n"
+        content: "Mestara Mentorship has a 1:1 coaching session which really helped me in mapping out my future career plans with mentors who were so friendly, responsive, and active.\n\n**Dinda Leoni Putri,**\_*Research Intern at Center for Social Integrity*\n"
         content_align: left
         actions: []
         actions_align: left
