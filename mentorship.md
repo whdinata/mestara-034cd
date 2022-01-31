@@ -88,7 +88,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/brandon-guidelines.png
+        image: images/s200_umroh_dian.sulistyah.jpg
       - title_align: left
         content: "Webinar dan workshop memberikan saya tips dan trik tentang hal-hal yang dibutuhkan setelah lulus kuliah yang \"never knew I needed\" dari mentor-mentor hebat yang memiliki banyak pengalaman. \n\n**Nynsca Shalsabila Safitri I.P.,**\_*Mentorship Batch II*\n"
         content_align: left
