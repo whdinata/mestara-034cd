@@ -228,9 +228,9 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          ## 250
+          ## 500
 
-          girls have joined Mestara mentorship
+          girls have joined Mestara community
         content_align: center
         actions: []
         actions_align: left
