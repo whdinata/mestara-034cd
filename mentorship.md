@@ -67,8 +67,8 @@ sections:
             icon_position: right
             new_window: false
             no_follow: false
-      - content: >-
-          With limited number of mentors so far, we will select 21 mentees from
+      - content: >
+          With limited number of mentors so far, we will select 40 mentees from
           different cities, universities and backgrounds. This way, we can make
           sure that everyone gets equal attention and good quality of coaching.
         media_position: center
