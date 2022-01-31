@@ -78,7 +78,7 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus.\n\n**Hanson Deck,**\_*App Developer, Studio*\n"
+        content: "What a wonderful career investment I had through Mestara Mentorship Program. This program was very helpful in integrating my personal and professional goals, as well as pulling me out of the doldrums stage. \n\n**Umroh Dian Sulistya,**\_*Project Assistant, NCKU, Taiwan*\n"
         content_align: left
         actions: []
         actions_align: left
