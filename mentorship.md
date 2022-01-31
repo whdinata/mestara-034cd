@@ -114,8 +114,14 @@ sections:
         image_has_padding: false
         image: images/brandon-guidelines.png
       - title_align: left
-        content: |
-          TEST
+        content: >
+          I have improved many things during my 6 weeks as a Mestara mentee,
+          from financial planning to professional communication, plus I was able
+          to 1:1 coaching with cool mentors. Another bonus, you can have a lot
+          of cool friends. Thank you Mestara for the most productive 6 weeks.
+
+
+          **Khoirun Nisa Nurul Aprilia**, *Freelance Tutor at Brainly*
         content_align: left
         actions: []
         actions_align: left
