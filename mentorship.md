@@ -90,7 +90,7 @@ sections:
         image_has_padding: false
         image: images/brandon-guidelines.png
       - title_align: left
-        content: "Mestara Mentorship has a 1:1 coaching session which really helped me in mapping out my future career plans with mentors who were so friendly, responsive, and active.\n\n**Dinda Leoni Putri,**\_*Research Intern at Center for Social Integrity*\n"
+        content: "Aku bener bener sangat bersyukur bisa join program mentorship mestara. lewat program ini aku banyak belajar hal, not only about new knowledge, skills, experience but meet new very very kind friends dan juga mentor-mentor yang luar biasa keren dan sangat baik & perhatian, seperti kakak sendiri. Found new family and always supporting each other.\n\n**Mirnayani,**\_*Mentorship Batch II*\n"
         content_align: left
         actions: []
         actions_align: left
