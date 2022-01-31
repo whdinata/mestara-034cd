@@ -196,7 +196,7 @@ sections:
     enable_cards: true
     align: center
     background_color: primary
-    subtitle: Period
+    subtitle: 'Period '
   - type: grid_section
     title: Benefits
     grid_items:
