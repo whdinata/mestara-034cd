@@ -256,9 +256,9 @@ sections:
         image_has_padding: false
       - title_align: left
         content: |
-          ## XX
+          ## 28 activities
 
-          bla bla
+          conducted since Jun 2021
         content_align: center
         actions: []
         actions_align: left
