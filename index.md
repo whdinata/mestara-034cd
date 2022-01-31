@@ -165,12 +165,7 @@ sections:
         image: images/hanson-deck.png
         image_alt: Hanson Deck
       - title_align: left
-        content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Miles Tone,** *CEO, Studio*
+        content: "It was great to be able to have an experience with MCC, we learned English without being judged, the delivery method to correct each other was also relaxed but still easy to understand. We also get networking benefits with amazing ladies from various cool backgrounds. The discussion is also very broad, ranging from national issues to international issues.\n\n**Rifdah Azhaari,**\_*Mestara Convo Club student*\n"
         content_align: left
         actions: []
         actions_align: left
