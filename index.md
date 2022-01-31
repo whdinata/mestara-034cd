@@ -143,11 +143,17 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          It was great to be able to have an experience with MCC, we learned
+          English without being judged, the delivery method to correct each
+          other was also relaxed but still easy to understand. We also get
+          networking benefits with amazing ladies from various cool backgrounds.
+          The discussion is also very broad, ranging from national issues to
+          international issues. So, not only learning English, but we also get
+          new insights by listening to podcasts, reading articles, studying
+          discussions, and listening to other people's opinions.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Rifdah Azhaari,** *Mestara Convo Club student*
         content_align: left
         actions: []
         actions_align: left
