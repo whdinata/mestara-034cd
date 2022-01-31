@@ -85,7 +85,7 @@ sections:
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: left
-        image_width: fifty
+        image_width: thirty-three
         image_align: left
         image_has_padding: false
         image: images/s200_umroh_dian.sulistyah.jpg
