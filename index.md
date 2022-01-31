@@ -230,7 +230,7 @@ sections:
         content: |
           ## 500 women
 
-          girls have joined Mestara community
+          part of Mestara community
         content_align: center
         actions: []
         actions_align: left
