@@ -141,7 +141,6 @@ sections:
     type: grid_section
   - type: grid_section
     title: Agenda
-    subtitle: 'Next period: July 10th - August 7th 2021'
     grid_items:
       - title: Week 1
         title_align: left
