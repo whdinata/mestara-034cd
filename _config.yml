@@ -19,7 +19,7 @@ header:
     - label: Empowerment
       url: /berdaya
       style: link
-    - label: lorem-ipsum
+    - label: English Convo Club
       url: '#'
       style: link
       has_icon: false
