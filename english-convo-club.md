@@ -173,7 +173,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: How to express your disagreement
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
