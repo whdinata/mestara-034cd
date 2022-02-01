@@ -152,7 +152,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: New Idiom & Vocabularies
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
