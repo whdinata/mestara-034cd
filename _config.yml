@@ -24,9 +24,6 @@ header:
       icon_position: right
       new_window: false
       no_follow: false
-    - label: Empowerment
-      url: /berdaya
-      style: link
     - label: Webinar
       url: '#webinar'
       style: link
