@@ -161,7 +161,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: How to not ramble
+      - title: How to avoid rambling bla bla bla
         title_align: left
         content_align: left
         actions: []
