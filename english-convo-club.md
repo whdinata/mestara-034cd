@@ -29,7 +29,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Mestara Convo Club-6815cf39.png
+    image: images/Mestara Convo Club.png
   - title: Benefits of Our Program
     features:
       - content: "*   Small group limited to 15 people\_\n\n*   We discuss about up to date issues and things that matter - sometimes we will have to agree to disagree and that’s ok\n\n*   We will meet twice a week (choose between Sat / Sun / Thurs) so 8 sessions in a month\n\n*   We start from 4th Sept until 3rd Oct\n\n*   Whatsapp  group for daily chat in English (gossip chat is allowed but not recommended \U0001F60B)\_\n\n*   200k per person\n\n*   This club is not for beginners. At least you understand what other people are saying, kinda know the answer but it's hard to get the words out\_\n"
