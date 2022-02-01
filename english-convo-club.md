@@ -151,7 +151,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: lorem-ipsum
+      - title: New Idiom & Vocabularies
         subtitle: lorem-ipsum
         title_align: left
         content: >-
