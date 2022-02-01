@@ -38,7 +38,7 @@ header:
   has_secondary_nav: true
   secondary_nav_links:
     - label: Mestara Berdaya
-      url: '#'
+      url: /berdaya
       style: link
       has_icon: false
       icon: arrow-left
