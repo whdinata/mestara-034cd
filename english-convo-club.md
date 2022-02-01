@@ -163,7 +163,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: How to not ramble
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
