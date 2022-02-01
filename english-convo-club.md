@@ -184,7 +184,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: How to improve your confidence in speaking English
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
