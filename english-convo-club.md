@@ -32,14 +32,15 @@ sections:
     image: images/Mestara Convo Club.png
   - title: Benefits of Our Program
     features:
-      - content: |
-          *   Small group (limited to 15 people)
+      - content: >
+          *   8x session, 90 mins each
 
-          *   Total 8 sessions per month with a cadance twice a week
 
-          *   Discuss about latest topics that matter
+          *   Limited to 20 people
 
-          *   Expand your network and upskill your English at the same time
+
+          *   3x a week to upskill your English (every Monday, Wednesday, and
+          Thursday - 7 PM)
         actions: []
         image_alt: lorem-ipsum
         media_position: top
