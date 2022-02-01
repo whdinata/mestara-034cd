@@ -20,7 +20,7 @@ header:
       url: /berdaya
       style: link
     - label: English Convo Club
-      url: '#'
+      url: '#convo-club'
       style: link
       has_icon: false
       icon: arrow-left
