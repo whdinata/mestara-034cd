@@ -126,7 +126,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: What you will learn during sessions
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: How to speak English with confidence
