@@ -139,7 +139,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: How to express your opinion
+      - title: How to present your argument
         title_align: left
         content_align: left
         actions: []
