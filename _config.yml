@@ -37,12 +37,6 @@ header:
       no_follow: false
   has_secondary_nav: true
   secondary_nav_links:
-    - label: Contact us
-      style: link
-      url: /general-enquiries
-    - label: Donate
-      style: secondary
-      url: /donate
     - label: lorem-ipsum
       url: '#'
       style: link
@@ -51,6 +45,12 @@ header:
       icon_position: right
       new_window: false
       no_follow: false
+    - label: Contact us
+      style: link
+      url: /general-enquiries
+    - label: Donate
+      style: secondary
+      url: /donate
   has_anncmnt: false
   anncmnt_align: left
   anncmnt_is_home_only: false
