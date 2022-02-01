@@ -32,7 +32,7 @@ header:
       icon_position: right
       new_window: false
       no_follow: false
-    - label: One-on-Ones
+    - label: '1:1 Coaching'
       url: '#one-on-ones'
       style: link
       has_icon: false
