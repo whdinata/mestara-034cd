@@ -25,7 +25,7 @@ header:
       new_window: false
       no_follow: false
     - label: '1:1 Coaching'
-      url: '#one-on-ones'
+      url: /one-on-ones
       style: link
       has_icon: false
       icon: arrow-left
