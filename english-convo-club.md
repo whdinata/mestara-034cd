@@ -46,7 +46,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-      - title: Only 200K per person
+      - title: Only 250K per person
         actions:
           - label: Join Now
             url: '#'
