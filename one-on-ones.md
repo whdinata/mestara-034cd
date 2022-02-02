@@ -103,7 +103,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Master
+      - title: Pursuing Master's Degree
         subtitle: lorem-ipsum mari daftar
         title_align: left
         content: |
