@@ -39,7 +39,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_position: bottom
+        image_position: right
         image_width: twenty-five
         image_align: left
         image_has_padding: true
