@@ -52,7 +52,7 @@ header:
       no_follow: false
     - label: About us
       style: link
-      url: /general-enquiries
+      url: /about-us
     - label: Donate
       style: secondary
       url: /donate
