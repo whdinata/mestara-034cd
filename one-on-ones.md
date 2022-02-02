@@ -145,7 +145,7 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          # IDR 99K
+          # IDR 125K
         content_align: left
         actions: []
         actions_align: left
