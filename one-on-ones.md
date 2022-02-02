@@ -75,7 +75,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Career Clarity
-        subtitle: lorem-ipsum mari daftar
         title_align: left
         content: |
           *   ga tau kerja drmn
