@@ -85,7 +85,7 @@ sections:
         media_position: right
         media_width: fifty
         align: left
-        image: images/12.jpg
+        image: images/8.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
