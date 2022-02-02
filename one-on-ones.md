@@ -92,11 +92,8 @@ sections:
       - title: Job Application
         title_align: left
         content: |
-          *   linkedin
-          *   mock interview
-          *   review CV
-          *   review application letter
-          *   offer group FGD
+          *   Resume, cover letter & LinkedIn review
+          *   Mock interview
         content_align: left
         actions: []
         actions_align: left
