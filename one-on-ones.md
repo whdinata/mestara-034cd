@@ -29,34 +29,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Mestara 101 Paid.png
-  - title: Why Mestara One-on-Ones?
-    features:
-      - content: |
-          *   sini sini sini
-
-          *   karena a b c d
-
-          *   karena e f g h
-
-          *   dst
-
-          *   dsb
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
   - title: Topics you can choose
     actions: []
     grid_items:
@@ -132,6 +104,34 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - title: Why Mestara One-on-Ones?
+    features:
+      - content: |
+          *   sini sini sini
+
+          *   karena a b c d
+
+          *   karena e f g h
+
+          *   dst
+
+          *   dsb
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: top
+        media_width: fifty
+        align: left
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
   - title: Package
     actions:
       - label: Register Now
