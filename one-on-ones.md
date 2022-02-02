@@ -104,7 +104,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Pursuing Master's Degree
-        subtitle: lorem-ipsum mari daftar
         title_align: left
         content: |
           *   choosing jurusan dan uni dan beasiswa
