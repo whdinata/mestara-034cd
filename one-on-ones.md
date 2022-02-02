@@ -159,7 +159,7 @@ sections:
       - subtitle: 2 session x 50 mins
         title_align: left
         content: |
-          # **IDR 150K**
+          # **IDR 225K**
         content_align: left
         actions: []
         actions_align: left
