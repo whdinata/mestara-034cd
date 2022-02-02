@@ -77,15 +77,9 @@ sections:
       - title: Career Clarity
         title_align: left
         content: |
-          *   ga tau kerja drmn
+          *   Career exploration & planning
 
-          *   validasi feeling dari mereka
-
-          *   bingung setelah kuliah where to start
-
-          *   mending S2 atau gak
-
-          *   cari passion
+          *   Career shift
         content_align: left
         actions: []
         actions_align: left
