@@ -67,6 +67,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/9f6a22d4386e9642251668421cf848f3-3b9e1657.png
       - title: How to avoid rambling bla bla bla
         title_align: left
         content_align: left
