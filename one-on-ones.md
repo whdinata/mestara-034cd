@@ -104,7 +104,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: Why Mestara One-on-Ones?
+  - title: Who Is the Mentor?
     features:
       - content: |
           *   sini sini sini
