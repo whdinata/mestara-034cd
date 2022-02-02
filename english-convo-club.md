@@ -103,6 +103,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/9f6a22d4386e9642251668421cf848f3-81d55884.png
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
