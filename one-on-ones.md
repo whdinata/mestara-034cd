@@ -57,7 +57,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title: Expertise and Experience
+  - title: Topics you can choose
     actions: []
     grid_items:
       - title: Soft Skill
