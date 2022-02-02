@@ -63,9 +63,8 @@ sections:
       - title: Be Your Best Version
         title_align: left
         content: |
-          *   Productivity
-          *   Boost your self-confident
-          *   How to communicate professionally
+          *   Setting priorities & increasing productivity
+          *   Building self-confidence and communication skills
         content_align: left
         actions: []
         actions_align: left
