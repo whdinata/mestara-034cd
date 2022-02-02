@@ -3,7 +3,7 @@ title: one-on-ones
 sections:
   - title: Mestara One-on-Ones
     content: >
-      Our 60 minutes long coaching program for final year female students or
+      Our 50 minutes long coaching program for final year female students or
       recent graduates that will help to gain industry insights and provide
       career guidance from Indonesian progressional women.
     actions:
