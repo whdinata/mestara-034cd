@@ -106,9 +106,9 @@ sections:
       - title: Pursuing Master's Degree
         title_align: left
         content: |
-          *   choosing jurusan dan uni dan beasiswa
-          *   preparation, S2, checklist
-          *   beasiswa interview mock
+          *   Choosing majors, universities and scholarships
+          *   Preparation and application (essay review)
+          *   Mock interview
         content_align: left
         actions: []
         actions_align: left
