@@ -90,7 +90,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Job Application
-        subtitle: lorem-ipsum mari daftar
         title_align: left
         content: |
           *   linkedin
