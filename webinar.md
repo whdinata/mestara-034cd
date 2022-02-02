@@ -20,7 +20,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Mestara Webinar.png
+    image: images/Mestara Webinar_1.png
   - title: Upcoming Webinar
     features:
       - title: Preparing for Life After University & Overcoming Post-Grad Blues
