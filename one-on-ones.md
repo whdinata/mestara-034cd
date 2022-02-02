@@ -61,7 +61,6 @@ sections:
     actions: []
     grid_items:
       - title: Be Your Best Version
-        subtitle: lorem ipsum mari daftar
         title_align: left
         content: |
           *   Productivity
