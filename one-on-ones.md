@@ -60,7 +60,7 @@ sections:
   - title: Topics you can choose
     actions: []
     grid_items:
-      - title: Soft Skill
+      - title: Be Your Best Version
         subtitle: lorem ipsum mari daftar
         title_align: left
         content: |
