@@ -154,7 +154,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/Melisa-modified.png
-      - subtitle: lorem-ipsum
+      - subtitle: Partnership & Insights Analyst
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
