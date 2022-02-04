@@ -106,6 +106,7 @@ sections:
         subtitle: Partnership & Insights
         content: |
           Manager, Analytics & Business Modelling at Ernst & Young London
+        image: images/Shieron-modified.png
       - title: Galuh Mauliditya
         subtitle: Data Engineer - PT Pertamina Hulu Mahakam
         title_align: center
