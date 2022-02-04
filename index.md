@@ -273,9 +273,9 @@ sections:
         image_has_padding: false
       - title_align: left
         content: |
-          ## 30+% mentees
+          ## 30% mentees
 
-          get employed within the first 6 months
+          get employed upon first 6 months
         content_align: center
         actions: []
         actions_align: left
