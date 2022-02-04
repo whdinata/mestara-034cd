@@ -182,11 +182,13 @@ sections:
         image: images/miles-tone.png
       - title_align: left
         content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          *My mentor assisted me to develop an energy management strategy and
+          reworked my professional branding to reflect my career advancement.
+          What I learned from my mentor led to a process of career exploration,
+          pivoting, and self-discovery.*
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **Umroh Dian Sulistyah**, Project Assistant, NKCU, Taiwan
         content_align: left
         actions: []
         actions_align: left
