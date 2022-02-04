@@ -124,7 +124,7 @@ sections:
         image: images/Maureen-modified.png
       - title: Galuh Mauliditya
         title_align: center
-        image: images/Galuh_Photo 2021.JPG
+        image: images/Tata.jpg-modified.png
         image_position: top
         content_align: center
         subtitle: Graphic Designer
