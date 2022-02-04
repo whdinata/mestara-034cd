@@ -169,7 +169,7 @@ sections:
         title: Sanya Gabriella
         image: images/Sanya-modified.png
       - title: Made Ayu Nandini
-        subtitle: So
+        subtitle: Social Media Manager
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
