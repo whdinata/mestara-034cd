@@ -261,7 +261,7 @@ sections:
         content: |
           ## 1,050 hours
 
-          Mestara events since Jun 2021
+          Mestara events since June 2021
         content_align: center
         actions: []
         actions_align: left
