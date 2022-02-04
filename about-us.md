@@ -126,8 +126,6 @@ sections:
         title_align: center
         image: images/Galuh_Photo 2021.JPG
         image_position: top
-        content: |
-          Data Engineer - PT Pertamina Hulu Mahakam
         content_align: center
         subtitle: Graphic Designer
       - title: lorem-ipsum
