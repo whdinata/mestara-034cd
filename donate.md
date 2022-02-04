@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Donate via other method
         url: /general-enquiries
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
