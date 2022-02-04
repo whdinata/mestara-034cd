@@ -123,7 +123,6 @@ sections:
         image_has_padding: false
         image: images/Maureen-modified.png
       - title: Galuh Mauliditya
-        subtitle: Data Engineer - PT Pertamina Hulu Mahakam
         title_align: center
         image: images/Galuh_Photo 2021.JPG
         image_position: top
