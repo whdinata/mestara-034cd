@@ -31,8 +31,8 @@ sections:
     grid_items:
       - image_align: center
         content: >
-          > *Female labour participation in Indonesia has stalled \*\*at 50%
-          \*\*for the past 20 years*
+          > *Female labour participation in Indonesia has stalled **at 50%** for
+          the past 20 years*
 
 
           <sub>Source: Women Economic Participation in Indonesia, Monash
