@@ -83,8 +83,9 @@ sections:
         title_align: left
         content: >
           Our 50-minute coaching program for final year female students or
-          recent graduates helps them to gain industry insights and provide
-          career guidance from Indonesian professional women.
+          recent graduates from Indonesian professional women, focusing on
+          preparing stand-out CVs for top national and international companies,
+          providing career guidance and and gaining industry insights.
         content_align: left
         actions:
           - label: Learn More
