@@ -143,7 +143,7 @@ sections:
     align: center
     background_color: primary
     enable_cards: false
-    padding_top: small
+    padding_top: none
   - type: cta_section
     title: Join our movement
     actions:
