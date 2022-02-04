@@ -85,7 +85,9 @@ sections:
         title_align: center
         image: images/DSCF6268.jpg
         image_position: top
-        subtitle: Lead Data Science & Analytics - Bonial International
+        subtitle: >-
+          Senior Manager of Data Science & Analytics at Delivery Hero SE,
+          Germany
       - title: Galuh Mauliditya
         subtitle: Data Engineer - PT Pertamina Hulu Mahakam
         title_align: center
