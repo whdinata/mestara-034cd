@@ -68,7 +68,7 @@ sections:
     type: cta_section
     content: >
       In case you prefer to donate via different payment method, please reach us
-      via the contact form below. We'd be happy to support you!
+      out. We'd be happy to support you!
 seo:
   title: Donate Mestara
   description: This is donation page for women empowerment and mentorship program
