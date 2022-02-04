@@ -198,7 +198,7 @@ sections:
         image_width: twenty-five
         image_align: left
         image_has_padding: false
-        image: images/eleanor-carr.png
+        image: images/Umroh Dian Sulistyah-modified.png
       - title_align: left
         content: >
           *Mentor Mestara sangat Supportive dan membantu saya dengan membuat
