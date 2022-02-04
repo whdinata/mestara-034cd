@@ -115,6 +115,7 @@ sections:
     enable_cards: false
     padding_top: medium
     grid_gap_horiz: small
+    subtitle: 'Manager, Analytics & Business Modelling at Ernst & Young London'
   - type: cta_section
     title: Join our movement
     actions:
