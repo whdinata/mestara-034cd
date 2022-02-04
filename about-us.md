@@ -129,7 +129,7 @@ sections:
         content_align: center
         subtitle: Graphic Designer
       - title: Elisabeth Sandi
-        subtitle: lorem-ipsum
+        subtitle: Social
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
