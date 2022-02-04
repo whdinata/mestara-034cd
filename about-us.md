@@ -79,7 +79,7 @@ sections:
         title_align: center
         image: images/Galuh-square.jpeg
         image_position: top
-        subtitle: Strategic Partnership Development Manager at Google Indonesia
+        subtitle: 'Strategic Partnership Development Manager at Google Indonesia '
         image_has_padding: false
         content: |
           **Co-founder at Mestara**
