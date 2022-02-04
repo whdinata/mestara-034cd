@@ -8,9 +8,7 @@ sections:
       movement.
     content: >
       Currently we could receive donation via QRIS (IDR) and via Paypal (EUR or
-      USD). In case you prefer to donate via different payment method, please
-      reach us via [contact form](\general-enquiries). We'd be happy to support
-      you! 
+      USD).
     align: center
     padding_top: large
     padding_bottom: small
