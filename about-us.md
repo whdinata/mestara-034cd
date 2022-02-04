@@ -41,7 +41,7 @@ sections:
         content_align: left
       - image_align: center
         content: >
-          > ***1 of 9 **girls in Indonesia get married **before** reaching the
+          > ***1 of 9*** *girls in Indonesia get married **before** reaching the
           age of 18 which potentially make them to be more vulnerable to
           violence and poverty*
 
