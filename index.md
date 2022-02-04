@@ -109,6 +109,8 @@ sections:
           Our monthly webinar programs help female students address common
           challenges that female student and recent graduates often face by
           connecting them with experts and professionals in the field.
+          Challenges are related to job hunting, career development, personal
+          finance, personal development, and many more.
         content_align: left
         actions:
           - label: Learn More
