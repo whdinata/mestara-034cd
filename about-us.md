@@ -168,7 +168,7 @@ sections:
         image_has_padding: false
         title: Sanya Gabriella
         image: images/Sanya-modified.png
-      - title: lorem-ipsum
+      - title: Nandini
         subtitle: lorem-ipsum
         title_align: left
         content: >-
