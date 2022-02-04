@@ -48,7 +48,7 @@ sections:
     has_border: false
     background_color: none
   - actions:
-      - label: Donate with Other Method
+      - label: Donate via Other Method
         url: '#'
         style: link
         has_icon: false
