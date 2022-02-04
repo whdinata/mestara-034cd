@@ -35,7 +35,7 @@ sections:
           - Mestara Berdaya
           - Donation
           - General inquiry
-          - General Iinquiry
+          - General Inquiry
         is_required: true
       - input_type: textarea
         name: message
