@@ -1,5 +1,5 @@
 ---
-title: General enquiries
+title: Donate
 sections:
   - type: form_section
     content: >
