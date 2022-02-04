@@ -34,7 +34,7 @@ sections:
           - Mestara Programme
           - Mestara Berdaya
           - Donation
-          - Buesi
+          - Business Partnership
           - General Inquiry
         is_required: true
       - input_type: textarea
