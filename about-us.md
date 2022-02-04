@@ -89,7 +89,6 @@ sections:
           Senior Manager of Data Science & Analytics at Delivery Hero SE,
           Germany
       - title: Shieron Ang
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
