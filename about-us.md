@@ -128,6 +128,7 @@ sections:
         image_position: top
         content_align: center
         subtitle: Graphic Designer
+        image_align: center
       - title: Elisabeth Sandi
         subtitle: Social Media Manager
         title_align: center
