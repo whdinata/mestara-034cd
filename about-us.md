@@ -88,7 +88,7 @@ sections:
         title_align: center
         image: images/DSCF6268.jpg
         image_position: top
-        subtitle: Senior Manager of Data Science & Analytics at Delivery Hero Germany
+        subtitle: Co-founder at Mestara
       - title: Shieron Ang
         title_align: left
         content_align: left
