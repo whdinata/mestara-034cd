@@ -169,7 +169,15 @@ sections:
         image: images/hanson-deck.png
         image_alt: Hanson Deck
       - title_align: left
-        content: "It was great to be able to have an experience with MCC, we learned English without being judged, the delivery method to correct each other was also relaxed but still easy to understand. We also get networking benefits with amazing ladies from various cool backgrounds. The discussion is also very broad, ranging from national issues to international issues.\n\n**Rifdah Azhaari,**\_*Mestara Convo Club student*\n"
+        content: >
+          *During MCC, I learned English without being judged. The discussion
+          topics is broad, ranging from national to international issues.
+          Through MCC I also get new insights by listening to podcasts, reading
+          articles, studying discussions, and listening to other people's
+          opinions.*
+
+
+          **Rifdah Azhaari**, Industrial Engineering Graduate
         content_align: left
         actions: []
         actions_align: left
