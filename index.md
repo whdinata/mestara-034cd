@@ -247,7 +247,7 @@ sections:
         content: |
           ## 400+ women
 
-          took part as Mestara community
+          took part on Mestara programs
         content_align: center
         actions: []
         actions_align: left
