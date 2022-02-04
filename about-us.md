@@ -31,8 +31,8 @@ sections:
     grid_items:
       - image_align: center
         content: >
-          > *At **51undefined) and low relative to countries at a comparable
-          stage of development.*
+          > ***1 of 9 **girls in Indonesia is married before reaching the age of
+          18*
 
 
           <sub>Source: Women Economic Participation in Indonesia, Monash
