@@ -60,8 +60,10 @@ sections:
         title_align: left
         content_align: left
       - image_align: center
-        content: |
-          > *Only **52undefined work in roles that do not require a degree.*
+        content: >
+          > *Only **33%** of female workers in Indonesia hold managerial
+          positions*
+
 
           <sub>Source: The Graduate Employment Gap, CIPD, 2017</sub>
         title_align: left
