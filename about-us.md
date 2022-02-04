@@ -79,7 +79,7 @@ sections:
         title_align: center
         image: images/Galuh-square.jpeg
         image_position: top
-        subtitle: 'Strategic Partnership at Google '
+        subtitle: Strategic Partnership at Google Indonesia
         image_has_padding: false
       - title: Steffi Melinda
         title_align: center
