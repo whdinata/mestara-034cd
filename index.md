@@ -245,9 +245,9 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          ## 500 women
+          ## 400+ women
 
-          part of Mestara community
+          took part as Mestara community
         content_align: center
         actions: []
         actions_align: left
