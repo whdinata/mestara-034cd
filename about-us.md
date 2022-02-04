@@ -168,7 +168,7 @@ sections:
         image_has_padding: false
         title: Sanya Gabriella
         image: images/Sanya-modified.png
-      - title: Nandini
+      - title: Made Ayu Nandini
         subtitle: lorem-ipsum
         title_align: left
         content: >-
