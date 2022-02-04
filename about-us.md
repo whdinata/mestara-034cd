@@ -93,7 +93,7 @@ sections:
         title_align: center
         image: images/Galuh_Photo 2021.JPG
         image_position: top
-      - title: Sh
+      - title: Shieron Ang
         subtitle: lorem-ipsum
         title_align: left
         content: >-
