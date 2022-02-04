@@ -81,6 +81,8 @@ sections:
         image_position: top
         subtitle: Strategic Partnership Development Manager at Google Indonesia
         image_has_padding: false
+        content: |
+          **Co-founder at Mestara**
       - title: Steffi Melinda
         title_align: center
         image: images/DSCF6268.jpg
