@@ -86,7 +86,7 @@ sections:
         content_align: center
       - title: Steffi Melinda
         title_align: center
-        image: images/DSCF6268.jpg
+        image: images/Steffi-modified.png
         image_position: top
         subtitle: Co-founder at Mestara
         content: |
