@@ -247,7 +247,7 @@ sections:
         no_follow: false
         type: action
       - label: Partner with us
-        url: 'email:partnership@mestara.com'
+        url: /gen
         style: secondary
         has_icon: false
         icon: arrow-left
