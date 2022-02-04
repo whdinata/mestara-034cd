@@ -38,7 +38,7 @@ sections:
         image_width: fourty
         image: images/QR Code QRIS_2.jpeg
     grid_cols: three
-    grid_gap_horiz: small
+    grid_gap_horiz: large
     grid_gap_vert: small
     enable_cards: true
     padding_top: small
