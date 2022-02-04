@@ -166,6 +166,7 @@ sections:
         image_align: left
         image_has_padding: false
         title: Sanya Gabriella
+        image: images/Sanya-modified.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
