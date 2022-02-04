@@ -281,7 +281,7 @@ sections:
         name: Email
         label: Email
         options:
-          - lorem-ipsum
+          - null
         is_required: true
       - input_type: select
         name: Subject
