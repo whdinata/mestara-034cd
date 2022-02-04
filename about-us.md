@@ -142,7 +142,7 @@ sections:
         image_has_padding: false
         image: images/Elisabeth-modified.png
       - title: Melisa Nirmala Dewi
-        subtitle: lorem-ipsum
+        subtitle: Community
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
