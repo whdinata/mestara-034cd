@@ -181,7 +181,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: images/Nandini-modified.png
-      - title: lorem-ipsum
+      - title: Felicia A Susanto
         subtitle: lorem-ipsum
         title_align: left
         content: >-
