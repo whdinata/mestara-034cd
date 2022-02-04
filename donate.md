@@ -58,7 +58,7 @@ sections:
         no_follow: false
     actions_position: top
     actions_width: fourty
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
