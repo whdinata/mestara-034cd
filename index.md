@@ -166,7 +166,7 @@ sections:
         image_width: twenty-five
         image_align: left
         image_has_padding: false
-        image: images/hanson-deck.png
+        image: images/Nadiatullah Tsuraya Fauziah-modified.png
         image_alt: Hanson Deck
       - title_align: left
         content: >
