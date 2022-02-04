@@ -15,7 +15,7 @@ sections:
     padding_top: large
     padding_bottom: small
     actions:
-      - label: Donate vi
+      - label: 'Donate '
         url: /general-enquiries
         style: primary
         has_icon: false
