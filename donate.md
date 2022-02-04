@@ -1,5 +1,5 @@
 ---
-title: Donate
+title: General Enquiries
 sections:
   - type: hero_section
     title: Thank you for choosing to donate with us!
