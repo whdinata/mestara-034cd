@@ -34,7 +34,7 @@ sections:
           - Mestara Programme
           - Mestara Berdaya
           - Donation
-          - General inquiry
+          - Buesi
           - General Inquiry
         is_required: true
       - input_type: textarea
