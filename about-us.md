@@ -103,7 +103,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        subtitle: Partnership & Insights
+        subtitle: Partnership & Insights Lead
       - title: Galuh Mauliditya
         subtitle: Data Engineer - PT Pertamina Hulu Mahakam
         title_align: center
