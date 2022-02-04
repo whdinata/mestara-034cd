@@ -133,7 +133,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        subtitle: 'Manager, Analytics & Business Modelling at EY'
+        subtitle: 'Manager, Analytics & Business Modelling at Ernst Y'
       - title: Galuh Mauliditya
         subtitle: Data Engineer - PT Pertamina Hulu Mahakam
         title_align: center
