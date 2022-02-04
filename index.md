@@ -3,13 +3,14 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      We envision a world in which young women, regardless of socioeconomic
-      backgrounds, are **empowered, uplifted & able to control their lives.**
+      Our mission is to enable young women to **unlock their limitless
+      potential** and have the opportunities to **live self-determined lives**
+      through our **informal education**.
 
 
-      Our mission is to **empower women** from different backgrounds to reach
-      their full **potential**, work their way **out of poverty** and able to
-      **empower other women** in their community.
+      We envision a world in which all girls and young women, regardless of
+      socioeconomic backgrounds or geographical location, are **empowered** and
+      able to **empower other women** in their communities.
     actions: []
     media_position: left
     media_width: fifty
