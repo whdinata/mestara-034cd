@@ -195,7 +195,7 @@ sections:
         image_has_padding: false
         image: images/Felicia-modified.png
       - title: Fadilla Ratri Nurisha
-        subtitle: lorem-ipsum
+        subtitle: Graphic Designer
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
