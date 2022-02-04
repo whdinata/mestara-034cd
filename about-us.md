@@ -129,6 +129,7 @@ sections:
         content: |
           Data Engineer - PT Pertamina Hulu Mahakam
         content_align: center
+        subtitle: Gpra
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
