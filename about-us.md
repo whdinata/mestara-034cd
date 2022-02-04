@@ -17,13 +17,13 @@ sections:
     image: images/4a Mestara berdaya.png
     content: >
       Mestara is an Indonesia **women-led** organisation, with a drive to
-      **empower Indonesian female **students and graduates in career
+      **empower Indonesian female** students and graduates in career
       advancement, while breaking down the social and cultural factors
       perpetuating early marriage and poverty.
 
 
-      We work towards a vision in which Indonesian women have fair and equal
-      opportunities to pursue their dreams so that they could transform their
+      We work towards a vision in which Indonesian women have **fair and equal
+      opportunities** to pursue their dreams so that they could transform their
       lives and exit poverty for good.
   - type: grid_section
     title: Our why
