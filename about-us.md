@@ -226,7 +226,7 @@ sections:
     padding_top: medium
     grid_gap_horiz: small
   - type: cta_section
-    title: Support us t
+    title: Support us
     actions:
       - label: Donate
         url: /donate
