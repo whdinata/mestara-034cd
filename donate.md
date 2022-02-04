@@ -50,7 +50,7 @@ sections:
   - actions:
       - label: Donate via Other Method
         url: /general-enquiries
-        style: link
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
