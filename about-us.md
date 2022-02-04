@@ -107,11 +107,6 @@ sections:
         content: |
           Manager, Analytics & Business Modelling at Ernst & Young London
         image: images/Shieron-modified.png
-      - title: Galuh Mauliditya
-        subtitle: Data Engineer - PT Pertamina Hulu Mahakam
-        title_align: center
-        image: images/Galuh_Photo 2021.JPG
-        image_position: top
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
@@ -158,6 +153,11 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+      - title: Galuh Mauliditya
+        subtitle: Data Engineer - PT Pertamina Hulu Mahakam
+        title_align: center
+        image: images/Galuh_Photo 2021.JPG
+        image_position: top
     grid_cols: four
     align: center
     background_color: primary
