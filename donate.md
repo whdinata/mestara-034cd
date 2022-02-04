@@ -47,8 +47,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - title: lorem-ipsum
-    actions:
+  - actions:
       - label: lorem-ipsum
         url: '#'
         style: link
