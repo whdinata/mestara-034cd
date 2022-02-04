@@ -163,7 +163,7 @@ sections:
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
-        image_width: fifty
+        image_width: twenty-five
         image_align: left
         image_has_padding: false
         title: Sanya Gabriella
