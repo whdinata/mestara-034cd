@@ -209,7 +209,7 @@ sections:
         image: images/Umroh Dian Sulistyah-modified.png
       - title_align: left
         content: >
-          *Mentor Mestara sangat Supportive dan membantu saya dengan membuat
+          *Mentor Mestara sangat supportive dan membantu saya dengan membuat
           plan untuk switching career dan mapping career step selanjutnya.
           Sekarang saya udah ga ngerasa lost lagi dengan adanya mentoring dari
           Mestara.*
