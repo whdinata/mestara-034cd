@@ -35,7 +35,7 @@ sections:
           - Mestara Berdaya
           - Donation
           - General inquiry
-          - lorem-ipsum
+          - 'General '
         is_required: true
       - input_type: textarea
         name: message
