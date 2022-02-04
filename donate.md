@@ -2,7 +2,7 @@
 title: Donate
 sections:
   - type: hero_section
-    title: Thank you for your donation!
+    title: Thank you for choosing to donate with us!
     subtitle: >-
       We're really glad that you are willing to support our women empowerment
       movement. Cheers to a better future!
