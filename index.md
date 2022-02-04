@@ -187,7 +187,7 @@ sections:
         image_width: twenty-five
         image_align: left
         image_has_padding: false
-        image: images/miles-tone.png
+        image: images/Rifdah Azhaari-modified.png
       - title_align: left
         content: >
           *My mentor assisted me to develop an energy management strategy and
