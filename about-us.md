@@ -155,6 +155,18 @@ sections:
         image_align: center
         image_has_padding: false
         image: images/Melisa-modified.png
+      - title_align: center
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: twenty-five
+        image_align: center
+        image_has_padding: false
+        title: Adinda Anjani
+        subtitle: Program Development Associate
+        image: images/Adinda-modified.png
       - subtitle: Partnership & Insights Analyst
         title_align: center
         content_align: center
@@ -207,18 +219,6 @@ sections:
         image_align: center
         image_has_padding: false
         image: images/Dilla-modified.png
-      - title_align: center
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: twenty-five
-        image_align: center
-        image_has_padding: false
-        title: Adinda Anjani
-        subtitle: Program Development Associate
-        image: images/Adinda-modified.png
     grid_cols: four
     align: center
     background_color: primary
