@@ -79,7 +79,7 @@ sections:
         title_align: center
         image: images/Galuh-square.jpeg
         image_position: top
-        subtitle: Strategic
+        subtitle: Strategic Partnership at Google
         image_has_padding: false
       - title: Steffi Melinda
         title_align: center
