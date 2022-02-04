@@ -56,7 +56,7 @@ sections:
         icon_position: center
         new_window: false
         no_follow: false
-    actions_position: bottom
+    actions_position: top
     actions_width: fourty
     align: left
     padding_top: medium
