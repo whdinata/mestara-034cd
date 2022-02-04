@@ -83,6 +83,7 @@ sections:
         image_has_padding: false
         content: |
           Strategic Partnership Development Manager at Google Indonesia
+        content_align: center
       - title: Steffi Melinda
         title_align: center
         image: images/DSCF6268.jpg
