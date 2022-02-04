@@ -77,7 +77,7 @@ sections:
     grid_items:
       - title: Galuh Ainur Rohmah
         title_align: center
-        image: images/Galuh-square.jpeg
+        image: images/Igha-modified.png
         image_position: top
         subtitle: Co-founder at Mestara
         image_has_padding: false
