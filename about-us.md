@@ -183,7 +183,7 @@ sections:
         image: images/Nandini-modified.png
       - title: Felicia Angelique S
         subtitle: Social Media Manager
-        title_align: left
+        title_align: center
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
