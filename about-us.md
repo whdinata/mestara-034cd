@@ -144,6 +144,7 @@ sections:
     background_color: primary
     enable_cards: false
     padding_top: medium
+    grid_gap_horiz: medium
   - type: cta_section
     title: Join our movement
     actions:
