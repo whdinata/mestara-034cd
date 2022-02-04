@@ -82,9 +82,9 @@ sections:
       - title: Mestara One-on-Ones
         title_align: left
         content: >
-          Our 60 minutes long coaching program for final year female students or
-          recent graduates that will help to gain industry insights and provide
-          career guidance from Indonesian progressional women.
+          Our 50-minute coaching program for final year female students or
+          recent graduates helps them to gain industry insights and provide
+          career guidance from Indonesian professional women.
         content_align: left
         actions:
           - label: Learn More
