@@ -15,7 +15,7 @@ sections:
     padding_top: large
     padding_bottom: small
     actions:
-      - label: lorem-ipsum
+      - label: Donate via other method
         url: '#'
         style: link
         has_icon: false
