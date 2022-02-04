@@ -129,6 +129,7 @@ sections:
         image_position: top
         content: |
           Data Engineer - PT Pertamina Hulu Mahakam
+        content_align: center
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
