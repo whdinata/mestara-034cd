@@ -8,7 +8,7 @@ sections:
 
       Have a question? Send us a note using the form and we will be in touch
       soon.
-    content_align: left
+    content_align: center
     form_position: right
     form_width: fifty
     form_layout: stacked
