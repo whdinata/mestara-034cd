@@ -48,7 +48,7 @@ sections:
     has_border: false
     background_color: none
   - actions:
-      - label: lorem-ipsum
+      - label: Donate with Other Method
         url: '#'
         style: link
         has_icon: false
