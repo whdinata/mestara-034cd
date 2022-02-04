@@ -149,15 +149,16 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          *Mentoring  sangat sesuai dengan  kebutuhan aku saat ini, terutama
-          coachingnya yang bener-bener ngebantu buat nge-clearin banyak maunya
-          freshgrad. Worth it yaa karena paketnya juga lengkap. Selain itu
-          komunikasi sama mentor disini atau Mesties lainnya juga tetep
-          tersambung lho! Seru, jadi punya banyak pengalaman dari latar belakang
-          yang berbeda-beda*
+          *Program Mestara Mentorship sangat sesuai dengan  kebutuhan aku saat
+          ini, terutama coachingnya yang bener-bener ngebantu buat nge-clearin
+          banyak maunya freshgrad. Worth it yaa karena paketnya juga lengkap.
+          Selain itu komunikasi sama mentor disini atau Mesties lainnya juga
+          tetep tersambung lho! Seru, jadi punya banyak pengalaman dari latar
+          belakang yang berbeda-beda*
 
 
-          **Nadiatullah Tsuraya Fauziah,** *Mestara Mentorship Batch 1*
+          **Nadiatullah Tsuraya Fauziah,** Marketing and Sales Supervisor  -
+          Karier.mu by Sekolahmu & Asisten DPRD - DPRD Kota Surabaya
         content_align: left
         actions: []
         actions_align: left
