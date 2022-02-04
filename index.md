@@ -149,12 +149,12 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          Mentoring  sangat sesuai dengan  kebutuhan aku saat ini, terutama
+          *Mentoring  sangat sesuai dengan  kebutuhan aku saat ini, terutama
           coachingnya yang bener-bener ngebantu buat nge-clearin banyak maunya
           freshgrad. Worth it yaa karena paketnya juga lengkap. Selain itu
           komunikasi sama mentor disini atau Mesties lainnya juga tetep
           tersambung lho! Seru, jadi punya banyak pengalaman dari latar belakang
-          yang berbeda-beda
+          yang berbeda-beda*
 
 
           **Nadiatullah Tsuraya Fauziah,** *Mestara Mentorship Batch 1*
