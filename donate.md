@@ -7,8 +7,10 @@ sections:
       We're really glad that you are willing to support our women empowerment
       movement.
     content: >
-      Currently we could  In case you could not find what you prefer, please
-      contact us via [contact form](\general-enquiries).
+      Currently we could receive donation via QRIS (IDR) and via Paypal (EUR or
+      USD). In case you prefer to donate via different payment method, please
+      reach us via [contact form](\general-enquiries). We'd be happy to support
+      you! 
     align: center
     padding_top: large
     padding_bottom: small
