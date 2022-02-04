@@ -141,7 +141,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/Elisabeth-modified.png
-      - title: Melisa
+      - title: Melisa Nirmala Dewi
         subtitle: lorem-ipsum
         title_align: left
         content: >-
