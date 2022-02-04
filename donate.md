@@ -16,7 +16,7 @@ sections:
     padding_bottom: small
     actions:
       - label: Donate via other method
-        url: '#'
+        url: /general-enquiries
         style: link
         has_icon: false
         icon: arrow-left
