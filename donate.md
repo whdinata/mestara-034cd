@@ -49,7 +49,7 @@ sections:
     background_color: none
   - actions:
       - label: Donate via Other Method
-        url: '#'
+        url: /general-enquiries
         style: link
         has_icon: false
         icon: arrow-left
