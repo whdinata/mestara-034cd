@@ -219,6 +219,7 @@ sections:
         image_has_padding: false
         title: Adinda Anjani
         subtitle: Program Development Associate
+        image: images/Adinda-modified.png
     grid_cols: four
     align: center
     background_color: primary
