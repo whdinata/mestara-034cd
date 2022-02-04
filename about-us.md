@@ -252,7 +252,7 @@ sections:
         image_align: left
         image_has_padding: false
         title: Adinda Anjani
-        subtitle: Program Development
+        subtitle: Program Development Associa
     grid_cols: four
     align: center
     background_color: primary
