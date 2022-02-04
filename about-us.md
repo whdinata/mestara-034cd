@@ -108,7 +108,7 @@ sections:
           Manager, Analytics & Business Modelling at Ernst & Young London
         image: images/Shieron-modified.png
       - title: 'drg. Maureen Antolis, Sp.Ort'
-        subtitle: Community
+        subtitle: Community Manager
         title_align: center
         content: |
           Orthodontist
