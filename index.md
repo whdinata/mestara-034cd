@@ -201,11 +201,13 @@ sections:
         image: images/eleanor-carr.png
       - title_align: left
         content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          *Mentor Mestara sangat Supportive dan membantu saya dengan membuat
+          plan untuk switching career dan mapping career step selanjutnya.
+          Sekarang saya udah ga ngerasa lost lagi dengan adanya mentoring dari
+          Mestara.*
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **Maryam Halim**, Key Account Manager - Alibaba Cloud
         content_align: left
         actions: []
         actions_align: left
