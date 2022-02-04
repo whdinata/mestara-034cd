@@ -225,7 +225,7 @@ sections:
         image_width: twenty-five
         image_align: left
         image_has_padding: false
-        image: images/gordon-norman.png
+        image: images/Maryam Halim-modified.png
     grid_cols: two
     grid_gap_vert: large
     grid_gap_horiz: medium
