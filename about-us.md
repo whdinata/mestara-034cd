@@ -80,8 +80,8 @@ sections:
         image: images/Galuh-square.jpeg
         image_position: top
         subtitle: >-
-          Strategic Partnership Development Manager at Google Indonesia |
-          Manager, Analytics & Business Modelling at EY
+          Co-founder at MestaraStrategic Partnership Development Manager at
+          Google Indonesia
         image_has_padding: false
         content: |
           **Co-founder at Mestara**
