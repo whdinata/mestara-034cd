@@ -128,7 +128,7 @@ sections:
         image_position: top
         content_align: center
         subtitle: Graphic Designer
-      - title: lorem-ipsum
+      - title: Elisabeth Sandi
         subtitle: lorem-ipsum
         title_align: left
         content: >-
