@@ -103,7 +103,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        subtitle: Partnership & Insights
+        subtitle: Partnership & Insights Manager
         content: |
           Manager, Analytics & Business Modelling at Ernst & Young London
         image: images/Shieron-modified.png
