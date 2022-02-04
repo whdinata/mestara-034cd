@@ -33,7 +33,7 @@ sections:
         options:
           - Mestara Programme
           - Mestara Berdaya
-          - Sponsorship
+          - Donation
           - General inquiry
         is_required: true
       - input_type: textarea
