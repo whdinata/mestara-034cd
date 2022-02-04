@@ -90,7 +90,7 @@ sections:
         image_position: top
         subtitle: Co-founder at Mestara
         content: |
-          Senior Manager of Data Science & Analytics at Delivery Hero Germany
+          Head of Competitive Intelligence at Delivery Hero Germany
         content_align: center
       - title: Shieron Ang
         title_align: left
