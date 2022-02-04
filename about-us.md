@@ -207,8 +207,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: images/Dilla-modified.png
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
