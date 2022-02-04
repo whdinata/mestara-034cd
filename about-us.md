@@ -214,7 +214,7 @@ sections:
         actions_width: auto
         image_position: top
         image_width: twenty-five
-        image_align: left
+        image_align: center
         image_has_padding: false
         title: Adinda Anjani
         subtitle: Program Development Associate
