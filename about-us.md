@@ -139,7 +139,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-    grid_cols: three
+    grid_cols: four
     align: center
     background_color: primary
     enable_cards: false
