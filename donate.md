@@ -7,8 +7,8 @@ sections:
       We're really glad that you are willing to support our women empowerment
       movement. Cheers to a better future!
     content: >
-      We receive below payment methods. In case you could not find what you
-      prefer, please contact us via [contact form](\general-enquiries).
+      Currently we could  In case you could not find what you prefer, please
+      contact us via [contact form](\general-enquiries).
     align: center
     padding_top: large
     padding_bottom: small
