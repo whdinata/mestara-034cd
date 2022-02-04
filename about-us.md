@@ -260,6 +260,9 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+    content: >
+      You can join our movement to empower women by donation to our specific
+      programs, promoting us through social media or partnership with us.
   - title_align: center
     content_align: left
     form_position: right
