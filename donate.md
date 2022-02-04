@@ -45,6 +45,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+    align: center
   - actions:
       - label: Donate via Other Method
         url: /general-enquiries
