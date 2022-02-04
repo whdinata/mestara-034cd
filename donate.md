@@ -5,7 +5,7 @@ sections:
     title: Thank you for choosing to donate with us!
     subtitle: >-
       We're really glad that you are willing to support our women empowerment
-      movement. Cheers to a better future!
+      movement.
     content: >
       Currently we could  In case you could not find what you prefer, please
       contact us via [contact form](\general-enquiries).
