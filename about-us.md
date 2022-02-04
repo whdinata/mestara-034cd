@@ -85,9 +85,7 @@ sections:
         title_align: center
         image: images/DSCF6268.jpg
         image_position: top
-        subtitle: >-
-          Senior Manager of Data Science & Analytics at Delivery Hero SE,
-          Germany
+        subtitle: Senior Manager of Data Science & Analytics at Delivery Hero Germany
       - title: Shieron Ang
         title_align: left
         content: >-
