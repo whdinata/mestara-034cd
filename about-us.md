@@ -93,7 +93,7 @@ sections:
           Head of Competitive Intelligence at Delivery Hero Germany
         content_align: center
       - title: Shieron Ang
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
