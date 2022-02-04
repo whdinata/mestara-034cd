@@ -106,9 +106,9 @@ sections:
       - title: Mestara Webinar
         title_align: left
         content: >
-          Our monthly webinar program that will help female students to have a
-          stand out job application and get hired in the competitive national
-          and even global job market.
+          Our monthly webinar programs help female students address common
+          challenges that female student and recent graduates often face by
+          connecting them with experts and professionals in the field.
         content_align: left
         actions:
           - label: Learn More
