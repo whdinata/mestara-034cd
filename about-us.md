@@ -108,7 +108,7 @@ sections:
           Manager, Analytics & Business Modelling at Ernst & Young London
         image: images/Shieron-modified.png
       - title: 'drg. Maureen Antolis, Sp.Ort'
-        subtitle: lorem-ipsum
+        subtitle: Community
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
