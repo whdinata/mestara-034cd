@@ -258,7 +258,7 @@ sections:
     background_color: secondary
     enable_cards: true
   - type: cta_section
-    title: Want to participate?
+    title: Join us for
     content: >-
       We ask for 450.000 IDR as commitment fee for each mentee. 
 
