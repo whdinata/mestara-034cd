@@ -23,9 +23,7 @@ sections:
     image: images/Mestara Webinar_1.png
   - title: Our Previous Webinar
     features:
-      - content: |
-          *
-        actions: []
+      - actions: []
         image_alt: lorem-ipsum
         media_position: right
         media_width: fifty
