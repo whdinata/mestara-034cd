@@ -154,6 +154,7 @@ sections:
         content: |
           *   Improve communication skills in business settings
           *   Understand specific industry through talkshow
+          *   Business case project
         content_align: left
       - title: Week 3
         title_align: left
