@@ -56,12 +56,6 @@ sections:
           3 - 4 mentee in a project group to discuss and solve real business
           problems
         image: images/IMG_6020.JPG
-      - content: >
-          With limited number of mentors so far, we will select 40 mentees from
-          different cities, universities and backgrounds. This way, we can make
-          sure that everyone gets equal attention and good quality of coaching.
-        media_position: center
-        media_width: fifty
       - title: Networking
         subtitle: >-
           Every two weeks during mentorship, mentees will catch up among each
@@ -72,6 +66,12 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+      - content: >
+          With limited number of mentors so far, we will select 40 mentees from
+          different cities, universities and backgrounds. This way, we can make
+          sure that everyone gets equal attention and good quality of coaching.
+        media_position: center
+        media_width: fifty
     title: Programme Structure
   - title: Mentees Testimonials
     actions: []
