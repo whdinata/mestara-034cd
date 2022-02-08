@@ -79,7 +79,7 @@ sections:
         image_width: twenty-five
         image_align: left
         image_has_padding: false
-        image: images/language-icon.png
+        image: images/conflict-icon.png
       - title: How to express your disagreement
         title_align: left
         content_align: left
