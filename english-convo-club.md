@@ -181,7 +181,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/brandon-guidelines.png
+        image: images/Rifdah Azhaari-modified.png
       - title_align: left
         content: >
           I am very grateful that I enrolled MCC because this is one of the best
