@@ -184,6 +184,26 @@ sections:
         image: images/Rifdah Azhaari-modified.png
       - title_align: left
         content: >
+          Confidence is built in a great environment.  Through MCC, i gain
+          confidence, met new friends and they encourage me to speak in English
+          even when i can’t speak fluently. All the participants and mentors are
+          supportive and wont judge you! This club was awesome!
+
+
+          **Nabila Hafsha Arissunarso***, Verificator Staff Intern at PT.
+          Properindo Enviro Tech (PET)*
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: left
+        image_width: thirty-three
+        image_align: left
+        image_has_padding: false
+        image: images/Nabila Hafsha Arissunarso.png
+      - title_align: left
+        content: >
           I am very grateful that I enrolled MCC because this is one of the best
           places to learn English with comfort and confidence. I met mentors who
           were caring, cool, and non-judgmental. My new friends here are also
@@ -203,26 +223,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/Shabrina Gozan-274bb827.png
-      - title_align: left
-        content: >
-          Confidence is built in a great environment.  Through MCC, i gain
-          confidence, met new friends and they encourage me to speak in English
-          even when i can’t speak fluently. All the participants and mentors are
-          supportive and wont judge you! This club was awesome!
-
-
-          **Nabila Hafsha Arissunarso***, Verificator Staff Intern at PT.
-          Properindo Enviro Tech (PET)*
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: left
-        image_width: thirty-three
-        image_align: left
-        image_has_padding: false
-        image: images/Nabila Hafsha Arissunarso.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
