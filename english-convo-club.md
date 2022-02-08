@@ -183,7 +183,16 @@ sections:
         image_has_padding: false
         image: images/brandon-guidelines.png
       - title_align: left
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus.\n\n**Hanson Deck,**\_*App Developer, Studio*\n"
+        content: >
+          I am very grateful that I enrolled MCC because this is one of the best
+          places to learn English with comfort and confidence. I met mentors who
+          were caring, cool, and non-judgmental. My new friends here are also
+          supportive and everyone has a high enthusiasm for learning! No regrets
+          at all joining MCC
+
+
+          **Shabrina Gozan**, Undergraduate student at School of Electrical
+          Engineering and Informatics, Bandung Institute of Technology
         content_align: left
         actions: []
         actions_align: left
