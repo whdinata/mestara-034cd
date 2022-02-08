@@ -9,7 +9,7 @@ sections:
       and be more fluent!
     actions:
       - label: Join Now
-        url: 'https://forms.gle/Q1kwdyrYhv5tk2cd6'
+        url: '#https://forms.gle/Q1kwdyrYhv5tk2cd6'
         style: primary
         has_icon: false
         icon: arrow-left
