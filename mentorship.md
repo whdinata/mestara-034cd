@@ -114,7 +114,7 @@ sections:
         image_width: thirty-three
         image_align: left
         image_has_padding: true
-        image: images/nadia.jpg
+        image: images/5 Mentorship.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
