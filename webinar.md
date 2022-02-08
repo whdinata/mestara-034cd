@@ -24,7 +24,7 @@ sections:
   - title: Our Previous Webinars
     actions: []
     grid_items:
-      - title: August 2021
+      - title: September 2021
         title_align: left
         content_align: left
         actions: []
