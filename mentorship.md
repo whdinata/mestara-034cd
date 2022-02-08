@@ -175,6 +175,7 @@ sections:
         content: |
           *   Rock your job interview
           *   Final presentation on capstone project
+          *   1:1 Career coach
         content_align: left
       - title: Week 6
         title_align: left
