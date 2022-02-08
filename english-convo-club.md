@@ -55,7 +55,7 @@ sections:
         image_width: twenty-five
         image_align: left
         image_has_padding: false
-        image: images/9f6a22d4386e9642251668421cf848f3-3b9e1657.png
+        image: images/negotiation-icon.png
       - title: New Idiom & Vocabularies
         title_align: left
         content_align: left
