@@ -63,7 +63,7 @@ sections:
           sure that everyone gets equal attention and good quality of coaching.
         media_position: center
         media_width: fifty
-      - title: lorem-ipsum
+      - title: Business Case Study
         subtitle: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
