@@ -25,18 +25,8 @@ sections:
     features:
       - title: Preparing for Life After University & Overcoming Post-Grad Blues
         subtitle: 'Saturday, 18 Sep 2020'
-        content: >
-          During this webinar we will discuss the following:
-
-
-          *   What are the common symptoms of post-grad blues and how to
-          overcome them
-
-
-          *   How to handle the high expectations of university graduates
-
-
-          *   How to mentally prepare for life after university
+        content: |
+          *
         actions: []
         image_alt: lorem-ipsum
         media_position: right
