@@ -41,11 +41,8 @@ sections:
         media_width: fifty
         actions: []
       - title: Business Case Study
-        content: >
-          Working in a group project to solve real business problems during 5
-          weeks of Mentorship with final presentation at the end. Group is
-          diversify based on education background, university so our mentees get
-          to network and work with diverse people
+        content: |
+          Project group to sharpen business and enterpreneurship skills. 
         actions: []
         image_alt: lorem-ipsum
         media_position: top
