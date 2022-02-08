@@ -49,10 +49,7 @@ sections:
         media_width: fifty
         align: left
         image: images/10.jpg
-      - title: >-
-          The Ultimate Dilemma: Pursuing Master's Degree of Finding Work
-          Experiences?
-        subtitle: 'Saturday, 25 Sep 2021'
+      - subtitle: 'Saturday, 25 Sep 2021'
         content: >
           During this webinar we will discuss:
 
