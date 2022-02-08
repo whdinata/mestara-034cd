@@ -26,7 +26,7 @@ sections:
           Mentees will be divided to small groups where they will work together
           to solve a complex problem to sharpen their critical & entrepreneurial
           thinking.
-        image: images/about-3.jpg
+        image: images/Coaching.png
         media_position: right
         media_width: fifty
         actions:
