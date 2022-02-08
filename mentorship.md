@@ -67,11 +67,7 @@ sections:
         media_width: fifty
         align: left
         image: images/Screenshot 2021-08-15 at 10.17.06.png
-      - content: >
-          With limited number of mentors so far, we will select 40 mentees from
-          different cities, universities and backgrounds. This way, we can make
-          sure that everyone gets equal attention and good quality of coaching.
-        media_position: center
+      - media_position: center
         media_width: fifty
     title: Programme Structure
   - title: Mentees Testimonials
