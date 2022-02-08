@@ -32,9 +32,10 @@ sections:
         subtitle: >-
           Weekly webinar and talkshow series presented by expert women in the
           field
-        content: >-
-          The webinars cover different topics to navigate life after university
-          and successfully transition into their career.
+        content: >
+          Various topics during webinar and talkshow that are useful to unfold
+          life after university and navigate career during first until second
+          year
         image: images/Faye.png
         media_position: left
         media_width: fifty
