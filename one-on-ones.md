@@ -8,7 +8,8 @@ sections:
       career guidance from Indonesian progressional women.
     actions:
       - label: Register Now
-        url: '#bit.ly/mestara-coaching'
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSfSN722eBz2Vd2rwVDdDbUbWf9CcTCIWo58ZGjpIfyGfPedlQ/viewform
         style: primary
         has_icon: false
         icon: arrow-left
