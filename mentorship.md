@@ -168,6 +168,7 @@ sections:
         content: |
           *   How to maximise and build network
           *   Other industries overview
+          *   Social night
         content_align: left
       - title: Week 5
         title_align: left
