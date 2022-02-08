@@ -29,8 +29,7 @@ sections:
         media_width: fifty
         align: left
         image: images/3.jpg
-      - title: Choosing a career for passionless & multi-passionate graduates
-        subtitle: 'Sunday, 19 Sep 2021'
+      - subtitle: 'Sunday, 19 Sep 2021'
         content: >
           During this webinar we will discuss:
 
