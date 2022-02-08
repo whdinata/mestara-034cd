@@ -257,24 +257,6 @@ sections:
     align: center
     background_color: secondary
     enable_cards: true
-  - type: cta_section
-    title: Join us for
-    content: >-
-      We ask for 450.000 IDR as commitment fee for each mentee. 
-
-
-      All proceeds of this program will go to [Mestara Berdaya](/berdaya)
-      program.
-    actions:
-      - label: Join as Mentor
-        url: 'https://forms.gle/GoWra9BcYhMv2S2T6'
-        style: primary
-    actions_position: right
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
 seo:
   title: Mestara Mentorship
   description: >-
