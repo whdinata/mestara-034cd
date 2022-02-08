@@ -11,9 +11,11 @@ sections:
     image: images/5 Mentorship.png
     media_position: left
     content: |
-      First Batch : 10 Jul - 14 Aug 2021
+      1st Batch : 10 Jul - 14 Aug 2021
 
-      Second Batch : 13 Nov - 18 Dec 2021
+      2nd Batch : 13 Nov - 18 Dec 2021
+
+      3rd Batch : Coming Soon!
   - type: features_section
     features:
       - title: Individual Coaching
