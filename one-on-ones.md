@@ -154,7 +154,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: lorem-ipsum
+  - title: Top Tip on Making the Most of Our Session
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
