@@ -58,7 +58,6 @@ sections:
             new_window: false
             no_follow: false
       - title: Business Case Study
-        subtitle: lorem-ipsum
         content: >
           Project group to solve real business problems during 5 weeks of
           Mentorship with final presentation at the end. Group is diversify
