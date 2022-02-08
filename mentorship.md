@@ -16,14 +16,6 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-      - label: Join as Mentor
-        url: '#'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
     image: images/5 Mentorship.png
     media_position: left
   - type: features_section
