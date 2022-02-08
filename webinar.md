@@ -22,7 +22,6 @@ sections:
     type: hero_section
     image: images/Mestara Webinar_1.png
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: lorem-ipsum
