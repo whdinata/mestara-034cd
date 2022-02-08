@@ -160,7 +160,7 @@ sections:
         content: |
           *   How to win in the job market
           *   Financial literacy for fresh graduate
-          *   1:1 coaching
+          *   1:1 Career Coach
         content_align: left
       - title: Week 4
         title_align: left
