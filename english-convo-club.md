@@ -202,7 +202,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/brandon-guidelines.png
+        image: images/Shabrina Gozan.png
       - title_align: left
         content: >
           Confidence is built in a great environment.  Through MCC, i gain
