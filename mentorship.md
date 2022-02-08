@@ -152,7 +152,7 @@ sections:
       - title: Week 2
         title_align: left
         content: |
-          *   Improve your communication skills 
+          *   Improve communication skills in business settings
           *   Understand specific industry through talkshow
         content_align: left
       - title: Week 3
