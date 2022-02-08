@@ -157,7 +157,6 @@ sections:
   - title: Top Tips on Making the Most of Our Session
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >
           *   Don't forget to provide objective / background briefly ahead of
           the session
