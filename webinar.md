@@ -23,8 +23,7 @@ sections:
     image: images/Mestara Webinar_1.png
   - title: Our Previous Webinar
     features:
-      - subtitle: 'Saturday, 18 Sep 2020'
-        content: |
+      - content: |
           *
         actions: []
         image_alt: lorem-ipsum
