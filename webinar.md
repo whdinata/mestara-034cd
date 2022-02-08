@@ -24,7 +24,7 @@ sections:
   - title: Our Previous Webinars
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: August 2021
         subtitle: lorem-ipsum
         title_align: left
         content: >-
