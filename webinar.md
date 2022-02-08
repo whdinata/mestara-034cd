@@ -25,7 +25,6 @@ sections:
     actions: []
     grid_items:
       - title: August 2021
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
