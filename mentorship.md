@@ -177,9 +177,9 @@ sections:
         content_align: left
       - title: Week 6
         title_align: left
-        content: |-
-          - Project presentation
-          - Feedback & closing
+        content: |
+          *   Focus Group Discussion
+          *   Closing
         content_align: left
     grid_cols: three
     grid_gap_horiz: medium
