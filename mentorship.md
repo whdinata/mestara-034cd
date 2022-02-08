@@ -24,6 +24,10 @@ sections:
         media_position: right
         media_width: fifty
         actions: []
+        content: >
+          During 1:1 coaching, mentee could discuss career or study plan,
+          including long and short term goal. Mentor will assist the mentee to
+          navigate their career forward
       - title: Webinar
         subtitle: >-
           Weekly webinar and talkshow series presented by expert women in the
