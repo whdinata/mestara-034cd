@@ -59,7 +59,10 @@ sections:
         media_position: center
         media_width: fifty
       - title: Networking
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Every two weeks during mentorship, mentees will catch up among each
+          other through social activity and games that will nurture strong
+          network among mentee and mentors
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
