@@ -67,7 +67,7 @@ sections:
         image_width: twenty-five
         image_align: left
         image_has_padding: false
-        image: images/arbitration-icon.png
+        image: images/review-icon.png
       - title: How to avoid rambling bla bla bla
         title_align: left
         content_align: left
