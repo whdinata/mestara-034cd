@@ -261,9 +261,6 @@ sections:
       All proceeds of this program will go to [Mestara Berdaya](/berdaya)
       program.
     actions:
-      - label: Join as Mentee
-        url: 'https://forms.gle/bi5YhTcHWZpoPdoS9'
-        style: primary
       - label: Join as Mentor
         url: 'https://forms.gle/GoWra9BcYhMv2S2T6'
         style: primary
