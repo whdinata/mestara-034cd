@@ -49,8 +49,7 @@ sections:
         media_width: fifty
         align: left
         image: images/10.jpg
-      - subtitle: 'Saturday, 25 Sep 2021'
-        actions: []
+      - actions: []
         image_alt: lorem-ipsum
         media_position: right
         media_width: fifty
