@@ -204,7 +204,15 @@ sections:
         image_has_padding: false
         image: images/brandon-guidelines.png
       - title_align: left
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus.\n\n**Miles Tone,**\_*CEO, Studio*\n"
+        content: >
+          Confidence is built in a great environment.  Through MCC, i gain
+          confidence, met new friends and they encourage me to speak in English
+          even when i can’t speak fluently. All the participants and mentors are
+          supportive and wont judge you! This club was awesome!
+
+
+          **Nabila Hafsha Arissunarso***, Verificator Staff Intern at PT.
+          Properindo Enviro Tech (PET)*
         content_align: left
         actions: []
         actions_align: left
