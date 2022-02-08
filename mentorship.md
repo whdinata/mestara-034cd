@@ -19,7 +19,7 @@ sections:
   - type: features_section
     features:
       - title: Individual Coaching
-        subtitle: Each mentee will receive
+        subtitle: 'Each mentee will receive a mentor during 1:1 coaching'
         image: images/Coaching.png
         media_position: right
         media_width: fifty
