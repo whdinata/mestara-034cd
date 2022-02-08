@@ -40,15 +40,7 @@ sections:
         image: images/Faye.png
         media_position: left
         media_width: fifty
-        actions:
-          - label: Meet Our Speakers
-            url: '#'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
+        actions: []
       - title: Business Case Study
         content: >
           Project group to solve real business problems during 5 weeks of
