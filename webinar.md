@@ -47,6 +47,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/10. Oct - 6-2.png
       - title: November 2021
         title_align: left
         content_align: left
