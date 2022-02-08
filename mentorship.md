@@ -151,11 +151,9 @@ sections:
         content_align: left
       - title: Week 2
         title_align: left
-        content: |-
-          - Strategies for successful job search
-          - Communication skill
-          - Group mentoring
-          - Individual task
+        content: |
+          *   Improve your communication skills 
+          *   Understand specific industry through talkshow
         content_align: left
       - title: Week 3
         title_align: left
