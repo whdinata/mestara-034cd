@@ -171,10 +171,9 @@ sections:
         content_align: left
       - title: Week 5
         title_align: left
-        content: |-
-          - Personal branding 
-          - Fireside chat with the alpha women
-          - 1:1 Career coach
+        content: |
+          *   Rock your job interview
+          *   Final presentation on capstone project
         content_align: left
       - title: Week 6
         title_align: left
