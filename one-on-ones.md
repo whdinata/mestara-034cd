@@ -5,7 +5,7 @@ sections:
     content: >
       Our 50 minutes long coaching program for final year female students or
       recent graduates that will help to gain industry insights and provide
-      career guidance from Indonesian progressional women.
+      career guidance from Indonesian professional women.
     actions:
       - label: Register Now
         url: >-
