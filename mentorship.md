@@ -29,15 +29,7 @@ sections:
         image: images/Coaching.png
         media_position: right
         media_width: fifty
-        actions:
-          - label: Meet our Mentor
-            url: '#'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
+        actions: []
       - title: Webinar
         subtitle: >-
           Every week mentees will attend a webinar with women who work in the
