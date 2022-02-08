@@ -40,7 +40,7 @@ sections:
         media_position: left
         media_width: fifty
         actions: []
-      - title: Business Case Study
+      - title: Capstone Group Project
         content: >
           The aim is to sharpen business and enterpreneurship skills by solving
           real business problems during 5 weeks of Mentorship with final
