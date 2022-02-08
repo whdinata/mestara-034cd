@@ -63,7 +63,7 @@ sections:
           network among mentee and mentors
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: left
         media_width: fifty
         align: left
         image: images/Screenshot 2021-08-15 at 10.17.06.png
