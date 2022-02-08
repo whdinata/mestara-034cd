@@ -156,8 +156,7 @@ sections:
     type: grid_section
   - title: Top Tips on Making the Most of Our Session
     features:
-      - title: lorem-ipsum
-        content: >
+      - content: >
           *   Don't forget to provide objective / background briefly ahead of
           the session
 
