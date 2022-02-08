@@ -45,7 +45,7 @@ sections:
         content: >-
           The webinars cover different topics to navigate life after university
           and successfully transition into their career.
-        image: images/about-2.jpg
+        image: images/Faye.png
         media_position: left
         media_width: fifty
         actions:
