@@ -157,10 +157,9 @@ sections:
         content_align: left
       - title: Week 3
         title_align: left
-        content: |-
-          - Design thinking & entrepreneurial problem solving
-          - Group task
-          - 1:1 Career coach
+        content: |
+          *   Win the job market
+          *   Financial literacy for fresh graduate
         content_align: left
       - title: Week 4
         title_align: left
