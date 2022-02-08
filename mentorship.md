@@ -96,7 +96,7 @@ sections:
         image_width: thirty-three
         image_align: left
         image_has_padding: false
-        image: images/brandon-guidelines.png
+        image: images/1636125031652.png
       - title_align: left
         content: >
           I have improved many things during my 6 weeks as a Mestara mentee,
