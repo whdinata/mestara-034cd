@@ -35,6 +35,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/1.jpg
       - title: October 2021
         title_align: left
         content_align: left
