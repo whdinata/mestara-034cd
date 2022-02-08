@@ -30,12 +30,11 @@ sections:
     grid_items:
       - title: Mestara Mentorship
         title_align: left
-        content: >+
+        content: >
           Through 6-week mentorship program, we are helping female recent
           graduates to build self-confidence to develop life and career plans,
           professional networking, career options explorations, and internship
           program with our partner companies.
-
         content_align: left
         actions:
           - label: Learn More
