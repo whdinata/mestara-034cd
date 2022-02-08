@@ -137,7 +137,7 @@ sections:
       - title: Only 250K per person
         actions:
           - label: Join Now
-            url: '#'
+            url: '#https://forms.gle/Q1kwdyrYhv5tk2cd6'
             style: secondary
             has_icon: false
             icon: arrow-left
