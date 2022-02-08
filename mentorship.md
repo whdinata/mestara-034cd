@@ -49,7 +49,7 @@ sections:
           diverse people
         actions: []
         image_alt: lorem-ipsum
-        media_position: left
+        media_position: right
         media_width: fifty
         align: left
         subtitle: >-
