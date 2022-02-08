@@ -67,8 +67,6 @@ sections:
         media_width: fifty
         align: left
         image: images/Screenshot 2021-08-15 at 10.17.06.png
-      - media_position: center
-        media_width: fifty
     title: Programme Structure
   - title: Mentees Testimonials
     actions: []
