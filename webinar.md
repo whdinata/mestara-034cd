@@ -29,19 +29,7 @@ sections:
         media_width: fifty
         align: left
         image: images/3.jpg
-      - content: >
-          During this webinar we will discuss:
-
-
-          *   Career vs Passion: how to deal with it?
-
-
-          *   How to pursue your passion when you don't know what it is?
-
-
-          *   Drowning in career options: how to focus when you're
-          multi-passionate?
-        actions: []
+      - actions: []
         image_alt: lorem-ipsum
         media_position: left
         media_width: fifty
