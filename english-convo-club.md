@@ -191,7 +191,7 @@ sections:
           at all joining MCC
 
 
-          **Shabrina Gozan**, Undergraduate student at School of Electrical
+          **Shabrina Gozan**, Undergrad student at School of Electrical
           Engineering and Informatics, Bandung Institute of Technology
         content_align: left
         actions: []
