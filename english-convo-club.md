@@ -164,7 +164,14 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus.\n\n**Hanson Deck,**\_*App Developer, Studio*\n"
+        content: >
+          During MCC, I learned English without being judged. The discussion
+          topics is broad, ranging from national to international issues.
+          Moreover i obtain more insights by listening to podcasts, reading
+          articles, and listening to other people's opinions.
+
+
+          **Rifdah Azhaari***, Industrial Engineering Graduate*
         content_align: left
         actions: []
         actions_align: left
