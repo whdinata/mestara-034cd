@@ -20,10 +20,6 @@ sections:
     features:
       - title: Individual Coaching
         subtitle: Each mentee will receive
-        content: >-
-          Mentees will be divided to small groups where they will work together
-          to solve a complex problem to sharpen their critical & entrepreneurial
-          thinking.
         image: images/Coaching.png
         media_position: right
         media_width: fifty
