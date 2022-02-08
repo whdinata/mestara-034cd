@@ -23,8 +23,7 @@ sections:
     image: images/Mestara Webinar_1.png
   - title: Previous Webinar
     features:
-      - title: Preparing for Life After University & Overcoming Post-Grad Blues
-        subtitle: 'Saturday, 18 Sep 2020'
+      - subtitle: 'Saturday, 18 Sep 2020'
         content: |
           *
         actions: []
