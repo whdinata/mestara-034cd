@@ -164,10 +164,9 @@ sections:
         content_align: left
       - title: Week 4
         title_align: left
-        content: |-
-          - Ultimate personal finance guide
-          - Group mentoring
-          - Individual task
+        content: |
+          *   How to maximise and build network
+          *   Other industries overview
         content_align: left
       - title: Week 5
         title_align: left
