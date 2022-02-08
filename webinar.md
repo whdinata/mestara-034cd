@@ -21,7 +21,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Mestara Webinar_1.png
-  - title: Previous Webinar
+  - title: Our Previous Webinar
     features:
       - subtitle: 'Saturday, 18 Sep 2020'
         content: |
