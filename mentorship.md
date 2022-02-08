@@ -32,8 +32,8 @@ sections:
         actions: []
       - title: Webinar
         subtitle: >-
-          Every week mentees will attend a webinar with women who work in the
-          field as the speakers.
+          Weekly webinar and talkshow series presented by expert women in the
+          field
         content: >-
           The webinars cover different topics to navigate life after university
           and successfully transition into their career.
