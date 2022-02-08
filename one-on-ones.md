@@ -154,7 +154,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: Top Tip on Making the Most of Our Session
+  - title: Top Tips on Making the Most of Our Session
     features: []
     feature_padding_vert: medium
     align: center
