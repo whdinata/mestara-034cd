@@ -55,6 +55,7 @@ sections:
         subtitle: >-
           3 - 4 mentee in a project group to discuss and solve real business
           problems
+        image: images/IMG_6020.JPG
       - content: >
           With limited number of mentors so far, we will select 40 mentees from
           different cities, universities and backgrounds. This way, we can make
