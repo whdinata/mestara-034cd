@@ -50,19 +50,6 @@ sections:
         align: left
         image: images/10.jpg
       - subtitle: 'Saturday, 25 Sep 2021'
-        content: >
-          During this webinar we will discuss:
-
-
-          *   Key reasons in decision-making between pursuing master’s degree &
-          finding work experiences
-
-
-          *   When is the perfect timing to start considering \&applying for
-          master?
-
-
-          *   Factors to consider when choosing university and master course
         actions: []
         image_alt: lorem-ipsum
         media_position: right
