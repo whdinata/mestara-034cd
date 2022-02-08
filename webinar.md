@@ -29,8 +29,7 @@ sections:
         media_width: fifty
         align: left
         image: images/3.jpg
-      - subtitle: 'Sunday, 19 Sep 2021'
-        content: >
+      - content: >
           During this webinar we will discuss:
 
 
