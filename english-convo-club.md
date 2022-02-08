@@ -178,7 +178,7 @@ sections:
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: left
-        image_width: fifty
+        image_width: twenty-five
         image_align: left
         image_has_padding: false
         image: images/Rifdah Azhaari-modified.png
