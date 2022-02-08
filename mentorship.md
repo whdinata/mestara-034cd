@@ -66,6 +66,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: images/Screenshot 2021-08-15 at 10.17.06.png
       - content: >
           With limited number of mentors so far, we will select 40 mentees from
           different cities, universities and backgrounds. This way, we can make
