@@ -36,7 +36,8 @@ sections:
       - title: Be Your Best Version
         title_align: left
         content: |
-          *   Setting priorities & increasing productivity
+          *   Setting up priorities and increasing productivity
+
           *   Building self-confidence and communication skills
         content_align: left
         actions: []
