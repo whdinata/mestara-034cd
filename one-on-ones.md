@@ -50,7 +50,7 @@ sections:
       - title: Career Clarity
         title_align: left
         content: |
-          *   Career exploration & planning
+          *   Career exploration and planning
 
           *   Career shift
         content_align: left
