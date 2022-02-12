@@ -77,7 +77,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/Mestara Convo Club.png
+        image: images/Mestara Convo Club-ca013238.png
       - title: Mestara One-on-Ones
         title_align: left
         content: >
