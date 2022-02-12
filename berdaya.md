@@ -21,17 +21,19 @@ sections:
         media_position: left
         media_width: fifty
       - title: First empowerment program
-        content: >-
+        content: >
           Our first empowerment program will be done in an Islamic boarding
-          school, located in a small village in Bojonegoro, East Java. There are
-          20 girls (age 8-15) from low income families, live and study in this
-          Islamic boarding school.
+          school, located in a small village in Bojonegoro, East Java. Research
+          has shown that in 2020, the child marriage case in Bojonogero
+          increased by 207,5%. Many girls in the area will usually get married
+          right after finishing the school (aged 15-17), this makes them
+          vulnerable to domestic violence and enter poverty.
 
 
-          Many girls in the area will usually get married right after finishing
-          the school (aged 15-17), this makes them vulnerable to gender-based
-          violence and prevent them to enter the paid labour force and gaining
-          economic self-sufficiency.
+          Through sex health and welfare education, we thrive to raise the
+          society awareness. We also provide sewing training to15 girls (age 17
+          y.old) from low income families, ensuring they can make ready made
+          garments and earns sustainable income.
         image: images/106128052_1143155292716160_3945212674592544825_n.jpg
         media_position: right
         media_width: fifty
