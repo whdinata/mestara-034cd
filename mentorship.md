@@ -8,7 +8,7 @@ sections:
       potential.
     background_color: secondary
     actions: []
-    image: images/2 Landing Page.png
+    image: images/Mentroship.png
     media_position: left
     content: |
       1st Batch : 10 Jul - 14 Aug 2021
