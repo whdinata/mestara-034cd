@@ -8,7 +8,7 @@ sections:
       potential.
     background_color: secondary
     actions: []
-    image: images/Mentroship.png
+    image: images/Mestara Mentorship.png
     media_position: left
     content: |
       1st Batch : 10 Jul - 14 Aug 2021
