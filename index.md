@@ -23,7 +23,7 @@ sections:
     has_border: false
     background_image_position: center bottom
     background_image_repeat: no-repeat
-    image: images/Mestara Mentorship.png
+    image: images/2 Landing Page.png
     subtitle: Helping Indonesian women reach their full potential
   - title: Explore Our Programme
     actions: []
