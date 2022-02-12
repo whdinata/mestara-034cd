@@ -10,13 +10,7 @@ sections:
       - title: Women empower women
         subtitle: >-
           The goal of the program is to empowering and improving the life of
-          young women in rural area in Indonesia. 
-
-          We aim to promote the awareness of sexual health and their potential
-          in order to help them gain control of their own welfare. Mestara wants
-          to be part of empowering these women by provide them with skills that
-          enable them to be financially independent, resulting in a positive
-          change to escape poverty.
+          young women in rural area in Indonesia
         content: >-
           We provide free training for women who live in poor rural households,
           to help them discover income-generating opportunities and enhance
