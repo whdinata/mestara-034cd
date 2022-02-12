@@ -80,9 +80,14 @@ sections:
         image_has_padding: false
       - title: Pursuing Master's Degree
         title_align: left
-        content: |
-          *   Choosing majors, universities and scholarships
-          *   Preparation and application (essay review)
+        content: >
+          *   Choosing major / study, university, and scholarships for Master
+          programme
+
+
+          *   Preparation and application for essay review
+
+
           *   Mock interview
         content_align: left
         actions: []
