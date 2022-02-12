@@ -66,7 +66,8 @@ sections:
       - title: Job Application
         title_align: left
         content: |
-          *   Resume, cover letter & LinkedIn review
+          *   Resume, cover letter and LinkedIn review
+
           *   Mock interview
         content_align: left
         actions: []
